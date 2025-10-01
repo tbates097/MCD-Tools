@@ -1,0 +1,1719 @@
+MCD Config Files Examination
+Generated: 2025-06-25 11:09:18
+Source MCD: C:/Users/tbates/Documents/Automation1/643276-1-1 No Load.mcd
+================================================================================
+
+
+File: AppAeroScriptMappings
+--------------------------------------------------------------------------------
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<File SchemaVersion="1.0">
+  <FileInformation>
+    <SoftwareVersion>2.10.2.3124</SoftwareVersion>
+    <OldestCompatibleSoftwareVersion>2.5.0.0</OldestCompatibleSoftwareVersion>
+  </FileInformation>
+  <Data>
+    <IndustrialEthernetSignals>
+<ArrayOfIndustrialEthernetSignalEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /></IndustrialEthernetSignals>
+    <SignalCollection>
+<SignalCollection /></SignalCollection>
+  </Data>
+</File>
+
+================================================================================
+
+File: AxesSettings
+--------------------------------------------------------------------------------
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<File SchemaVersion="1.0">
+  <FileInformation>
+    <SoftwareVersion>2.10.2.3124</SoftwareVersion>
+    <OldestCompatibleSoftwareVersion>1.0.0.0</OldestCompatibleSoftwareVersion>
+  </FileInformation>
+  <Data>
+    <SerializedSettings>
+<ArrayOfAxisSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AxisSettings>
+    <Index>0</Index>
+    <DecimalPlaces>6</DecimalPlaces>
+    <Display>true</Display>
+    <JogMode>Speed</JogMode>
+    <JogDistance>50</JogDistance>
+    <JogSpeed>20</JogSpeed>
+  </AxisSettings>
+  <AxisSettings>
+    <Index>1</Index>
+    <DecimalPlaces>6</DecimalPlaces>
+    <Display>true</Display>
+    <JogMode>Speed</JogMode>
+    <JogDistance>100</JogDistance>
+    <JogSpeed>20</JogSpeed>
+  </AxisSettings>
+  <AxisSettings>
+    <Index>2</Index>
+    <DecimalPlaces>6</DecimalPlaces>
+    <Display>true</Display>
+    <JogMode>Speed</JogMode>
+    <JogDistance>180</JogDistance>
+    <JogSpeed>1</JogSpeed>
+  </AxisSettings>
+  <AxisSettings>
+    <Index>3</Index>
+    <DecimalPlaces>7</DecimalPlaces>
+    <Display>true</Display>
+    <JogMode>Speed</JogMode>
+    <JogDistance>180</JogDistance>
+    <JogSpeed>1</JogSpeed>
+  </AxisSettings>
+  <AxisSettings>
+    <Index>4</Index>
+    <DecimalPlaces>3</DecimalPlaces>
+    <Display>false</Display>
+    <JogMode>Speed</JogMode>
+    <JogDistance>NaN</JogDistance>
+    <JogSpeed>NaN</JogSpeed>
+  </AxisSettings>
+  <AxisSettings>
+    <Index>5</Index>
+    <DecimalPlaces>3</DecimalPlaces>
+    <Display>false</Display>
+    <JogMode>Speed</JogMode>
+    <JogDistance>NaN</JogDistance>
+    <JogSpeed>NaN</JogSpeed>
+  </AxisSettings>
+  <AxisSettings>
+    <Index>6</Index>
+    <DecimalPlaces>3</DecimalPlaces>
+    <Display>false</Display>
+    <JogMode>Speed</JogMode>
+    <JogDistance>NaN</JogDistance>
+    <JogSpeed>NaN</JogSpeed>
+  </AxisSettings>
+  <AxisSettings>
+    <Index>7</Index>
+    <DecimalPlaces>3</DecimalPlaces>
+    <Display>false</Display>
+    <JogMode>Speed</JogMode>
+    <JogDistance>NaN</JogDistance>
+    <JogSpeed>NaN</JogSpeed>
+  </AxisSettings>
+  <AxisSettings>
+    <Index>8</Index>
+    <DecimalPlaces>3</DecimalPlaces>
+    <Display>false</Display>
+    <JogMode>Speed</JogMode>
+    <JogDistance>NaN</JogDistance>
+    <JogSpeed>NaN</JogSpeed>
+  </AxisSettings>
+  <AxisSettings>
+    <Index>9</Index>
+    <DecimalPlaces>3</DecimalPlaces>
+    <Display>false</Display>
+    <JogMode>Speed</JogMode>
+    <JogDistance>NaN</JogDistance>
+    <JogSpeed>NaN</JogSpeed>
+  </AxisSettings>
+  <AxisSettings>
+    <Index>10</Index>
+    <DecimalPlaces>3</DecimalPlaces>
+    <Display>false</Display>
+    <JogMode>Speed</JogMode>
+    <JogDistance>NaN</JogDistance>
+    <JogSpeed>NaN</JogSpeed>
+  </AxisSettings>
+  <AxisSettings>
+    <Index>11</Index>
+    <DecimalPlaces>3</DecimalPlaces>
+    <Display>false</Display>
+    <JogMode>Speed</JogMode>
+    <JogDistance>NaN</JogDistance>
+    <JogSpeed>NaN</JogSpeed>
+  </AxisSettings>
+</ArrayOfAxisSettings></SerializedSettings>
+  </Data>
+</File>
+
+================================================================================
+
+File: ChecklistItems
+--------------------------------------------------------------------------------
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<File SchemaVersion="1.0">
+  <FileInformation>
+    <SoftwareVersion>2.10.2.3124</SoftwareVersion>
+    <OldestCompatibleSoftwareVersion>2.0.0.0</OldestCompatibleSoftwareVersion>
+  </FileInformation>
+  <Data>
+    <GeneratedAxes>
+<ArrayOfInt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <int>0</int>
+  <int>1</int>
+  <int>2</int>
+  <int>3</int>
+</ArrayOfInt></GeneratedAxes>
+    <AxisItems>
+<ArrayOfAxisChecklistItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>EasyTune</SystemConfigurationOperation>
+    <AxisIndex>0</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>EncoderTuning</SystemConfigurationOperation>
+    <AxisIndex>0</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Faults</SystemConfigurationOperation>
+    <AxisIndex>0</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Homing</SystemConfigurationOperation>
+    <AxisIndex>0</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Limits</SystemConfigurationOperation>
+    <AxisIndex>0</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Rates</SystemConfigurationOperation>
+    <AxisIndex>0</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Thresholds</SystemConfigurationOperation>
+    <AxisIndex>0</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>MotorPhasing</SystemConfigurationOperation>
+    <AxisIndex>0</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>ManualSignalVerification</SystemConfigurationOperation>
+    <AxisIndex>0</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>EasyTune</SystemConfigurationOperation>
+    <AxisIndex>1</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>EncoderTuning</SystemConfigurationOperation>
+    <AxisIndex>1</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Faults</SystemConfigurationOperation>
+    <AxisIndex>1</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Homing</SystemConfigurationOperation>
+    <AxisIndex>1</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Limits</SystemConfigurationOperation>
+    <AxisIndex>1</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Rates</SystemConfigurationOperation>
+    <AxisIndex>1</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Thresholds</SystemConfigurationOperation>
+    <AxisIndex>1</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>MotorPhasing</SystemConfigurationOperation>
+    <AxisIndex>1</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>ManualSignalVerification</SystemConfigurationOperation>
+    <AxisIndex>1</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>EasyTune</SystemConfigurationOperation>
+    <AxisIndex>2</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>EncoderTuning</SystemConfigurationOperation>
+    <AxisIndex>2</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Faults</SystemConfigurationOperation>
+    <AxisIndex>2</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Homing</SystemConfigurationOperation>
+    <AxisIndex>2</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Limits</SystemConfigurationOperation>
+    <AxisIndex>2</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Rates</SystemConfigurationOperation>
+    <AxisIndex>2</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Thresholds</SystemConfigurationOperation>
+    <AxisIndex>2</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>MotorPhasing</SystemConfigurationOperation>
+    <AxisIndex>2</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>ManualSignalVerification</SystemConfigurationOperation>
+    <AxisIndex>2</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>EasyTune</SystemConfigurationOperation>
+    <AxisIndex>3</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>EncoderTuning</SystemConfigurationOperation>
+    <AxisIndex>3</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Faults</SystemConfigurationOperation>
+    <AxisIndex>3</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Homing</SystemConfigurationOperation>
+    <AxisIndex>3</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Limits</SystemConfigurationOperation>
+    <AxisIndex>3</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Rates</SystemConfigurationOperation>
+    <AxisIndex>3</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>Thresholds</SystemConfigurationOperation>
+    <AxisIndex>3</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>MotorPhasing</SystemConfigurationOperation>
+    <AxisIndex>3</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+  <AxisChecklistItem>
+    <SystemConfigurationOperation>ManualSignalVerification</SystemConfigurationOperation>
+    <AxisIndex>3</AxisIndex>
+    <IsComplete>false</IsComplete>
+  </AxisChecklistItem>
+</ArrayOfAxisChecklistItem></AxisItems>
+  </Data>
+</File>
+
+================================================================================
+
+File: MachineSetupData
+--------------------------------------------------------------------------------
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<File SchemaVersion="1.0">
+  <FileInformation>
+    <SoftwareVersion>2.10.2.3124</SoftwareVersion>
+    <OldestCompatibleSoftwareVersion>1.0.0.0</OldestCompatibleSoftwareVersion>
+  </FileInformation>
+  <Data>
+    <PendingConfiguration>
+<MachineSetupConfiguration>
+  <ElectricalProducts />
+  <MechanicalProducts />
+  <Axes />
+</MachineSetupConfiguration></PendingConfiguration>
+    <IsMachineSetupComplete>True</IsMachineSetupComplete>
+    <Configuration>
+<MachineSetupConfiguration>
+  <ElectricalProducts>
+    <ElectricalProduct>
+      <Name>iXR3</Name>
+      <DisplayName>iXR3</DisplayName>
+      <SerialNumber>522196-1</SerialNumber>
+      <WasAutoDetected>true</WasAutoDetected>
+      <ShouldExclude>false</ShouldExclude>
+      <ConfiguredOptions>
+        <KeyValuePair>
+          <Key>Split Bus</Key>
+          <Value>-SB0</Value>
+        </KeyValuePair>
+        <KeyValuePair>
+          <Key>Bus Voltage 1</Key>
+          <Value>-VB4</Value>
+        </KeyValuePair>
+        <KeyValuePair>
+          <Key>Bus Voltage 2</Key>
+          <Value>-VB4</Value>
+        </KeyValuePair>
+        <KeyValuePair>
+          <Key>Axis 1 Controller Card</Key>
+          <Value>-CT2</Value>
+        </KeyValuePair>
+        <KeyValuePair>
+          <Key>Axis 2 Controller Card</Key>
+          <Value>2</Value>
+        </KeyValuePair>
+        <KeyValuePair>
+          <Key>Axis 3 Controller Card</Key>
+          <Value>2</Value>
+        </KeyValuePair>
+        <KeyValuePair>
+          <Key>Axis 4 Controller Card</Key>
+          <Value>2</Value>
+        </KeyValuePair>
+        <KeyValuePair>
+          <Key>Axis 5 Controller Card</Key>
+          <Value>0</Value>
+        </KeyValuePair>
+        <KeyValuePair>
+          <Key>Axis 6 Controller Card</Key>
+          <Value>0</Value>
+        </KeyValuePair>
+        <KeyValuePair>
+          <Key>Axis 1 Slice Power Module</Key>
+          <Value>-L1</Value>
+        </KeyValuePair>
+        <KeyValuePair>
+          <Key>Axis 2 Slice Power Module</Key>
+          <Value>L1</Value>
+        </KeyValuePair>
+        <KeyValuePair>
+          <Key>Axis 3 Slice Power Module</Key>
+          <Value>L1</Value>
+        </KeyValuePair>
+        <KeyValuePair>
+          <Key>Axis 4 Slice Power Module</Key>
+          <Value>P1</Value>
+        </KeyValuePair>
+        <KeyValuePair>
+          <Key>Axis 5 Slice Power Module</Key>
+          <Value>P0</Value>
+        </KeyValuePair>
+        <KeyValuePair>
+          <Key>Axis 6 Slice Power Module</Key>
+          <Value>P0</Value>
+        </KeyValuePair>
+      </ConfiguredOptions>
+      <ElectricalAxes>
+        <ElectricalAxis>
+          <DisplayName>iXR3 Axis 1</DisplayName>
+          <HyperWireCommunicationChannel>0</HyperWireCommunicationChannel>
+          <DriveComponent>
+            <Type>XR3_XSL3</Type>
+            <BusVoltage>80</BusVoltage>
+            <HasBipolarBusVoltage>true</HasBipolarBusVoltage>
+            <PeakCurrent>10</PeakCurrent>
+            <ContinuousCurrent>1.5</ContinuousCurrent>
+            <ServoRate>TwentykHz</ServoRate>
+            <AnalogInputUpdateRate>TwentykHz</AnalogInputUpdateRate>
+            <HasPrimaryMXSupport>true</HasPrimaryMXSupport>
+            <PrimaryFbkMaxMultiplier>65536</PrimaryFbkMaxMultiplier>
+            <HasAuxiliaryMXSupport>false</HasAuxiliaryMXSupport>
+            <AuxiliaryFbkMaxMultiplier>0</AuxiliaryFbkMaxMultiplier>
+            <SupportsSingleEndedEncoderInputs>false</SupportsSingleEndedEncoderInputs>
+            <SupportsClockDirection>false</SupportsClockDirection>
+            <SupportsGalvoInterface>false</SupportsGalvoInterface>
+            <HasBiSSEncoderSupport>true</HasBiSSEncoderSupport>
+            <HasEnDatEncoderSupport>true</HasEnDatEncoderSupport>
+            <RequiresServoOutputScaling>false</RequiresServoOutputScaling>
+            <CurrentLoopAmplifierDelay>25.4</CurrentLoopAmplifierDelay>
+            <CurrentLoopAmplifierGain>39.9</CurrentLoopAmplifierGain>
+            <CurrentLoopLowPassFilterResistance>1000</CurrentLoopLowPassFilterResistance>
+            <CurrentLoopLowPassFilterCapacitance>0.0091</CurrentLoopLowPassFilterCapacitance>
+            <CurrentLoopAmplifierRolloffFilterResistance>15000</CurrentLoopAmplifierRolloffFilterResistance>
+            <CurrentLoopAmplifierRolloffFilterCapacitance>0.00073</CurrentLoopAmplifierRolloffFilterCapacitance>
+            <CurrentLoopShouldIncludeZOHDelay>true</CurrentLoopShouldIncludeZOHDelay>
+            <OptimizeAmplifierDeadtime>false</OptimizeAmplifierDeadtime>
+            <IncludeLinearAmpVoltageClamp>true</IncludeLinearAmpVoltageClamp>
+          </DriveComponent>
+        </ElectricalAxis>
+        <ElectricalAxis>
+          <DisplayName>iXR3 Axis 2</DisplayName>
+          <HyperWireCommunicationChannel>1</HyperWireCommunicationChannel>
+          <DriveComponent>
+            <Type>XR3_XSL3</Type>
+            <BusVoltage>80</BusVoltage>
+            <HasBipolarBusVoltage>true</HasBipolarBusVoltage>
+            <PeakCurrent>10</PeakCurrent>
+            <ContinuousCurrent>1.5</ContinuousCurrent>
+            <ServoRate>TwentykHz</ServoRate>
+            <AnalogInputUpdateRate>TwentykHz</AnalogInputUpdateRate>
+            <HasPrimaryMXSupport>true</HasPrimaryMXSupport>
+            <PrimaryFbkMaxMultiplier>65536</PrimaryFbkMaxMultiplier>
+            <HasAuxiliaryMXSupport>false</HasAuxiliaryMXSupport>
+            <AuxiliaryFbkMaxMultiplier>0</AuxiliaryFbkMaxMultiplier>
+            <SupportsSingleEndedEncoderInputs>false</SupportsSingleEndedEncoderInputs>
+            <SupportsClockDirection>false</SupportsClockDirection>
+            <SupportsGalvoInterface>false</SupportsGalvoInterface>
+            <HasBiSSEncoderSupport>true</HasBiSSEncoderSupport>
+            <HasEnDatEncoderSupport>true</HasEnDatEncoderSupport>
+            <RequiresServoOutputScaling>false</RequiresServoOutputScaling>
+            <CurrentLoopAmplifierDelay>25.4</CurrentLoopAmplifierDelay>
+            <CurrentLoopAmplifierGain>39.9</CurrentLoopAmplifierGain>
+            <CurrentLoopLowPassFilterResistance>1000</CurrentLoopLowPassFilterResistance>
+            <CurrentLoopLowPassFilterCapacitance>0.0091</CurrentLoopLowPassFilterCapacitance>
+            <CurrentLoopAmplifierRolloffFilterResistance>15000</CurrentLoopAmplifierRolloffFilterResistance>
+            <CurrentLoopAmplifierRolloffFilterCapacitance>0.00073</CurrentLoopAmplifierRolloffFilterCapacitance>
+            <CurrentLoopShouldIncludeZOHDelay>true</CurrentLoopShouldIncludeZOHDelay>
+            <OptimizeAmplifierDeadtime>false</OptimizeAmplifierDeadtime>
+            <IncludeLinearAmpVoltageClamp>true</IncludeLinearAmpVoltageClamp>
+          </DriveComponent>
+        </ElectricalAxis>
+        <ElectricalAxis>
+          <DisplayName>iXR3 Axis 3</DisplayName>
+          <HyperWireCommunicationChannel>2</HyperWireCommunicationChannel>
+          <DriveComponent>
+            <Type>XR3_XSL3</Type>
+            <BusVoltage>80</BusVoltage>
+            <HasBipolarBusVoltage>true</HasBipolarBusVoltage>
+            <PeakCurrent>10</PeakCurrent>
+            <ContinuousCurrent>1.5</ContinuousCurrent>
+            <ServoRate>TwentykHz</ServoRate>
+            <AnalogInputUpdateRate>TwentykHz</AnalogInputUpdateRate>
+            <HasPrimaryMXSupport>true</HasPrimaryMXSupport>
+            <PrimaryFbkMaxMultiplier>65536</PrimaryFbkMaxMultiplier>
+            <HasAuxiliaryMXSupport>false</HasAuxiliaryMXSupport>
+            <AuxiliaryFbkMaxMultiplier>0</AuxiliaryFbkMaxMultiplier>
+            <SupportsSingleEndedEncoderInputs>false</SupportsSingleEndedEncoderInputs>
+            <SupportsClockDirection>false</SupportsClockDirection>
+            <SupportsGalvoInterface>false</SupportsGalvoInterface>
+            <HasBiSSEncoderSupport>true</HasBiSSEncoderSupport>
+            <HasEnDatEncoderSupport>true</HasEnDatEncoderSupport>
+            <RequiresServoOutputScaling>false</RequiresServoOutputScaling>
+            <CurrentLoopAmplifierDelay>25.4</CurrentLoopAmplifierDelay>
+            <CurrentLoopAmplifierGain>39.9</CurrentLoopAmplifierGain>
+            <CurrentLoopLowPassFilterResistance>1000</CurrentLoopLowPassFilterResistance>
+            <CurrentLoopLowPassFilterCapacitance>0.0091</CurrentLoopLowPassFilterCapacitance>
+            <CurrentLoopAmplifierRolloffFilterResistance>15000</CurrentLoopAmplifierRolloffFilterResistance>
+            <CurrentLoopAmplifierRolloffFilterCapacitance>0.00073</CurrentLoopAmplifierRolloffFilterCapacitance>
+            <CurrentLoopShouldIncludeZOHDelay>true</CurrentLoopShouldIncludeZOHDelay>
+            <OptimizeAmplifierDeadtime>false</OptimizeAmplifierDeadtime>
+            <IncludeLinearAmpVoltageClamp>true</IncludeLinearAmpVoltageClamp>
+          </DriveComponent>
+        </ElectricalAxis>
+        <ElectricalAxis>
+          <DisplayName>iXR3 Axis 4</DisplayName>
+          <HyperWireCommunicationChannel>3</HyperWireCommunicationChannel>
+          <DriveComponent>
+            <Type>XR3_XSP3</Type>
+            <BusVoltage>80</BusVoltage>
+            <HasBipolarBusVoltage>true</HasBipolarBusVoltage>
+            <PeakCurrent>10</PeakCurrent>
+            <ContinuousCurrent>5</ContinuousCurrent>
+            <ServoRate>TwentykHz</ServoRate>
+            <AnalogInputUpdateRate>TwentykHz</AnalogInputUpdateRate>
+            <HasPrimaryMXSupport>true</HasPrimaryMXSupport>
+            <PrimaryFbkMaxMultiplier>65536</PrimaryFbkMaxMultiplier>
+            <HasAuxiliaryMXSupport>false</HasAuxiliaryMXSupport>
+            <AuxiliaryFbkMaxMultiplier>0</AuxiliaryFbkMaxMultiplier>
+            <SupportsSingleEndedEncoderInputs>false</SupportsSingleEndedEncoderInputs>
+            <SupportsClockDirection>false</SupportsClockDirection>
+            <SupportsGalvoInterface>false</SupportsGalvoInterface>
+            <HasBiSSEncoderSupport>true</HasBiSSEncoderSupport>
+            <HasEnDatEncoderSupport>true</HasEnDatEncoderSupport>
+            <RequiresServoOutputScaling>false</RequiresServoOutputScaling>
+            <CurrentLoopAmplifierDelay>45.6</CurrentLoopAmplifierDelay>
+            <CurrentLoopAmplifierGain>0</CurrentLoopAmplifierGain>
+            <CurrentLoopLowPassFilterResistance>200</CurrentLoopLowPassFilterResistance>
+            <CurrentLoopLowPassFilterCapacitance>0.01</CurrentLoopLowPassFilterCapacitance>
+            <CurrentLoopAmplifierRolloffFilterResistance>0</CurrentLoopAmplifierRolloffFilterResistance>
+            <CurrentLoopAmplifierRolloffFilterCapacitance>0</CurrentLoopAmplifierRolloffFilterCapacitance>
+            <CurrentLoopShouldIncludeZOHDelay>false</CurrentLoopShouldIncludeZOHDelay>
+            <OptimizeAmplifierDeadtime>true</OptimizeAmplifierDeadtime>
+            <BusOvervoltageThreshold>200</BusOvervoltageThreshold>
+            <IncludeLinearAmpVoltageClamp>false</IncludeLinearAmpVoltageClamp>
+          </DriveComponent>
+        </ElectricalAxis>
+      </ElectricalAxes>
+    </ElectricalProduct>
+  </ElectricalProducts>
+  <MechanicalProducts>
+    <MechanicalProduct>
+      <Name>PRO225LM</Name>
+      <DeviceCatalogItemGuid />
+      <SecondaryDeviceCatalogItemGuid />
+      <DisplayName>PRO225LM</DisplayName>
+      <SerialNumber>522192-01</SerialNumber>
+      <WasAutoDetected>false</WasAutoDetected>
+      <ShouldExclude>false</ShouldExclude>
+      <ConfiguredOptions>
+        <KeyValuePair>
+          <Key>Travel</Key>
+          <Value>-0100</Value>
+        </KeyValuePair>
+        <KeyValuePair>
+          <Key>Feedback</Key>
+          <Value>-E1</Value>
+        </KeyValuePair>
+        <KeyValuePair>
+          <Key>Cable Management</Key>
+          <Value>-CMS6</Value>
+        </KeyValuePair>
+      </ConfiguredOptions>
+      <MechanicalAxes>
+        <MechanicalAxis>
+          <DisplayName>PRO225LM</DisplayName>
+          <Stage>
+            <LinearStageComponent>
+              <Name>PRO225LM</Name>
+              <IsCustom>false</IsCustom>
+              <DefaultSpeed>80</DefaultSpeed>
+              <LimitDecelDistance>10.7</LimitDecelDistance>
+              <DefaultRampRate>2000</DefaultRampRate>
+              <ThermistorAvailable>true</ThermistorAvailable>
+              <HomeSpeed>80</HomeSpeed>
+              <HomeRampRate>1000</HomeRampRate>
+              <MaxSpeed>2000</MaxSpeed>
+              <LowPassFilterParams>
+                <CutoffFrequency>1000</CutoffFrequency>
+              </LowPassFilterParams>
+              <CarriageMass>7.9</CarriageMass>
+              <LoadMass>20</LoadMass>
+              <MotorCurrentDerateFactor>1</MotorCurrentDerateFactor>
+              <WedgeRatio>1</WedgeRatio>
+              <MotorCount>1</MotorCount>
+              <LimitType>Switch</LimitType>
+              <LimitPolarity>NormallyClosed</LimitPolarity>
+              <EndOfTravelCurrentThreshold>0</EndOfTravelCurrentThreshold>
+              <NominalTravel>100</NominalTravel>
+            </LinearStageComponent>
+          </Stage>
+          <Motor>
+            <LinearMotorComponent>
+              <Name>BLM</Name>
+              <MotorType>Linear</MotorType>
+              <IsCustom>false</IsCustom>
+              <Resistance>4</Resistance>
+              <Inductance>3.2</Inductance>
+              <PeakForce>1006.4</PeakForce>
+              <ContinuousForce>153.3</ContinuousForce>
+              <ForceConstant>28.92</ForceConstant>
+              <PolePitch>30.48</PolePitch>
+              <CoilMass>0.9</CoilMass>
+              <BackEMFConstant>33.24</BackEMFConstant>
+              <HasHallEffectSwitches>true</HasHallEffectSwitches>
+              <RequiresCommutation>true</RequiresCommutation>
+              <CommutationOffset>0</CommutationOffset>
+            </LinearMotorComponent>
+          </Motor>
+          <Logical />
+          <CurrentCommand />
+          <PrimaryFeedback>
+            <Name>Standard</Name>
+            <IsCustom>false</IsCustom>
+            <FeedbackSource>Motor</FeedbackSource>
+            <DeviceType>IncrementalSineWaveEncoder</DeviceType>
+            <DeviceOrientation>Linear</DeviceOrientation>
+            <Resolution>20</Resolution>
+            <MultiplicationFactor>65536</MultiplicationFactor>
+            <Flags>None</Flags>
+            <AbsoluteEncoderBits>1</AbsoluteEncoderBits>
+            <EnDatEncoderTurns>1</EnDatEncoderTurns>
+            <EnDatEncoderProtocolVersion>EnDat21</EnDatEncoderProtocolVersion>
+            <BissEncoderTurns>1</BissEncoderTurns>
+            <AbsoluteEncoderIncrementalResolution>20</AbsoluteEncoderIncrementalResolution>
+          </PrimaryFeedback>
+          <AuxiliaryFeedback />
+          <ServoLoop />
+          <CurrentLoop />
+          <NominalTravel>100</NominalTravel>
+        </MechanicalAxis>
+      </MechanicalAxes>
+    </MechanicalProduct>
+    <MechanicalProduct>
+      <Name>ABL1500</Name>
+      <DeviceCatalogItemGuid />
+      <SecondaryDeviceCatalogItemGuid />
+      <DisplayName>ABL1500</DisplayName>
+      <SerialNumber>522193-01</SerialNumber>
+      <WasAutoDetected>false</WasAutoDetected>
+      <ShouldExclude>false</ShouldExclude>
+      <ConfiguredOptions>
+        <KeyValuePair>
+          <Key>Travel</Key>
+          <Value>-200</Value>
+        </KeyValuePair>
+        <KeyValuePair>
+          <Key>Feedback</Key>
+          <Value>-E1</Value>
+        </KeyValuePair>
+      </ConfiguredOptions>
+      <MechanicalAxes>
+        <MechanicalAxis>
+          <DisplayName>ABL1500</DisplayName>
+          <Stage>
+            <LinearStageComponent>
+              <Name>ABL1500</Name>
+              <IsCustom>false</IsCustom>
+              <DefaultSpeed>60</DefaultSpeed>
+              <LimitDecelDistance>8.6</LimitDecelDistance>
+              <DefaultRampRate>1000</DefaultRampRate>
+              <ThermistorAvailable>true</ThermistorAvailable>
+              <HomeSpeed>40</HomeSpeed>
+              <HomeRampRate>500</HomeRampRate>
+              <MaxSpeed>1900</MaxSpeed>
+              <LowPassFilterParams>
+                <CutoffFrequency>1000</CutoffFrequency>
+              </LowPassFilterParams>
+              <CarriageMass>5.1</CarriageMass>
+              <LoadMass>7</LoadMass>
+              <MotorCurrentDerateFactor>0.75</MotorCurrentDerateFactor>
+              <WedgeRatio>1</WedgeRatio>
+              <MotorCount>1</MotorCount>
+              <LimitType>Switch</LimitType>
+              <LimitPolarity>NormallyClosed</LimitPolarity>
+              <EndOfTravelCurrentThreshold>0</EndOfTravelCurrentThreshold>
+              <NominalTravel>200</NominalTravel>
+            </LinearStageComponent>
+          </Stage>
+          <Motor>
+            <LinearMotorComponent>
+              <Name>BLMC</Name>
+              <MotorType>Linear</MotorType>
+              <IsCustom>false</IsCustom>
+              <Resistance>6.4</Resistance>
+              <Inductance>1.9</Inductance>
+              <PeakForce>618.8</PeakForce>
+              <ContinuousForce>106.7</ContinuousForce>
+              <ForceConstant>26.67</ForceConstant>
+              <PolePitch>25</PolePitch>
+              <CoilMass>0.34</CoilMass>
+              <BackEMFConstant>30.66</BackEMFConstant>
+              <HasHallEffectSwitches>true</HasHallEffectSwitches>
+              <RequiresCommutation>true</RequiresCommutation>
+              <CommutationOffset>0</CommutationOffset>
+            </LinearMotorComponent>
+          </Motor>
+          <Logical />
+          <CurrentCommand />
+          <PrimaryFeedback>
+            <Name>Standard</Name>
+            <IsCustom>false</IsCustom>
+            <FeedbackSource>Motor</FeedbackSource>
+            <DeviceType>IncrementalSineWaveEncoder</DeviceType>
+            <DeviceOrientation>Linear</DeviceOrientation>
+            <Resolution>20</Resolution>
+            <MultiplicationFactor>65536</MultiplicationFactor>
+            <Flags>None</Flags>
+            <AbsoluteEncoderBits>1</AbsoluteEncoderBits>
+            <EnDatEncoderTurns>1</EnDatEncoderTurns>
+            <EnDatEncoderProtocolVersion>EnDat21</EnDatEncoderProtocolVersion>
+            <BissEncoderTurns>1</BissEncoderTurns>
+            <AbsoluteEncoderIncrementalResolution>20</AbsoluteEncoderIncrementalResolution>
+          </PrimaryFeedback>
+          <AuxiliaryFeedback />
+          <ServoLoop />
+          <CurrentLoop />
+          <NominalTravel>200</NominalTravel>
+        </MechanicalAxis>
+      </MechanicalAxes>
+    </MechanicalProduct>
+    <MechanicalProduct>
+      <Name>ABRX150</Name>
+      <DeviceCatalogItemGuid />
+      <SecondaryDeviceCatalogItemGuid />
+      <DisplayName>ABRX150</DisplayName>
+      <SerialNumber>522194-01</SerialNumber>
+      <WasAutoDetected>false</WasAutoDetected>
+      <ShouldExclude>false</ShouldExclude>
+      <ConfiguredOptions>
+        <KeyValuePair>
+          <Key>Feedback</Key>
+          <Value>-E2</Value>
+        </KeyValuePair>
+      </ConfiguredOptions>
+      <MechanicalAxes>
+        <MechanicalAxis>
+          <DisplayName>ABRX150</DisplayName>
+          <Stage>
+            <RotaryStageComponent>
+              <Name>ABRX150</Name>
+              <IsCustom>false</IsCustom>
+              <DefaultSpeed>0.5</DefaultSpeed>
+              <LimitDecelDistance>0</LimitDecelDistance>
+              <DefaultRampRate>0.5555555555555556</DefaultRampRate>
+              <ThermistorAvailable>true</ThermistorAvailable>
+              <HomeSpeed>0.5</HomeSpeed>
+              <HomeRampRate>0.5555555555555556</HomeRampRate>
+              <MaxSpeed>20</MaxSpeed>
+              <CarriageInertia>0.0022</CarriageInertia>
+              <LoadInertia>0</LoadInertia>
+              <MotorCurrentDerateFactor>1</MotorCurrentDerateFactor>
+              <TransmissionRatio>1</TransmissionRatio>
+              <Efficiency>1</Efficiency>
+              <LimitType>None</LimitType>
+              <LimitPolarity>NotApplicable</LimitPolarity>
+              <HasBrake>false</HasBrake>
+            </RotaryStageComponent>
+          </Stage>
+          <Motor>
+            <RotaryMotorComponent>
+              <Name>ABRX150-Motor</Name>
+              <MotorType>Rotary</MotorType>
+              <IsCustom>false</IsCustom>
+              <Resistance>16.69</Resistance>
+              <Inductance>3.15</Inductance>
+              <PeakTorque>2.9</PeakTorque>
+              <ContinuousTorque>0.44</ContinuousTorque>
+              <TorqueConstant>0.357</TorqueConstant>
+              <PolesPerRevolution>16</PolesPerRevolution>
+              <PolePitch>0</PolePitch>
+              <RotorInertia>0.000254</RotorInertia>
+              <BackEMFConstant>43.45</BackEMFConstant>
+              <HasHallEffectSwitches>true</HasHallEffectSwitches>
+              <IsBrushless>true</IsBrushless>
+              <CommutationOffset>0</CommutationOffset>
+              <TransmissionRatio>1</TransmissionRatio>
+              <HasBrake>false</HasBrake>
+              <MaxTemp>100</MaxTemp>
+            </RotaryMotorComponent>
+          </Motor>
+          <Logical />
+          <CurrentCommand />
+          <PrimaryFeedback>
+            <Name>Standard</Name>
+            <IsCustom>false</IsCustom>
+            <FeedbackSource>Motor</FeedbackSource>
+            <DeviceType>IncrementalSineWaveEncoder</DeviceType>
+            <DeviceOrientation>Rotary</DeviceOrientation>
+            <Resolution>30000</Resolution>
+            <MultiplicationFactor>65536</MultiplicationFactor>
+            <Flags>None</Flags>
+            <AbsoluteEncoderBits>1</AbsoluteEncoderBits>
+            <EnDatEncoderTurns>1</EnDatEncoderTurns>
+            <EnDatEncoderProtocolVersion>EnDat21</EnDatEncoderProtocolVersion>
+            <BissEncoderTurns>1</BissEncoderTurns>
+            <AbsoluteEncoderIncrementalResolution>30000</AbsoluteEncoderIncrementalResolution>
+          </PrimaryFeedback>
+          <AuxiliaryFeedback />
+          <ServoLoop />
+          <CurrentLoop />
+          <NominalTravel>1</NominalTravel>
+        </MechanicalAxis>
+      </MechanicalAxes>
+    </MechanicalProduct>
+    <MechanicalProduct>
+      <Name>ABRX250</Name>
+      <DeviceCatalogItemGuid />
+      <SecondaryDeviceCatalogItemGuid />
+      <DisplayName>ABRX250</DisplayName>
+      <SerialNumber>522195-01</SerialNumber>
+      <WasAutoDetected>false</WasAutoDetected>
+      <ShouldExclude>false</ShouldExclude>
+      <ConfiguredOptions>
+        <KeyValuePair>
+          <Key>Feedback</Key>
+          <Value>-E2</Value>
+        </KeyValuePair>
+      </ConfiguredOptions>
+      <MechanicalAxes>
+        <MechanicalAxis>
+          <DisplayName>ABRX250</DisplayName>
+          <Stage>
+            <RotaryStageComponent>
+              <Name>ABRX250</Name>
+              <IsCustom>false</IsCustom>
+              <DefaultSpeed>0.5</DefaultSpeed>
+              <LimitDecelDistance>0</LimitDecelDistance>
+              <DefaultRampRate>0.5555555555555556</DefaultRampRate>
+              <ThermistorAvailable>true</ThermistorAvailable>
+              <HomeSpeed>0.5</HomeSpeed>
+              <HomeRampRate>0.5555555555555556</HomeRampRate>
+              <MaxSpeed>13.333333333333334</MaxSpeed>
+              <CarriageInertia>0.0365</CarriageInertia>
+              <LoadInertia>0</LoadInertia>
+              <MotorCurrentDerateFactor>1</MotorCurrentDerateFactor>
+              <TransmissionRatio>1</TransmissionRatio>
+              <Efficiency>1</Efficiency>
+              <LimitType>None</LimitType>
+              <LimitPolarity>NotApplicable</LimitPolarity>
+              <HasBrake>false</HasBrake>
+            </RotaryStageComponent>
+          </Stage>
+          <Motor>
+            <RotaryMotorComponent>
+              <Name>ABRX250-Motor</Name>
+              <MotorType>Rotary</MotorType>
+              <IsCustom>false</IsCustom>
+              <Resistance>13.14</Resistance>
+              <Inductance>6.04</Inductance>
+              <PeakTorque>16.6</PeakTorque>
+              <ContinuousTorque>2.9</ContinuousTorque>
+              <TorqueConstant>1.383</TorqueConstant>
+              <PolesPerRevolution>18</PolesPerRevolution>
+              <PolePitch>0</PolePitch>
+              <RotorInertia>0.0065</RotorInertia>
+              <BackEMFConstant>167.2</BackEMFConstant>
+              <HasHallEffectSwitches>true</HasHallEffectSwitches>
+              <IsBrushless>true</IsBrushless>
+              <CommutationOffset>0</CommutationOffset>
+              <TransmissionRatio>1</TransmissionRatio>
+              <HasBrake>false</HasBrake>
+              <MaxTemp>70</MaxTemp>
+            </RotaryMotorComponent>
+          </Motor>
+          <Logical />
+          <CurrentCommand />
+          <PrimaryFeedback>
+            <Name>Standard</Name>
+            <IsCustom>false</IsCustom>
+            <FeedbackSource>Motor</FeedbackSource>
+            <DeviceType>IncrementalSineWaveEncoder</DeviceType>
+            <DeviceOrientation>Rotary</DeviceOrientation>
+            <Resolution>63000</Resolution>
+            <MultiplicationFactor>65536</MultiplicationFactor>
+            <Flags>None</Flags>
+            <AbsoluteEncoderBits>1</AbsoluteEncoderBits>
+            <EnDatEncoderTurns>1</EnDatEncoderTurns>
+            <EnDatEncoderProtocolVersion>EnDat21</EnDatEncoderProtocolVersion>
+            <BissEncoderTurns>1</BissEncoderTurns>
+            <AbsoluteEncoderIncrementalResolution>63000</AbsoluteEncoderIncrementalResolution>
+          </PrimaryFeedback>
+          <AuxiliaryFeedback />
+          <ServoLoop />
+          <CurrentLoop />
+          <NominalTravel>1</NominalTravel>
+        </MechanicalAxis>
+      </MechanicalAxes>
+    </MechanicalProduct>
+  </MechanicalProducts>
+  <Axes>
+    <AxisConfiguration>
+      <Index>0</Index>
+      <MechanicalAxis>
+        <DisplayName>PRO225LM</DisplayName>
+        <Stage>
+          <LinearStageComponent>
+            <Name>PRO225LM</Name>
+            <IsCustom>false</IsCustom>
+            <DefaultSpeed>80</DefaultSpeed>
+            <LimitDecelDistance>10.7</LimitDecelDistance>
+            <DefaultRampRate>2000</DefaultRampRate>
+            <ThermistorAvailable>true</ThermistorAvailable>
+            <HomeSpeed>80</HomeSpeed>
+            <HomeRampRate>1000</HomeRampRate>
+            <MaxSpeed>2000</MaxSpeed>
+            <LowPassFilterParams>
+              <CutoffFrequency>1000</CutoffFrequency>
+            </LowPassFilterParams>
+            <CarriageMass>7.9</CarriageMass>
+            <LoadMass>20</LoadMass>
+            <MotorCurrentDerateFactor>1</MotorCurrentDerateFactor>
+            <WedgeRatio>1</WedgeRatio>
+            <MotorCount>1</MotorCount>
+            <LimitType>Switch</LimitType>
+            <LimitPolarity>NormallyClosed</LimitPolarity>
+            <EndOfTravelCurrentThreshold>0</EndOfTravelCurrentThreshold>
+            <NominalTravel>100</NominalTravel>
+          </LinearStageComponent>
+        </Stage>
+        <Motor>
+          <LinearMotorComponent>
+            <Name>BLM</Name>
+            <MotorType>Linear</MotorType>
+            <IsCustom>false</IsCustom>
+            <Resistance>4</Resistance>
+            <Inductance>3.2</Inductance>
+            <PeakForce>1006.4</PeakForce>
+            <ContinuousForce>153.3</ContinuousForce>
+            <ForceConstant>28.92</ForceConstant>
+            <PolePitch>30.48</PolePitch>
+            <CoilMass>0.9</CoilMass>
+            <BackEMFConstant>33.24</BackEMFConstant>
+            <HasHallEffectSwitches>true</HasHallEffectSwitches>
+            <RequiresCommutation>true</RequiresCommutation>
+            <CommutationOffset>0</CommutationOffset>
+          </LinearMotorComponent>
+        </Motor>
+        <Logical />
+        <CurrentCommand />
+        <PrimaryFeedback>
+          <Name>Standard</Name>
+          <IsCustom>false</IsCustom>
+          <FeedbackSource>Motor</FeedbackSource>
+          <DeviceType>IncrementalSineWaveEncoder</DeviceType>
+          <DeviceOrientation>Linear</DeviceOrientation>
+          <Resolution>20</Resolution>
+          <MultiplicationFactor>65536</MultiplicationFactor>
+          <Flags>None</Flags>
+          <AbsoluteEncoderBits>1</AbsoluteEncoderBits>
+          <EnDatEncoderTurns>1</EnDatEncoderTurns>
+          <EnDatEncoderProtocolVersion>EnDat21</EnDatEncoderProtocolVersion>
+          <BissEncoderTurns>1</BissEncoderTurns>
+          <AbsoluteEncoderIncrementalResolution>20</AbsoluteEncoderIncrementalResolution>
+        </PrimaryFeedback>
+        <AuxiliaryFeedback />
+        <ServoLoop />
+        <CurrentLoop />
+        <NominalTravel>100</NominalTravel>
+      </MechanicalAxis>
+      <ElectricalAxis>
+        <DisplayName>iXR3 Axis 1</DisplayName>
+        <HyperWireCommunicationChannel>0</HyperWireCommunicationChannel>
+        <DriveComponent>
+          <Type>XR3_XSL3</Type>
+          <BusVoltage>80</BusVoltage>
+          <HasBipolarBusVoltage>true</HasBipolarBusVoltage>
+          <PeakCurrent>10</PeakCurrent>
+          <ContinuousCurrent>1.5</ContinuousCurrent>
+          <ServoRate>TwentykHz</ServoRate>
+          <AnalogInputUpdateRate>TwentykHz</AnalogInputUpdateRate>
+          <HasPrimaryMXSupport>true</HasPrimaryMXSupport>
+          <PrimaryFbkMaxMultiplier>65536</PrimaryFbkMaxMultiplier>
+          <HasAuxiliaryMXSupport>false</HasAuxiliaryMXSupport>
+          <AuxiliaryFbkMaxMultiplier>0</AuxiliaryFbkMaxMultiplier>
+          <SupportsSingleEndedEncoderInputs>false</SupportsSingleEndedEncoderInputs>
+          <SupportsClockDirection>false</SupportsClockDirection>
+          <SupportsGalvoInterface>false</SupportsGalvoInterface>
+          <HasBiSSEncoderSupport>true</HasBiSSEncoderSupport>
+          <HasEnDatEncoderSupport>true</HasEnDatEncoderSupport>
+          <RequiresServoOutputScaling>false</RequiresServoOutputScaling>
+          <CurrentLoopAmplifierDelay>25.4</CurrentLoopAmplifierDelay>
+          <CurrentLoopAmplifierGain>39.9</CurrentLoopAmplifierGain>
+          <CurrentLoopLowPassFilterResistance>1000</CurrentLoopLowPassFilterResistance>
+          <CurrentLoopLowPassFilterCapacitance>0.0091</CurrentLoopLowPassFilterCapacitance>
+          <CurrentLoopAmplifierRolloffFilterResistance>15000</CurrentLoopAmplifierRolloffFilterResistance>
+          <CurrentLoopAmplifierRolloffFilterCapacitance>0.00073</CurrentLoopAmplifierRolloffFilterCapacitance>
+          <CurrentLoopShouldIncludeZOHDelay>true</CurrentLoopShouldIncludeZOHDelay>
+          <OptimizeAmplifierDeadtime>false</OptimizeAmplifierDeadtime>
+          <IncludeLinearAmpVoltageClamp>true</IncludeLinearAmpVoltageClamp>
+        </DriveComponent>
+      </ElectricalAxis>
+      <Units>
+        <Name>mm</Name>
+        <Type>Linear</Type>
+        <ScaleFactor>1</ScaleFactor>
+        <WorkPointDiameter />
+        <IsInverted>false</IsInverted>
+        <IsCustom>false</IsCustom>
+      </Units>
+      <Name>Y</Name>
+      <FeedbackDeviceConnectionSetup>MechanicalPrimaryToElectricalPrimary</FeedbackDeviceConnectionSetup>
+    </AxisConfiguration>
+    <AxisConfiguration>
+      <Index>1</Index>
+      <MechanicalAxis>
+        <DisplayName>ABL1500</DisplayName>
+        <Stage>
+          <LinearStageComponent>
+            <Name>ABL1500</Name>
+            <IsCustom>false</IsCustom>
+            <DefaultSpeed>60</DefaultSpeed>
+            <LimitDecelDistance>8.6</LimitDecelDistance>
+            <DefaultRampRate>1000</DefaultRampRate>
+            <ThermistorAvailable>true</ThermistorAvailable>
+            <HomeSpeed>40</HomeSpeed>
+            <HomeRampRate>500</HomeRampRate>
+            <MaxSpeed>1900</MaxSpeed>
+            <LowPassFilterParams>
+              <CutoffFrequency>1000</CutoffFrequency>
+            </LowPassFilterParams>
+            <CarriageMass>5.1</CarriageMass>
+            <LoadMass>7</LoadMass>
+            <MotorCurrentDerateFactor>0.75</MotorCurrentDerateFactor>
+            <WedgeRatio>1</WedgeRatio>
+            <MotorCount>1</MotorCount>
+            <LimitType>Switch</LimitType>
+            <LimitPolarity>NormallyClosed</LimitPolarity>
+            <EndOfTravelCurrentThreshold>0</EndOfTravelCurrentThreshold>
+            <NominalTravel>200</NominalTravel>
+          </LinearStageComponent>
+        </Stage>
+        <Motor>
+          <LinearMotorComponent>
+            <Name>BLMC</Name>
+            <MotorType>Linear</MotorType>
+            <IsCustom>false</IsCustom>
+            <Resistance>6.4</Resistance>
+            <Inductance>1.9</Inductance>
+            <PeakForce>618.8</PeakForce>
+            <ContinuousForce>106.7</ContinuousForce>
+            <ForceConstant>26.67</ForceConstant>
+            <PolePitch>25</PolePitch>
+            <CoilMass>0.34</CoilMass>
+            <BackEMFConstant>30.66</BackEMFConstant>
+            <HasHallEffectSwitches>true</HasHallEffectSwitches>
+            <RequiresCommutation>true</RequiresCommutation>
+            <CommutationOffset>0</CommutationOffset>
+          </LinearMotorComponent>
+        </Motor>
+        <Logical />
+        <CurrentCommand />
+        <PrimaryFeedback>
+          <Name>Standard</Name>
+          <IsCustom>false</IsCustom>
+          <FeedbackSource>Motor</FeedbackSource>
+          <DeviceType>IncrementalSineWaveEncoder</DeviceType>
+          <DeviceOrientation>Linear</DeviceOrientation>
+          <Resolution>20</Resolution>
+          <MultiplicationFactor>65536</MultiplicationFactor>
+          <Flags>None</Flags>
+          <AbsoluteEncoderBits>1</AbsoluteEncoderBits>
+          <EnDatEncoderTurns>1</EnDatEncoderTurns>
+          <EnDatEncoderProtocolVersion>EnDat21</EnDatEncoderProtocolVersion>
+          <BissEncoderTurns>1</BissEncoderTurns>
+          <AbsoluteEncoderIncrementalResolution>20</AbsoluteEncoderIncrementalResolution>
+        </PrimaryFeedback>
+        <AuxiliaryFeedback />
+        <ServoLoop />
+        <CurrentLoop />
+        <NominalTravel>200</NominalTravel>
+      </MechanicalAxis>
+      <ElectricalAxis>
+        <DisplayName>iXR3 Axis 2</DisplayName>
+        <HyperWireCommunicationChannel>1</HyperWireCommunicationChannel>
+        <DriveComponent>
+          <Type>XR3_XSL3</Type>
+          <BusVoltage>80</BusVoltage>
+          <HasBipolarBusVoltage>true</HasBipolarBusVoltage>
+          <PeakCurrent>10</PeakCurrent>
+          <ContinuousCurrent>1.5</ContinuousCurrent>
+          <ServoRate>TwentykHz</ServoRate>
+          <AnalogInputUpdateRate>TwentykHz</AnalogInputUpdateRate>
+          <HasPrimaryMXSupport>true</HasPrimaryMXSupport>
+          <PrimaryFbkMaxMultiplier>65536</PrimaryFbkMaxMultiplier>
+          <HasAuxiliaryMXSupport>false</HasAuxiliaryMXSupport>
+          <AuxiliaryFbkMaxMultiplier>0</AuxiliaryFbkMaxMultiplier>
+          <SupportsSingleEndedEncoderInputs>false</SupportsSingleEndedEncoderInputs>
+          <SupportsClockDirection>false</SupportsClockDirection>
+          <SupportsGalvoInterface>false</SupportsGalvoInterface>
+          <HasBiSSEncoderSupport>true</HasBiSSEncoderSupport>
+          <HasEnDatEncoderSupport>true</HasEnDatEncoderSupport>
+          <RequiresServoOutputScaling>false</RequiresServoOutputScaling>
+          <CurrentLoopAmplifierDelay>25.4</CurrentLoopAmplifierDelay>
+          <CurrentLoopAmplifierGain>39.9</CurrentLoopAmplifierGain>
+          <CurrentLoopLowPassFilterResistance>1000</CurrentLoopLowPassFilterResistance>
+          <CurrentLoopLowPassFilterCapacitance>0.0091</CurrentLoopLowPassFilterCapacitance>
+          <CurrentLoopAmplifierRolloffFilterResistance>15000</CurrentLoopAmplifierRolloffFilterResistance>
+          <CurrentLoopAmplifierRolloffFilterCapacitance>0.00073</CurrentLoopAmplifierRolloffFilterCapacitance>
+          <CurrentLoopShouldIncludeZOHDelay>true</CurrentLoopShouldIncludeZOHDelay>
+          <OptimizeAmplifierDeadtime>false</OptimizeAmplifierDeadtime>
+          <IncludeLinearAmpVoltageClamp>true</IncludeLinearAmpVoltageClamp>
+        </DriveComponent>
+      </ElectricalAxis>
+      <Units>
+        <Name>mm</Name>
+        <Type>Linear</Type>
+        <ScaleFactor>1</ScaleFactor>
+        <WorkPointDiameter />
+        <IsInverted>false</IsInverted>
+        <IsCustom>false</IsCustom>
+      </Units>
+      <Name>X</Name>
+      <FeedbackDeviceConnectionSetup>MechanicalPrimaryToElectricalPrimary</FeedbackDeviceConnectionSetup>
+    </AxisConfiguration>
+    <AxisConfiguration>
+      <Index>2</Index>
+      <MechanicalAxis>
+        <DisplayName>ABRX150</DisplayName>
+        <Stage>
+          <RotaryStageComponent>
+            <Name>ABRX150</Name>
+            <IsCustom>false</IsCustom>
+            <DefaultSpeed>0.5</DefaultSpeed>
+            <LimitDecelDistance>0</LimitDecelDistance>
+            <DefaultRampRate>0.5555555555555556</DefaultRampRate>
+            <ThermistorAvailable>true</ThermistorAvailable>
+            <HomeSpeed>0.5</HomeSpeed>
+            <HomeRampRate>0.5555555555555556</HomeRampRate>
+            <MaxSpeed>20</MaxSpeed>
+            <CarriageInertia>0.0022</CarriageInertia>
+            <LoadInertia>0</LoadInertia>
+            <MotorCurrentDerateFactor>1</MotorCurrentDerateFactor>
+            <TransmissionRatio>1</TransmissionRatio>
+            <Efficiency>1</Efficiency>
+            <LimitType>None</LimitType>
+            <LimitPolarity>NotApplicable</LimitPolarity>
+            <HasBrake>false</HasBrake>
+          </RotaryStageComponent>
+        </Stage>
+        <Motor>
+          <RotaryMotorComponent>
+            <Name>ABRX150-Motor</Name>
+            <MotorType>Rotary</MotorType>
+            <IsCustom>false</IsCustom>
+            <Resistance>16.69</Resistance>
+            <Inductance>3.15</Inductance>
+            <PeakTorque>2.9</PeakTorque>
+            <ContinuousTorque>0.44</ContinuousTorque>
+            <TorqueConstant>0.357</TorqueConstant>
+            <PolesPerRevolution>16</PolesPerRevolution>
+            <PolePitch>0</PolePitch>
+            <RotorInertia>0.000254</RotorInertia>
+            <BackEMFConstant>43.45</BackEMFConstant>
+            <HasHallEffectSwitches>true</HasHallEffectSwitches>
+            <IsBrushless>true</IsBrushless>
+            <CommutationOffset>0</CommutationOffset>
+            <TransmissionRatio>1</TransmissionRatio>
+            <HasBrake>false</HasBrake>
+            <MaxTemp>100</MaxTemp>
+          </RotaryMotorComponent>
+        </Motor>
+        <Logical />
+        <CurrentCommand />
+        <PrimaryFeedback>
+          <Name>Standard</Name>
+          <IsCustom>false</IsCustom>
+          <FeedbackSource>Motor</FeedbackSource>
+          <DeviceType>IncrementalSineWaveEncoder</DeviceType>
+          <DeviceOrientation>Rotary</DeviceOrientation>
+          <Resolution>30000</Resolution>
+          <MultiplicationFactor>65536</MultiplicationFactor>
+          <Flags>None</Flags>
+          <AbsoluteEncoderBits>1</AbsoluteEncoderBits>
+          <EnDatEncoderTurns>1</EnDatEncoderTurns>
+          <EnDatEncoderProtocolVersion>EnDat21</EnDatEncoderProtocolVersion>
+          <BissEncoderTurns>1</BissEncoderTurns>
+          <AbsoluteEncoderIncrementalResolution>30000</AbsoluteEncoderIncrementalResolution>
+        </PrimaryFeedback>
+        <AuxiliaryFeedback />
+        <ServoLoop />
+        <CurrentLoop />
+        <NominalTravel>1</NominalTravel>
+      </MechanicalAxis>
+      <ElectricalAxis>
+        <DisplayName>iXR3 Axis 3</DisplayName>
+        <HyperWireCommunicationChannel>2</HyperWireCommunicationChannel>
+        <DriveComponent>
+          <Type>XR3_XSL3</Type>
+          <BusVoltage>80</BusVoltage>
+          <HasBipolarBusVoltage>true</HasBipolarBusVoltage>
+          <PeakCurrent>10</PeakCurrent>
+          <ContinuousCurrent>1.5</ContinuousCurrent>
+          <ServoRate>TwentykHz</ServoRate>
+          <AnalogInputUpdateRate>TwentykHz</AnalogInputUpdateRate>
+          <HasPrimaryMXSupport>true</HasPrimaryMXSupport>
+          <PrimaryFbkMaxMultiplier>65536</PrimaryFbkMaxMultiplier>
+          <HasAuxiliaryMXSupport>false</HasAuxiliaryMXSupport>
+          <AuxiliaryFbkMaxMultiplier>0</AuxiliaryFbkMaxMultiplier>
+          <SupportsSingleEndedEncoderInputs>false</SupportsSingleEndedEncoderInputs>
+          <SupportsClockDirection>false</SupportsClockDirection>
+          <SupportsGalvoInterface>false</SupportsGalvoInterface>
+          <HasBiSSEncoderSupport>true</HasBiSSEncoderSupport>
+          <HasEnDatEncoderSupport>true</HasEnDatEncoderSupport>
+          <RequiresServoOutputScaling>false</RequiresServoOutputScaling>
+          <CurrentLoopAmplifierDelay>25.4</CurrentLoopAmplifierDelay>
+          <CurrentLoopAmplifierGain>39.9</CurrentLoopAmplifierGain>
+          <CurrentLoopLowPassFilterResistance>1000</CurrentLoopLowPassFilterResistance>
+          <CurrentLoopLowPassFilterCapacitance>0.0091</CurrentLoopLowPassFilterCapacitance>
+          <CurrentLoopAmplifierRolloffFilterResistance>15000</CurrentLoopAmplifierRolloffFilterResistance>
+          <CurrentLoopAmplifierRolloffFilterCapacitance>0.00073</CurrentLoopAmplifierRolloffFilterCapacitance>
+          <CurrentLoopShouldIncludeZOHDelay>true</CurrentLoopShouldIncludeZOHDelay>
+          <OptimizeAmplifierDeadtime>false</OptimizeAmplifierDeadtime>
+          <IncludeLinearAmpVoltageClamp>true</IncludeLinearAmpVoltageClamp>
+        </DriveComponent>
+      </ElectricalAxis>
+      <Units>
+        <Name>deg</Name>
+        <Type>Rotary</Type>
+        <ScaleFactor>0.002777777777777778</ScaleFactor>
+        <WorkPointDiameter />
+        <IsInverted>false</IsInverted>
+        <IsCustom>false</IsCustom>
+      </Units>
+      <Name>Rz</Name>
+      <FeedbackDeviceConnectionSetup>MechanicalPrimaryToElectricalPrimary</FeedbackDeviceConnectionSetup>
+    </AxisConfiguration>
+    <AxisConfiguration>
+      <Index>3</Index>
+      <MechanicalAxis>
+        <DisplayName>ABRX250</DisplayName>
+        <Stage>
+          <RotaryStageComponent>
+            <Name>ABRX250</Name>
+            <IsCustom>false</IsCustom>
+            <DefaultSpeed>0.5</DefaultSpeed>
+            <LimitDecelDistance>0</LimitDecelDistance>
+            <DefaultRampRate>0.5555555555555556</DefaultRampRate>
+            <ThermistorAvailable>true</ThermistorAvailable>
+            <HomeSpeed>0.5</HomeSpeed>
+            <HomeRampRate>0.5555555555555556</HomeRampRate>
+            <MaxSpeed>13.333333333333334</MaxSpeed>
+            <CarriageInertia>0.0365</CarriageInertia>
+            <LoadInertia>0</LoadInertia>
+            <MotorCurrentDerateFactor>1</MotorCurrentDerateFactor>
+            <TransmissionRatio>1</TransmissionRatio>
+            <Efficiency>1</Efficiency>
+            <LimitType>None</LimitType>
+            <LimitPolarity>NotApplicable</LimitPolarity>
+            <HasBrake>false</HasBrake>
+          </RotaryStageComponent>
+        </Stage>
+        <Motor>
+          <RotaryMotorComponent>
+            <Name>ABRX250-Motor</Name>
+            <MotorType>Rotary</MotorType>
+            <IsCustom>false</IsCustom>
+            <Resistance>13.14</Resistance>
+            <Inductance>6.04</Inductance>
+            <PeakTorque>16.6</PeakTorque>
+            <ContinuousTorque>2.9</ContinuousTorque>
+            <TorqueConstant>1.383</TorqueConstant>
+            <PolesPerRevolution>18</PolesPerRevolution>
+            <PolePitch>0</PolePitch>
+            <RotorInertia>0.0065</RotorInertia>
+            <BackEMFConstant>167.2</BackEMFConstant>
+            <HasHallEffectSwitches>true</HasHallEffectSwitches>
+            <IsBrushless>true</IsBrushless>
+            <CommutationOffset>0</CommutationOffset>
+            <TransmissionRatio>1</TransmissionRatio>
+            <HasBrake>false</HasBrake>
+            <MaxTemp>70</MaxTemp>
+          </RotaryMotorComponent>
+        </Motor>
+        <Logical />
+        <CurrentCommand />
+        <PrimaryFeedback>
+          <Name>Standard</Name>
+          <IsCustom>false</IsCustom>
+          <FeedbackSource>Motor</FeedbackSource>
+          <DeviceType>IncrementalSineWaveEncoder</DeviceType>
+          <DeviceOrientation>Rotary</DeviceOrientation>
+          <Resolution>63000</Resolution>
+          <MultiplicationFactor>65536</MultiplicationFactor>
+          <Flags>None</Flags>
+          <AbsoluteEncoderBits>1</AbsoluteEncoderBits>
+          <EnDatEncoderTurns>1</EnDatEncoderTurns>
+          <EnDatEncoderProtocolVersion>EnDat21</EnDatEncoderProtocolVersion>
+          <BissEncoderTurns>1</BissEncoderTurns>
+          <AbsoluteEncoderIncrementalResolution>63000</AbsoluteEncoderIncrementalResolution>
+        </PrimaryFeedback>
+        <AuxiliaryFeedback />
+        <ServoLoop />
+        <CurrentLoop />
+        <NominalTravel>1</NominalTravel>
+      </MechanicalAxis>
+      <ElectricalAxis>
+        <DisplayName>iXR3 Axis 4</DisplayName>
+        <HyperWireCommunicationChannel>3</HyperWireCommunicationChannel>
+        <DriveComponent>
+          <Type>XR3_XSP3</Type>
+          <BusVoltage>80</BusVoltage>
+          <HasBipolarBusVoltage>true</HasBipolarBusVoltage>
+          <PeakCurrent>10</PeakCurrent>
+          <ContinuousCurrent>5</ContinuousCurrent>
+          <ServoRate>TwentykHz</ServoRate>
+          <AnalogInputUpdateRate>TwentykHz</AnalogInputUpdateRate>
+          <HasPrimaryMXSupport>true</HasPrimaryMXSupport>
+          <PrimaryFbkMaxMultiplier>65536</PrimaryFbkMaxMultiplier>
+          <HasAuxiliaryMXSupport>false</HasAuxiliaryMXSupport>
+          <AuxiliaryFbkMaxMultiplier>0</AuxiliaryFbkMaxMultiplier>
+          <SupportsSingleEndedEncoderInputs>false</SupportsSingleEndedEncoderInputs>
+          <SupportsClockDirection>false</SupportsClockDirection>
+          <SupportsGalvoInterface>false</SupportsGalvoInterface>
+          <HasBiSSEncoderSupport>true</HasBiSSEncoderSupport>
+          <HasEnDatEncoderSupport>true</HasEnDatEncoderSupport>
+          <RequiresServoOutputScaling>false</RequiresServoOutputScaling>
+          <CurrentLoopAmplifierDelay>45.6</CurrentLoopAmplifierDelay>
+          <CurrentLoopAmplifierGain>0</CurrentLoopAmplifierGain>
+          <CurrentLoopLowPassFilterResistance>200</CurrentLoopLowPassFilterResistance>
+          <CurrentLoopLowPassFilterCapacitance>0.01</CurrentLoopLowPassFilterCapacitance>
+          <CurrentLoopAmplifierRolloffFilterResistance>0</CurrentLoopAmplifierRolloffFilterResistance>
+          <CurrentLoopAmplifierRolloffFilterCapacitance>0</CurrentLoopAmplifierRolloffFilterCapacitance>
+          <CurrentLoopShouldIncludeZOHDelay>false</CurrentLoopShouldIncludeZOHDelay>
+          <OptimizeAmplifierDeadtime>true</OptimizeAmplifierDeadtime>
+          <BusOvervoltageThreshold>200</BusOvervoltageThreshold>
+          <IncludeLinearAmpVoltageClamp>false</IncludeLinearAmpVoltageClamp>
+        </DriveComponent>
+      </ElectricalAxis>
+      <Units>
+        <Name>deg</Name>
+        <Type>Rotary</Type>
+        <ScaleFactor>0.002777777777777778</ScaleFactor>
+        <WorkPointDiameter />
+        <IsInverted>false</IsInverted>
+        <IsCustom>false</IsCustom>
+      </Units>
+      <Name>Theta</Name>
+      <FeedbackDeviceConnectionSetup>MechanicalPrimaryToElectricalPrimary</FeedbackDeviceConnectionSetup>
+    </AxisConfiguration>
+  </Axes>
+</MachineSetupConfiguration></Configuration>
+  </Data>
+</File>
+
+================================================================================
+
+File: Names
+--------------------------------------------------------------------------------
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<File SchemaVersion="1.0.0.0">
+	<FileInformation>
+		<SoftwareVersion>2.10.2.3124</SoftwareVersion>
+		<OldestCompatibleSoftwareVersion>1.0.0.0</OldestCompatibleSoftwareVersion>
+	</FileInformation>
+	<Data>
+		<ControllerName>643276-1-1 No Load</ControllerName>
+	</Data>
+</File>
+
+================================================================================
+
+File: Parameters
+--------------------------------------------------------------------------------
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<File SchemaVersion="1.0.0.0">
+	<FileInformation>
+		<SoftwareVersion>2.10.2.3124</SoftwareVersion>
+		<OldestCompatibleSoftwareVersion>1.0.0.0</OldestCompatibleSoftwareVersion>
+	</FileInformation>
+	<Data>
+		<Parameters>
+			<System>
+				<P id="278" n="EnabledTasks">5</P>
+			</System>
+			<Axes>
+				<Axis Index="0">
+					<P id="67" n="AbortDecelRate">110</P>
+					<P id="29" n="AverageCurrentThreshold">1.5</P>
+					<P id="0" n="AxisName">Y</P>
+					<P id="4" n="CountsPerUnit">3276800</P>
+					<P id="540" n="CurrentLoopFeedforwardBackEmf">33.24</P>
+					<P id="539" n="CurrentLoopFeedforwardGainLff">3.2</P>
+					<P id="538" n="CurrentLoopFeedforwardGainRff">4</P>
+					<P id="21" n="CurrentLoopGainK">5900</P>
+					<P id="20" n="CurrentLoopGainKi">1000</P>
+					<P id="398" n="CurrentLoopSetup">64</P>
+					<P id="66" n="DefaultAxisRampRate">100</P>
+					<P id="177" n="DefaultAxisRampTime">1</P>
+					<P id="269" n="DefaultAxisRampType">2</P>
+					<P id="65" n="DefaultAxisSpeed">25</P>
+					<P id="27" n="EmergencyStopFaultInput">-1</P>
+					<P id="55" n="EndOfTravelLimitSetup">7</P>
+					<P id="22" n="FaultMask">1355165695</P>
+					<P id="44" n="FeedbackInput0">1</P>
+					<P id="46" n="FeedbackInput1">1</P>
+					<P id="390" n="FeedforwardAdvance">0.375</P>
+					<P id="463" n="FeedforwardFilter00CoeffD1">-1.564504</P>
+					<P id="464" n="FeedforwardFilter00CoeffD2">0.64366233</P>
+					<P id="460" n="FeedforwardFilter00CoeffN0">0.019789582</P>
+					<P id="461" n="FeedforwardFilter00CoeffN1">0.039579164</P>
+					<P id="462" n="FeedforwardFilter00CoeffN2">0.019789582</P>
+					<P id="499" n="FeedforwardFilterSetup">1</P>
+					<P id="7" n="FeedforwardGainAff">21.9</P>
+					<P id="496" n="FeedforwardGainNormalizationFactor">94765056000</P>
+					<P id="6" n="FeedforwardGainVff">535</P>
+					<P id="71" n="HomeOffset">-41.0447</P>
+					<P id="72" n="HomeRampRate">100</P>
+					<P id="70" n="HomeSpeed">25</P>
+					<P id="68" n="HomeType">1</P>
+					<P id="36" n="InPositionDistance">2.5E-05</P>
+					<P id="109" n="JoystickHighSpeed">50</P>
+					<P id="108" n="JoystickLowSpeed">25</P>
+					<P id="53" n="LimitDecelDistance">1</P>
+					<P id="528" n="LinearAmpVoltageClamp">40</P>
+					<P id="35" n="MaxCurrentClamp">10</P>
+					<P id="64" n="MaxJogDistance">100</P>
+					<P id="92" n="MaxJogSpeed">25</P>
+					<P id="205" n="MaxSpeedClamp">100</P>
+					<P id="500" n="MotorPolePitch">30.48</P>
+					<P id="28" n="PositionErrorThreshold">0.25</P>
+					<P id="50" n="PrimaryEncoder0CosineGain">1.0702426</P>
+					<P id="51" n="PrimaryEncoder0CosineOffset">-1.6109835</P>
+					<P id="52" n="PrimaryEncoder0Phase">0.06833944</P>
+					<P id="48" n="PrimaryEncoder0SineGain">1.0725739</P>
+					<P id="49" n="PrimaryEncoder0SineOffset">-0.46879622</P>
+					<P id="47" n="PrimaryEncoderMultiplicationFactor">65536</P>
+					<P id="501" n="PrimaryFeedbackResolution">0.00030517578125</P>
+					<P id="43" n="PrimaryFeedbackType">2</P>
+					<P id="9" n="ServoLoopFilter00CoeffN0">0.019789582</P>
+					<P id="10" n="ServoLoopFilter00CoeffN1">0.039579164</P>
+					<P id="11" n="ServoLoopFilter00CoeffN2">0.019789582</P>
+					<P id="17" n="ServoLoopFilter01CoeffD1">0</P>
+					<P id="18" n="ServoLoopFilter01CoeffD2">0</P>
+					<P id="14" n="ServoLoopFilter01CoeffN0">1</P>
+					<P id="15" n="ServoLoopFilter01CoeffN1">0</P>
+					<P id="16" n="ServoLoopFilter01CoeffN2">0</P>
+					<P id="85" n="ServoLoopFilter02CoeffD1">-1.8108568</P>
+					<P id="86" n="ServoLoopFilter02CoeffD2">0.9132598</P>
+					<P id="82" n="ServoLoopFilter02CoeffN0">0.96957755</P>
+					<P id="83" n="ServoLoopFilter02CoeffN1">-1.8108568</P>
+					<P id="84" n="ServoLoopFilter02CoeffN2">0.94368225</P>
+					<P id="90" n="ServoLoopFilter03CoeffD1">-1.6212275</P>
+					<P id="91" n="ServoLoopFilter03CoeffD2">0.8980386</P>
+					<P id="87" n="ServoLoopFilter03CoeffN0">0.9690828</P>
+					<P id="88" n="ServoLoopFilter03CoeffN1">-1.6212275</P>
+					<P id="89" n="ServoLoopFilter03CoeffN2">0.92895585</P>
+					<P id="185" n="ServoLoopFilter04CoeffD1">-1.8252478</P>
+					<P id="186" n="ServoLoopFilter04CoeffD2">0.8861604</P>
+					<P id="182" n="ServoLoopFilter04CoeffN0">0.959496</P>
+					<P id="183" n="ServoLoopFilter04CoeffN1">-1.8252478</P>
+					<P id="184" n="ServoLoopFilter04CoeffN2">0.92666435</P>
+					<P id="190" n="ServoLoopFilter05CoeffD1">-1.8258653</P>
+					<P id="191" n="ServoLoopFilter05CoeffD2">0.9151819</P>
+					<P id="187" n="ServoLoopFilter05CoeffN0">0.98434925</P>
+					<P id="188" n="ServoLoopFilter05CoeffN1">-1.8258653</P>
+					<P id="189" n="ServoLoopFilter05CoeffN2">0.9308326</P>
+					<P id="178" n="ServoLoopFilterSetup">61</P>
+					<P id="486" n="ServoLoopGainK">7.74</P>
+					<P id="484" n="ServoLoopGainKip">9.95</P>
+					<P id="487" n="ServoLoopGainKiv">19.9</P>
+					<P id="489" n="ServoLoopGainNormalizationFactor">94765056</P>
+					<P id="34" n="SoftwareLimitHigh">100.1</P>
+					<P id="33" n="SoftwareLimitLow">-0.1</P>
+					<P id="137" n="SoftwareLimitSetup">2</P>
+					<P id="31" n="VelocityCommandThreshold">110</P>
+					<P id="362" n="VelocityCommandThresholdBeforeHome">30</P>
+					<P id="32" n="VelocityErrorThreshold">10</P>
+				</Axis>
+				<Axis Index="1">
+					<P id="67" n="AbortDecelRate">110</P>
+					<P id="29" n="AverageCurrentThreshold">1.5</P>
+					<P id="0" n="AxisName">X</P>
+					<P id="4" n="CountsPerUnit">3276800</P>
+					<P id="540" n="CurrentLoopFeedforwardBackEmf">30.66</P>
+					<P id="539" n="CurrentLoopFeedforwardGainLff">1.9</P>
+					<P id="538" n="CurrentLoopFeedforwardGainRff">6.4</P>
+					<P id="21" n="CurrentLoopGainK">2500</P>
+					<P id="20" n="CurrentLoopGainKi">2000</P>
+					<P id="398" n="CurrentLoopSetup">64</P>
+					<P id="66" n="DefaultAxisRampRate">100</P>
+					<P id="177" n="DefaultAxisRampTime">1</P>
+					<P id="269" n="DefaultAxisRampType">2</P>
+					<P id="65" n="DefaultAxisSpeed">25</P>
+					<P id="55" n="EndOfTravelLimitSetup">7</P>
+					<P id="22" n="FaultMask">1355165695</P>
+					<P id="44" n="FeedbackInput0">1</P>
+					<P id="46" n="FeedbackInput1">1</P>
+					<P id="390" n="FeedforwardAdvance">0.375</P>
+					<P id="463" n="FeedforwardFilter00CoeffD1">-1.564504</P>
+					<P id="464" n="FeedforwardFilter00CoeffD2">0.64366233</P>
+					<P id="460" n="FeedforwardFilter00CoeffN0">0.019789582</P>
+					<P id="461" n="FeedforwardFilter00CoeffN1">0.039579164</P>
+					<P id="462" n="FeedforwardFilter00CoeffN2">0.019789582</P>
+					<P id="499" n="FeedforwardFilterSetup">1</P>
+					<P id="7" n="FeedforwardGainAff">12.1</P>
+					<P id="496" n="FeedforwardGainNormalizationFactor">87392256000</P>
+					<P id="71" n="HomeOffset">-102.004</P>
+					<P id="72" n="HomeRampRate">100</P>
+					<P id="70" n="HomeSpeed">25</P>
+					<P id="68" n="HomeType">1</P>
+					<P id="36" n="InPositionDistance">2.5E-05</P>
+					<P id="109" n="JoystickHighSpeed">50</P>
+					<P id="108" n="JoystickLowSpeed">25</P>
+					<P id="53" n="LimitDecelDistance">8.6</P>
+					<P id="528" n="LinearAmpVoltageClamp">40</P>
+					<P id="35" n="MaxCurrentClamp">10</P>
+					<P id="64" n="MaxJogDistance">200</P>
+					<P id="92" n="MaxJogSpeed">25</P>
+					<P id="205" n="MaxSpeedClamp">100</P>
+					<P id="500" n="MotorPolePitch">25</P>
+					<P id="28" n="PositionErrorThreshold">0.25</P>
+					<P id="50" n="PrimaryEncoder0CosineGain">1.1738544</P>
+					<P id="51" n="PrimaryEncoder0CosineOffset">24.062117</P>
+					<P id="52" n="PrimaryEncoder0Phase">2.3593462</P>
+					<P id="48" n="PrimaryEncoder0SineGain">1.2025055</P>
+					<P id="49" n="PrimaryEncoder0SineOffset">4.127945</P>
+					<P id="47" n="PrimaryEncoderMultiplicationFactor">65536</P>
+					<P id="501" n="PrimaryFeedbackResolution">0.00030517578125</P>
+					<P id="43" n="PrimaryFeedbackType">2</P>
+					<P id="9" n="ServoLoopFilter00CoeffN0">0.019789582</P>
+					<P id="10" n="ServoLoopFilter00CoeffN1">0.039579164</P>
+					<P id="11" n="ServoLoopFilter00CoeffN2">0.019789582</P>
+					<P id="17" n="ServoLoopFilter01CoeffD1">0</P>
+					<P id="18" n="ServoLoopFilter01CoeffD2">0</P>
+					<P id="14" n="ServoLoopFilter01CoeffN0">1</P>
+					<P id="15" n="ServoLoopFilter01CoeffN1">0</P>
+					<P id="16" n="ServoLoopFilter01CoeffN2">0</P>
+					<P id="85" n="ServoLoopFilter02CoeffD1">-1.9436108</P>
+					<P id="86" n="ServoLoopFilter02CoeffD2">0.95676285</P>
+					<P id="82" n="ServoLoopFilter02CoeffN0">0.99096566</P>
+					<P id="83" n="ServoLoopFilter02CoeffN1">-1.9436108</P>
+					<P id="84" n="ServoLoopFilter02CoeffN2">0.9657972</P>
+					<P id="178" n="ServoLoopFilterSetup">5</P>
+					<P id="486" n="ServoLoopGainK">4.5691507012787325</P>
+					<P id="484" n="ServoLoopGainKip">8.97</P>
+					<P id="487" n="ServoLoopGainKiv">17.9</P>
+					<P id="489" n="ServoLoopGainNormalizationFactor">87392256</P>
+					<P id="34" n="SoftwareLimitHigh">200.1</P>
+					<P id="33" n="SoftwareLimitLow">-0.1</P>
+					<P id="137" n="SoftwareLimitSetup">2</P>
+					<P id="31" n="VelocityCommandThreshold">110</P>
+					<P id="362" n="VelocityCommandThresholdBeforeHome">30</P>
+					<P id="32" n="VelocityErrorThreshold">10</P>
+				</Axis>
+				<Axis Index="2">
+					<P id="67" n="AbortDecelRate">16.5</P>
+					<P id="29" n="AverageCurrentThreshold">1.232493</P>
+					<P id="0" n="AxisName">Rz</P>
+					<P id="2" n="AxisType">1</P>
+					<P id="4" n="CountsPerUnit">5461333.333333334</P>
+					<P id="540" n="CurrentLoopFeedforwardBackEmf">43.45</P>
+					<P id="539" n="CurrentLoopFeedforwardGainLff">3.15</P>
+					<P id="538" n="CurrentLoopFeedforwardGainRff">16.69</P>
+					<P id="21" n="CurrentLoopGainK">2800</P>
+					<P id="20" n="CurrentLoopGainKi">3700</P>
+					<P id="398" n="CurrentLoopSetup">64</P>
+					<P id="66" n="DefaultAxisRampRate">15</P>
+					<P id="177" n="DefaultAxisRampTime">1</P>
+					<P id="269" n="DefaultAxisRampType">2</P>
+					<P id="65" n="DefaultAxisSpeed">3.75</P>
+					<P id="22" n="FaultMask">1355165635</P>
+					<P id="44" n="FeedbackInput0">1</P>
+					<P id="46" n="FeedbackInput1">1</P>
+					<P id="390" n="FeedforwardAdvance">0.375</P>
+					<P id="463" n="FeedforwardFilter00CoeffD1">-1.564504</P>
+					<P id="464" n="FeedforwardFilter00CoeffD2">0.64366233</P>
+					<P id="460" n="FeedforwardFilter00CoeffN0">0.019789582</P>
+					<P id="461" n="FeedforwardFilter00CoeffN1">0.039579164</P>
+					<P id="462" n="FeedforwardFilter00CoeffN2">0.019789582</P>
+					<P id="499" n="FeedforwardFilterSetup">1</P>
+					<P id="7" n="FeedforwardGainAff">0.00245</P>
+					<P id="496" n="FeedforwardGainNormalizationFactor">111709352.13353856</P>
+					<P id="71" n="HomeOffset">0.5</P>
+					<P id="72" n="HomeRampRate">15</P>
+					<P id="70" n="HomeSpeed">12</P>
+					<P id="68" n="HomeType">2</P>
+					<P id="36" n="InPositionDistance">2.777777777777778E-05</P>
+					<P id="109" n="JoystickHighSpeed">7.5</P>
+					<P id="108" n="JoystickLowSpeed">3.75</P>
+					<P id="528" n="LinearAmpVoltageClamp">40</P>
+					<P id="35" n="MaxCurrentClamp">4.793289</P>
+					<P id="64" n="MaxJogDistance">360</P>
+					<P id="92" n="MaxJogSpeed">7.5</P>
+					<P id="205" n="MaxSpeedClamp">15</P>
+					<P id="500" n="MotorPolePitch">16</P>
+					<P id="37" n="MotorType">1</P>
+					<P id="28" n="PositionErrorThreshold">0.5</P>
+					<P id="50" n="PrimaryEncoder0CosineGain">1.030586</P>
+					<P id="51" n="PrimaryEncoder0CosineOffset">5.649032</P>
+					<P id="52" n="PrimaryEncoder0Phase">0.030268999</P>
+					<P id="48" n="PrimaryEncoder0SineGain">1.0287838</P>
+					<P id="49" n="PrimaryEncoder0SineOffset">5.6830297</P>
+					<P id="47" n="PrimaryEncoderMultiplicationFactor">65536</P>
+					<P id="501" n="PrimaryFeedbackResolution">1966080000</P>
+					<P id="43" n="PrimaryFeedbackType">2</P>
+					<P id="17" n="ServoLoopFilter01CoeffD1">-1.9702107</P>
+					<P id="18" n="ServoLoopFilter01CoeffD2">0.98029363</P>
+					<P id="14" n="ServoLoopFilter01CoeffN0">0.99636376</P>
+					<P id="15" n="ServoLoopFilter01CoeffN1">-1.9702107</P>
+					<P id="16" n="ServoLoopFilter01CoeffN2">0.9839299</P>
+					<P id="178" n="ServoLoopFilterSetup">3</P>
+					<P id="486" n="ServoLoopGainK">1.0410053294342776</P>
+					<P id="484" n="ServoLoopGainKip">8.97</P>
+					<P id="487" n="ServoLoopGainKiv">17.9</P>
+					<P id="489" n="ServoLoopGainNormalizationFactor">111709352.13353856</P>
+					<P id="95" n="UnitsName">deg</P>
+					<P id="31" n="VelocityCommandThreshold">16.5</P>
+					<P id="362" n="VelocityCommandThresholdBeforeHome">15</P>
+					<P id="32" n="VelocityErrorThreshold">1.5</P>
+				</Axis>
+				<Axis Index="3">
+					<P id="67" n="AbortDecelRate">2.2</P>
+					<P id="29" n="AverageCurrentThreshold">2.096891</P>
+					<P id="0" n="AxisName">Theta</P>
+					<P id="2" n="AxisType">1</P>
+					<P id="532" n="BusOvervoltageThreshold">200</P>
+					<P id="4" n="CountsPerUnit">11468800</P>
+					<P id="540" n="CurrentLoopFeedforwardBackEmf">167.2</P>
+					<P id="541" n="CurrentLoopFeedforwardBusVoltage">80</P>
+					<P id="539" n="CurrentLoopFeedforwardGainLff">6.04</P>
+					<P id="538" n="CurrentLoopFeedforwardGainRff">13.14</P>
+					<P id="21" n="CurrentLoopGainK">7700</P>
+					<P id="20" n="CurrentLoopGainKi">1900</P>
+					<P id="398" n="CurrentLoopSetup">32</P>
+					<P id="66" n="DefaultAxisRampRate">2</P>
+					<P id="177" n="DefaultAxisRampTime">1.5</P>
+					<P id="269" n="DefaultAxisRampType">2</P>
+					<P id="65" n="DefaultAxisSpeed">1</P>
+					<P id="27" n="EmergencyStopFaultInput">-1</P>
+					<P id="22" n="FaultMask">1355165635</P>
+					<P id="44" n="FeedbackInput0">1</P>
+					<P id="46" n="FeedbackInput1">1</P>
+					<P id="390" n="FeedforwardAdvance">0.5</P>
+					<P id="463" n="FeedforwardFilter00CoeffD1">-1.564504</P>
+					<P id="464" n="FeedforwardFilter00CoeffD2">0.64366233</P>
+					<P id="460" n="FeedforwardFilter00CoeffN0">0.019789582</P>
+					<P id="461" n="FeedforwardFilter00CoeffN1">0.039579164</P>
+					<P id="462" n="FeedforwardFilter00CoeffN2">0.019789582</P>
+					<P id="499" n="FeedforwardFilterSetup">1</P>
+					<P id="7" n="FeedforwardGainAff">0.043</P>
+					<P id="496" n="FeedforwardGainNormalizationFactor">908788435.2981402</P>
+					<P id="71" n="HomeOffset">0.95</P>
+					<P id="72" n="HomeRampRate">3</P>
+					<P id="70" n="HomeSpeed">2</P>
+					<P id="68" n="HomeType">2</P>
+					<P id="36" n="InPositionDistance">2.777777777777778E-05</P>
+					<P id="109" n="JoystickHighSpeed">2</P>
+					<P id="108" n="JoystickLowSpeed">1</P>
+					<P id="35" n="MaxCurrentClamp">6.08828</P>
+					<P id="64" n="MaxJogDistance">360</P>
+					<P id="92" n="MaxJogSpeed">2</P>
+					<P id="205" n="MaxSpeedClamp">3</P>
+					<P id="500" n="MotorPolePitch">18</P>
+					<P id="37" n="MotorType">1</P>
+					<P id="28" n="PositionErrorThreshold">0.5</P>
+					<P id="50" n="PrimaryEncoder0CosineGain">1.0108389</P>
+					<P id="51" n="PrimaryEncoder0CosineOffset">4.2263684</P>
+					<P id="52" n="PrimaryEncoder0Phase">-0.016267141</P>
+					<P id="48" n="PrimaryEncoder0SineGain">1.0198504</P>
+					<P id="49" n="PrimaryEncoder0SineOffset">5.1954703</P>
+					<P id="47" n="PrimaryEncoderMultiplicationFactor">65536</P>
+					<P id="501" n="PrimaryFeedbackResolution">4128768000</P>
+					<P id="43" n="PrimaryFeedbackType">2</P>
+					<P id="486" n="ServoLoopGainK">14.492977191817218</P>
+					<P id="484" n="ServoLoopGainKip">8.97</P>
+					<P id="487" n="ServoLoopGainKiv">17.9</P>
+					<P id="489" n="ServoLoopGainNormalizationFactor">908788435.2981402</P>
+					<P id="95" n="UnitsName">deg</P>
+					<P id="31" n="VelocityCommandThreshold">3.3</P>
+					<P id="362" n="VelocityCommandThresholdBeforeHome">2.5</P>
+					<P id="32" n="VelocityErrorThreshold">0.3</P>
+				</Axis>
+			</Axes>
+			<Tasks>
+				<Task Index="1">
+					<P id="115" n="DefaultCoordinatedRampRate">100</P>
+					<P id="175" n="DefaultCoordinatedRampTime">1</P>
+					<P id="114" n="DefaultCoordinatedSpeed">100</P>
+					<P id="116" n="DefaultDependentCoordinatedRampRate">2</P>
+					<P id="219" n="DefaultDependentCoordinatedSpeed">3</P>
+					<P id="1" n="TaskName">Task 1</P>
+				</Task>
+				<Task Index="2">
+					<P id="1" n="TaskName">Task 2</P>
+				</Task>
+				<Task Index="3">
+					<P id="1" n="TaskName">Task 3</P>
+				</Task>
+				<Task Index="4">
+					<P id="1" n="TaskName">Task 4</P>
+				</Task>
+			</Tasks>
+		</Parameters>
+	</Data>
+</File>
+
+================================================================================

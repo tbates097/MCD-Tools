@@ -1,0 +1,19 @@
+SELECT
+  created,
+  lastupdate,
+  SalesOrderNos,
+  summary,
+  description,
+  labels,
+  issue,
+  status,
+  assigneename,
+  CustomerName
+FROM
+  `warehouse-363320.jira_project_data.servicedeskjira_GTSE_header`
+WHERE
+  DATE(created) BETWEEN @start_date AND @end_date
+  --AND (
+    --REGEXP_CONTAINS(LOWER(summary), r'tuning|unstable|fault|error')
+    --OR REGEXP_CONTAINS(LOWER(description), r'tuning|unstable|fault|error')
+  --)

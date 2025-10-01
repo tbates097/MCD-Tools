@@ -1,0 +1,1431 @@
+=== Tuning Issues Cases ===
+Generated: 2025-07-14 16:36:13
+Total cases: 159
+================================================================================
+
+--- Case 1 ---
+Created: 2024-10-07 23:12:39+00:00
+Customer: KLA Tencor - Singapore
+Status: Resolved
+Summary: KLA (Singapore) Pte Ltd \ 7308_63832811 very noisy new stage
+Description: Hi Adrian, We received a new stage 7308_63832811 which I found out is very noisy I have never seen before(from the result file). I know it passed monster result, but this is so abnormally noisy stage I don’t think Aerotech will treat this as normal stage. Please help to feedback AT US team with this concern. We need AT to review the result file again and clarify why the abnormal result and advise any comment. The stage is on hold now for install to system, pending AT answer. !image002.png\ thumbnail! !image004.png\ thumbnail! BR James CONFIDENTIALITY NOTICE: This email transmission, and any documents, files or previous email messages attached to it, may contain confidential information. If you are not the intended recipient or a person responsible for delivering it to the intended recipient, you are hereby notified that any disclosure, copying, distribution or use of any of the information contained in or attached to this message is STRICTLY PROHIBITED. If you have received this transmission in error, please immediately destroy the original transmission and its attachments without reading them or saving them to disk. Email communications may be monitored by KLA as permitted by applicable law and regulations. For more information, read our Privacy Policy at www.kla.com/privacypolicy.\ http://www.kla.com/privacypolicy Thank you.
+
+================================================================================
+
+--- Case 2 ---
+Created: 2024-07-18 22:17:29+00:00
+Customer: KLA Tencor - Singapore
+Status: Resolved
+Summary: KLA (Singapore) Pte Ltd \ XR3 stage tuning filter no limit
+Description: Hi Adrian, Recently our MFG folk found out the filter number is run out (1 lowpass, 7 notch) during stage tuning, especially for few stages are really tough to tune. Question is, can we use more 7 notch filters for stage tuning? Does AT have any advice for this when we run out of filters? One issue we have seen now is when use more than 7, the monster/LT parser will pop up error therefor we can’t see the tuning result. BR James CONFIDENTIALITY NOTICE: This email transmission, and any documents, files or previous email messages attached to it, may contain confidential information. If you are not the intended recipient or a person responsible for delivering it to the intended recipient, you are hereby notified that any disclosure, copying, distribution or use of any of the information contained in or attached to this message is STRICTLY PROHIBITED. If you have received this transmission in error, please immediately destroy the original transmission and its attachments without reading them or saving them to disk. Email communications may be monitored by KLA as permitted by applicable law and regulations. For more information, read our Privacy Policy at www.kla.com/privacypolicy.\ http://www.kla.com/privacypolicy Thank you.
+
+================================================================================
+
+--- Case 3 ---
+Created: 2024-08-04 23:10:08+00:00
+Status: Resolved
+Summary: Change amplifier type concern for XR3 stage tuning
+Description: Hi Adrian, Our MFG found out, by changing amplifier type from “CP” to “XR3(XSL3)”, we can parser the monster data when use notch filter more than 7. Can you help to check with AT US team if there is any concern to change amplifier type? !image003.png\ thumbnail! BR James CONFIDENTIALITY NOTICE: This email transmission, and any documents, files or previous email messages attached to it, may contain confidential information. If you are not the intended recipient or a person responsible for delivering it to the intended recipient, you are hereby notified that any disclosure, copying, distribution or use of any of the information contained in or attached to this message is STRICTLY PROHIBITED. If you have received this transmission in error, please immediately destroy the original transmission and its attachments without reading them or saving them to disk. Email communications may be monitored by KLA as permitted by applicable law and regulations. For more information, read our Privacy Policy at www.kla.com/privacypolicy.\ http://www.kla.com/privacypolicy Thank you.
+
+================================================================================
+
+--- Case 4 ---
+Created: 2024-07-25 08:38:54+00:00
+Customer: Mesa Parts GmbH
+Status: Resolved
+Summary: Over Current Fault - Z Achse
+Description: Aerotech GmbH Case: 1103 quote: 27165 Order: 504670 Hello everyone, we have the following problem: We have the following disruption on an axis (pantry): “Over current fault” as soon as the motion composer starts. The following measures have already been carried out: Exchange of the axis controller Exchange the engine/donor cable exchange of the engine even after the components are exchanged, the error still remains on the fork. After the system is switched on, there is no error, only when the motion composer is started or selecting the pitch does the error occur. Can you help us here? Mr. Marco Mettmann Tel. 49 7653 698 marco.mettmann@mesaparts.com inthalted@mesaparts.com Mr. Matthias Becker Tel. 49 7653 683 359 Matthias.becker@mesaparts.Atung@mesa-parts.parts.fart
+
+================================================================================
+
+--- Case 5 ---
+Created: 2025-06-26 06:22:01+00:00
+Customer: Solarius GmbH
+Status: Waiting for customer
+Summary: Axis Tuning
+Description: Hello, we use an NDriveCP with the A3200 Software to measure samples. We have two problems right now: # We wanted to adjust the axles using EasyTune, but we can't change the travelDistance. The arrow keys do not work and entered values are automatically set to 0. So we can't start Easytune. what could be the reason? # When measuring, we notice that the axis starts to oscillate during acceleration and braking, which is visible on the measurements in the form of waves. On other systems we were able to reduce the jerk, which parameter do we have to adjust on the A3200 to reduce the vibration behavior? Many thanks for your help\\!
+
+================================================================================
+
+--- Case 6 ---
+Created: 2024-07-29 10:50:32+00:00
+Customer: CSEM SA
+Status: Resolved
+Summary: Fault(s) on axis X: PositionErrorFault
+Description: Dear Artus, dear Aerotech Support, We have currently an issue with the X-axis of our platform: “Fault(s) on axis X: PositionErrorFault”. Upon jogging the stage, the stage can only move a small step along X before the error occurs. This makes the stage unusable for our daily work. Could you please include Noémie Morales in your communication regarding this support request? noemie.morales@csem.ch\ mailto:noemie.morales@csem.ch Best regards, Ton Offermans
+
+================================================================================
+
+--- Case 7 ---
+Created: 2024-07-09 04:42:52+00:00
+Customer: scia Systems GmbH
+Status: Resolved
+Summary: Parameter tuning drive system
+Description: Hello, we have a problem with the drives. After a short time, the engines begin to swing up and then go into an overcurrent error. We would need support for setting the right parameters for the speed controller. Would it be possible that we make an appointment for this and carry out the parameter tuning together? ! Image003.jpg \ thumbnail! Kind regards / Best Regards Franz Graichen software Developer F.Graichen@sciasystems.com Tel.: 49 371 33561 190 MOB.: 49 152 22619324 Scia Systems GmbH Clemenswinklerstr. 6c \ 09116 Chemnitz \ Germany www.sciasystems.com \ http: //www.sciasystems.com/info@sciasystems.com \ Mailto: info@sciasystems.com Tel.: 49 371 335610 \ Fax.: 49 371 33561-200 Chemnitz \ HRB 27983 Management: Dr. Michael Zeuner, Dr. Michael Gempe
+
+================================================================================
+
+--- Case 8 ---
+Created: 2024-08-23 08:20:54+00:00
+Customer: 3D-Micromac AG
+Status: Resolved
+Summary: Electricity regulator tuning and performance increase Fastool
+Description: Hello Mr. Feint, as discussed here the parameter set and the motor information. The aim is to get more performance out of the axis and set and tune the electricity controller accordingly. Other parameters: Air Bearing Axis Encoder: Heidenhain Lip 481r Scale Period: 4 μm Signal Period: 2 μm, 1 V Peak-Peak Thank you and I will send the team viewer data until Monday 9 a.m. Sincerely, Christan Kelterborn
+
+================================================================================
+
+--- Case 9 ---
+Created: 2025-01-22 07:49:42+00:00
+Customer: AUSA Medical Devices Pvt. Ltd.
+Status: Waiting for customer
+Summary: Position error & over current fault
+Description: Hi Bill, We have disconnected the servo motor(BMS60AMSE100H) from the rotary stage(Model:ART320G108, S/N: 39843/1) and connected the servo motor directly to our rotary welding fixture. When the servo motor is rotated by using a command or in Jog mode, it suddenly rotates at a high RPM and stops and it shows position error & over-current fault. I request you to look into this and try to fix the issue at the earliest. I have attached the rotary stage & servo motor model # & S/N for your reference. Best Regards, Naveen
+
+================================================================================
+
+--- Case 10 ---
+Created: 2025-02-27 22:19:37+00:00
+Customer: Western Digital Storage Technologies Thailand Ltd.
+Status: Waiting for customer
+Summary: Re: ask for advice on how to use Easy tuning and other steps that need to be used.
+Description: Create a support case. Hi Walter, Could you help to prepare a quotation to do preventive maintenance of the system below. Expected to be 2 days. Referencing SO 613081. (ANT XYZ) with fiber alignment Please include the SOW in the quotation. Send to : Utis Cumhnoo <Utis.Cumhnoo@wdc.com\ mailto:Utis.Cumhnoo@wdc.com> Thanks and Best Regards, Chairat Srinutisup (Krit) M: 66 653956414 www.aerotech.com\ http://www.aerotech.com/ On Fri, Feb 28, 2025 at 9:43 AM Utis Cumhnoo <Utis.Cumhnoo@wdc.com\ mailto:Utis.Cumhnoo@wdc.com> wrote: Hi P’Kit, งั้นขอ PM มาครับผม Best Regards, Utis Cumhnoo !image001.png\ thumbnail! THO Backend Dev – Assembly & Automation – Light Delivery Process Dev Tel: 66 (0)3 52 78000 Ext:646767(Office), 646768(Lab room) Cisco number:646767 Mobile: +66 (0)865103433
+
+================================================================================
+
+--- Case 11 ---
+Created: 2024-08-27 08:02:59+00:00
+Customer: Seagate Technology (Thailand) Ltd.
+Status: Resolved
+Summary: A3200 high position error and oscillate with high Ki.
+Description: Dear K. Jongruk, Sorry for the late reply. I am crate engineering support case, so that our engineer can help/support you thru this case. (You can also do that next future, by sending email to support@aerotech.com\ mailto:support@aerotech.com). Hi Bill, Please see customer question below and help to assist. Would like to understand on A3200 Digital Scope (6.04.009). I have been found oscillation (High amplitude position error). I resolve by reduce Ki from 40 to 35. The question is why reduce Ki 40 to 35 is able to reduce oscillation. Meanwhile, Command shaping had been set Shape Number = 0 , Type = Standard , Frequency = 82 Hz, and Damping ratio = 0.1. I keen to understand A3200 motion composer and how to prevent the oscillate issues. Thanks and Best Regards, Chairat Srinutisup (Krit) M: 66 653956414 www.aerotech.com \ http://www.aerotech.com !https://d2mW5d04.na1.hssalesengage.com/Cto/LZ23284/d2mW5d04/R5R8b4613N7vz7ZL2fCScW22Vvwk3M10ksW1Q5q9L1XmJT6W1Gyy2W20TZ0_W3z9bvN1Q3H3RW3yQ3Kb1YQxn20ZTzT4W1!
+
+================================================================================
+
+--- Case 12 ---
+Created: 2025-02-24 04:51:31+00:00
+Customer: Applied Materials
+Status: Resolved
+Summary: Stepper motor tuning
+Description: Stepper motor tuning for noise reduction Microsoft Teams Need help?\ https://aka.ms/JoinTeamsMeeting?omkt=enUS Join the meeting now\ https://teams.microsoft.com/l/meetupjoin/19%3ameetingZWRjZTMxNjUtYmFjMi00MDQ5LWJkMWQtMDJkNDM2YzM2N2Vm%40thread.v2/0?context=%7b%22Tid%22%3a%22709c2643b1a94415ad0f521cfa6ba3f5%22%2c%22Oid%22%3a%220beff64f20844f579120a05b979856bf%22%7d Meeting ID: 289 726 551 840 Passcode: J2qX7dw2 Join on a video conferencing device Tenant key: teams@vc.amat.com Video ID: 118 493 511 2 More info\ https://pexip.me/teams/vc.amat.com/1184935112 For organizers: Meeting options\ https://teams.microsoft.com/meetingOptions/?organizerId=0beff64f20844f579120a05b979856bf&tenantId=709c2643b1a94415ad0f521cfa6ba3f5&threadId=19meetingZWRjZTMxNjUtYmFjMi00MDQ5LWJkMWQtMDJkNDM2YzM2N2Vm@thread.v2&messageId=0&language=en-US _ The content of this message is APPLIED MATERIALS CONFIDENTIAL. If you are not the intended recipient, please notify me, delete this email and do not use or distribute this email.
+
+================================================================================
+
+--- Case 13 ---
+Created: 2025-04-25 05:06:20+00:00
+Customer: Flexon Technology
+Status: Paused
+Summary: Flexon Technology \ Noise Issue with Motor
+Description: Dear Aerotech Team, refer SO 642750 We found that the motor makes a noise when it is running. Could you please check if there might be a problem with it? Best Regards, Pongtarin Chutuard Design Engineer Flexontechnology.Co.,Ltd 25/3738 M12 T.Buengkhamphroi A.Lamlukka Phathumthani 12150 Tel. 662152-7390 Mobile 6685 489 8640
+
+================================================================================
+
+--- Case 14 ---
+Created: 2024-08-27 21:55:56+00:00
+Customer: Seagate Technology (Thailand) Ltd
+Status: Resolved
+Summary: Hubspot Enquiry \ Seagate (Thailand) - A3200 high position error and oscillate with high Ki.
+Description: Enquiry from Hubspot: (Aug 2024) I would like to understand on A3200 Digital Scope (6.04.009). I have been found oscillation (High amplitude position error). I resolve by reduce Ki from 40 to 35. The question is why reduce Ki 40 to 35 is able to reduce oscillation. Meanwhile, Command shaping had been set Shape Number = 0 , Type = Standard , Frequency = 82 Hz, and Damping ratio = 0.1. I keen to understand A3200 motion composer and how to prevent the oscillate issues.
+
+================================================================================
+
+--- Case 15 ---
+Created: 2025-06-07 02:47:25+00:00
+Customer: Seagate Technology (Thailand) Ltd. 
+Status: Resolved
+Summary: Request for Guidance on Parameter Compatibility and Gantry Tuning
+Description: Dear Aerotech Support Team, I hope this message finds you well. Following the issues encountered with Omega#107 (GTSE48315), we would like to seek your guidance on two key topics: # Common File Compatibility We experienced an issue when applying the .prma file from Machine #17 to Machine #5, which resulted in the failure to activate Dock0_2. Therefore, we would like to understand: Which parameters can be commonly shared across machines (common parameters)? Which parameters must be machinespecific? In addition to .prma , we would appreciate your recommendations regarding other related files such as .cal and any configuration tied to the XC4 controller (Serial Number). 2. Gantry Tuning Machine #107 has undergone several tuning attempts, including adjustments to Home Offset, Loop Transmission, Fourier Transform, and Gain & Margin. Unfortunately, these efforts have not resolved the issue. We are seeking a practical and reliable tuning method, along with: Clear procedures for implementation Verification methods to ensure the machine operates accurately and stably Given that Aerotech equipment is now widely used across our Omega machines—and will continue to expand—we aim to streamline both operation and maintenance. Therefore, we would like to know: Are there recommended practices to maximize parameter and tuning compatibility across machines? How should we manage configuration files to ensure consistency and avoid conflicts? We would greatly appreciate your advice in helping us establish a standardized approach that supports both current operations and future scalability. Thank you very much for your continued support. Best regards, Tanachai A. Seagate Technology (Thailand) Ltd.
+
+================================================================================
+
+--- Case 16 ---
+Created: 2025-05-28 06:01:23+00:00
+Customer: Seagate technology (thailand) ltd (korat)
+Status: Waiting for customer
+Summary: Request for Technical Support – Motor Noise Issue on LMACES1697910 (Axis: TREY)
+Description: Subject: Request for Technical Support – Motor Noise Issue on LMACES1697910 (Axis: TREY) We are currently experiencing an issue with an AEROTECH motor, model LMACES1697910, installed on axis TREY. After the motor its movement, we have observed an unusual noise that appears to originate from the motor itself. Details: Motor Model: LMACES1697910 Axis: TREY Issue: Audible noise after motor movement Reference: ES16979-10 Looking forward to your prompt support.
+
+================================================================================
+
+--- Case 17 ---
+Created: 2025-05-30 05:45:02+00:00
+Status: Resolved
+Summary: Aerotech noise while the motor was working
+Description: Aerotech noise while the motor was working HGA load machine. SO (Sales Order): N/A SN (Serial Number): 181829A31TREY The system is currently located at : TK/Korat
+
+================================================================================
+
+--- Case 18 ---
+Created: 2025-03-13 00:44:57+00:00
+Customer: Seagate Technology (Thailand) Ltd.
+Status: Resolved
+Summary: Inquiry Regarding Position Error Fault in A3200
+Description: Dear Aerotech Technical Support, I hope you are doing well. We have observed that with an acceleration setting of 5000, a Position Error Fault occurred during operation. Although this issue has been resolved by switching from the "63200911 Loaded.prma" file to the "63200911 Loaded.prma tuning 20240709.prma" file, I would like to understand the root cause of this issue and how to prevent it from occurring in the future. h3. Observation: During testing with acceleration set to 5000, the "63200911 Loaded.prma" file triggered a Position Error Fault. However, when using the "63200911 Loaded.prma tuning 20240709.prma" file, we did not encounter any issues. Additionally, I have collected the following information to assist in troubleshooting: # An image showing the Position Fault Error in the A3200 Motion Composer. # A comparison of the Aerotech parameters to identify any differences. # A scope image from the A3200 during the occurrence of the position fault with acceleration set to 5000. Could you kindly provide insights into the meaning of the Position Error Fault, its root cause, and preventive steps to avoid similar issues in the future? Thank you for your support. I look forward to your response. Sincerely, Jongruk R.
+
+================================================================================
+
+--- Case 19 ---
+Created: 2024-11-13 01:52:42+00:00
+Customer: MMI Systems Technology
+Status: Resolved
+Summary: Tuning Aerotech for ZCL 123
+Description: Position error out of spec need support team remote help for solve the issue.
+
+================================================================================
+
+--- Case 20 ---
+Created: 2024-11-08 15:30:09+00:00
+Customer: Georgia Tech
+Status: Resolved
+Summary: Tuning support, A3200 and A1 training request
+Description: Warm lead. Has 2 systems from Lasea in Belgium needs tuning support and A3200 or A1 training. Lasea tried to tune but was not successful and said maybe the cantilever load was the cause for the instability Yandong Henry Su Georgia Tech (470)7573195
+
+================================================================================
+
+--- Case 21 ---
+Created: 2024-08-20 19:48:54+00:00
+Customer: OrcaBio
+Status: Resolved
+Summary: Remote tuning a rotary motor
+Description: We need help tuning an ADRT100 motor coupled with and Ensemble CP controller. We’d like to schedule an online session with an engineer to tune the motor remotely if possible. We understand there is a cost to the session.
+
+================================================================================
+
+--- Case 22 ---
+Created: 2025-05-01 16:08:45+00:00
+Customer: Jacobian Technologies
+Status: Paused
+Summary: GTS Remote Tuning and Optimization - Jacobian Technologies
+Description: Remote Support Session Scope of Work: Conduct a remote tuning and optimization session, up to 4hour in duration, to optimize servo tuning of each motion axis. Payloads as used during processing should be mounted to the stages to ensure optimal tuning performance. Stages (found on SO 159619): ANT130160L ADRS100MANS Pricing assumes work is performed during normal business hours, Monday Friday, daytime shift. Evening, weekend, or holiday work is billed at overtime rate. If offhours work is expected, please contact Aerotech. Please note: A supported PC with the Aerotech controller installed must have external internet access for a remote tuning session. If the PC cannot be connected to the internet, please contact Aerotech to arrange alternate options. Additional 1 hour increments sold at $320/hr. Dave Fladd fladd@jacobiantech.com\ mailto:fladd@jacobiantech.com * 843324-4272
+
+================================================================================
+
+--- Case 23 ---
+Created: 2025-06-04 11:06:23+00:00
+Customer: Heraeus
+Status: Resolved
+Summary: tuning session
+Description: @Aerotech Support\ mailto:support@aerotech.com, See request below from Ben. Cameron Anderson Sr. Sales Engineer Twin Cities, MN On Tue, Jun 3, 2025 at 12:14 PM Girard, Benoit <benoit.girard@heraeus.com\ mailto:benoit.girard@heraeus.com> wrote: Hey gentlemen, Any chance we can get 12 hr of your time for a remote tuning session? Obviously willing to pay for the service. Ryan and I did as much as we could on our own but can’t get quite fully get there. This is fairly time sensitive. Thanks, Benoit Girard (He/Him) Engineering, R&D NiTi Tech Lead Heraeus Medevio 48 Northern Stacks Drive, Suite 100 Fridley, MN 55421 USA Mobile: +1 5073510488 E-mail: benoit.girard@heraeus.com\ mailto:benoit.girard@heraeus.com
+
+================================================================================
+
+--- Case 24 ---
+Created: 2024-09-18 10:14:11+00:00
+Customer: Applied Materials
+Status: Resolved
+Summary: INTERNAL (Motion Plus) Tuning and Position Fault help for AMAT.
+Description: We would like to start a support ticket on behalf of Applied Materials to get them help with initial troubleshooting related to tuning and position faults. AMAT has purchased independent components including Micronix stages connectorized for Automation1. Motion Plus, with the direction of Micronix have provided the customer with the necessary settings for machine set up of the mechanical devices. The following units were independently tested at Micronix with a similar Automation1 drive. The customer provided their own mounting plate and took responsible for assembly and they were also directed to use appropriate payloads for each axis in machine set up. The system includes the following components: X PPS110 Linear motor with special limit and index location https://buy.motionplusmore.com/product/pps110precisionscrewlinearmotororpiezodrivenpositioner/01tPs000003rMsTIAU\ https://buy.motionplusmore.com/product/pps110precisionscrewlinearmotororpiezodrivenpositioner/01tPs000003rMsTIAU Z (lift) PZS90 with stepper motor and encoder type incremental sq wave https://buy.motionplusmore.com/product/pzs90elevationstage/01tPs000003rMqVIAU\ https://buy.motionplusmore.com/product/pzs90elevationstage/01tPs000003rMqVIAU Automation1iXC210EB2MX0PSO1 (47249001) Automation1XC210EB0MX0PSO1 (36727920) Automation1iSMCL1iXC2CP0H06CM1HX0FA0AP0DCT0MA0IE2S1HW0M1 with EtherCAT communication. 8V5QLH3YND63V9J76R9Q7DMZ The AMAT team is located in India – Bangalore working from morning 10AM to Evening 6 PM IST. Lead contact: Murulikumara Ld <MurulikumaraLd@contractor.amat.com\ mailto:MurulikumaraLd@contractor.amat.com> Jagannath Hanumanthappa <JagannathHanumanthappa@contractor.amat.com\ mailto:JagannathHanumanthappa@contractor.amat.com> Henry Raj <HenryRaj@amat.com\ mailto:HenryRaj@amat.com> Umashankar Bangalore <UmashankarBangalore@amat.com\ mailto:UmashankarBangalore@amat.com> Venkatesan Nalakukal <VenkatesanNalakukal@amat.com\ mailto:VenkatesanNalakukal@amat.com> Latest responses describing errors: 9/16/24 ”But for linear axis tuning error occurring and no option for z axis easy tuning…also to get the XML file for Ecat file in software.” 9/18/24 “We are facing huddles while configuring drives, Jog movement, Homing and for Easy tuning. Kindly help us at earliest on errors I am getting while drives configuration. # Position error occurring if I give jog/homing cmd. # Overcurrent error occurring in linear motor. # End of travel error-occurring in elevation motor. Kindly give quick response as we are overshooting with project timeline.” Thanks & Regards Murulikumara LD Please begin a new ticket for AMAT to begin support and include sales@motionplusmore.com as a participant to the new ticket so that we can learn and assist as able. We can also keep this ticket open for the time being to discuss internally if need be.
+
+================================================================================
+
+--- Case 25 ---
+Created: 2024-07-16 16:11:24+00:00
+Customer: Resonetics
+Status: Resolved
+Summary: A3200 Effect of Stage Tuning
+Description: Hello, I tried to use the help files/manual in the discontinued section of your website but it seems the files don’t load. Regardless, can you help me understand the effects stage tuning might have on a finished part? We found that some of our parts were coming out of spec and the stage happened to be out of tune. \ Kiernan Medcalf MANUFACTURING ENGINEER \ \ !image001.png\ thumbnail! \ \ a: 602 Cantrill Dr. Davis, CA 95618 e: kmedcalf@resonetics.com\ mailto:kmedcalf@resonetics.com \ \ resonetics.com \ https://resonetics.com/ Resonetics adds medical battery technology with acquisition of EaglePicher Technologies’ Medical Power business. \ https://resonetics.com/aboutus/news/resoneticsannouncesacquisitionofeaglepichermedicalpower/ \ Legal Disclaimer: The information contained in this message may be privileged and confidential. It is intended to be read only by the individual or entity to whom it is addressed or by their designee. If the reader of this message is not the intended recipient, you are on notice that any distribution of this message, in any form, is strictly prohibited. If you have received this message in error, please immediately notify the sender and delete or destroy any copy of this message. Please be advised that Resonetics LLC reserves the right to monitor, access and review all messages, data and images transmitted through our email system. By using our e-mail system, you consent to this monitoring. Thank you for your cooperation.
+
+================================================================================
+
+--- Case 26 ---
+Created: 2024-07-09 16:26:32+00:00
+Customer: Honeywell FM&T
+Status: Resolved
+Summary: Noisy Axis, Unexpected Frequency Response Curve
+Description: The X axis has a noticeable hum while operating at high feedrates, while the Y axis is silent performing at the same feedrate. I attended the Automation1 training with Cami earlier this month, and tried tuning both axes using the frequency response graph. The phase portion of my graphs look different than the training. In the training, it always started above 180 degrees, then eventually crossed 180 at a high frequency. For both X&Y, the phase starts below 180, crosses above 180 at a low frequency, then eventually crosses back down. When I monitored the position error during motion, X & Y had very low and practically equivalent errors. Is noise on the X axis expected, or is it indicating there is an underlying problem? Frequency response graphs are attached.
+
+================================================================================
+
+--- Case 27 ---
+Created: 2024-07-24 11:57:45+00:00
+Customer: Trimble
+Status: Resolved
+Summary: Stages making noise after upgrade
+Description: Hi, We have an issue with an Aerotech 2axis system we currently have. This system was a purchase from about 10 years ago and has been sitting in our New Zealand office in the past years. The quote and drawings are attached below. We ordered a control update last year and just started upgrading the controls and software. We've been using this system a lot recently and it was running fine before the upgrade. After the upgrade, both the inner and outer axes make noises when a motion is initiated. Please see the attached videos. We did not touch the stages during the update, so there shouldn't be any physical rubbing present. Can you please help with identifying the root cause of the noises? Thanks, \ Joy Jiao PhD : She/Her GNSS Sensor Fusion Engineer, Geospatial - !https://cdn.filestackcontent.com/FxRuIkIxQ7CX1xzjzYEQ! 10368 Westmoor Drive, Westminster, Colorado 80021 United States joyjiao@trimble.com\ mailto:joyjiao@trimble.com \ \
+
+================================================================================
+
+--- Case 28 ---
+Created: 2024-09-19 11:02:57+00:00
+Customer: University of Maryland, College Park
+Status: Resolved
+Summary: High Frequency Noise
+Description: Hi Aerotech, I am a graduate student at the University of Maryland’s physics department. We are currently trying to integrate our highspeed linear stage ANT95L050 with our current scatteringtype SNOM, which involves using the stage as one arm of a Michaelsoninterferometer. In practice, this means cycling the stage a specified distance back and forth around a fixed point. I’ve included the basic code I use to achieve the oscillations. When I run the code, the stage makes a rather loud beeping sound the entire time (I’ve included an audio file). I know the stage is oscillating at the correct frequency and amplitude by checking the interferometer’s optical signal, I just want to check if this noise is normal for this kind of operation? And if so, do you have any recommendations on some kind of damping method to minimize the noise? Thank you, Yonatan Gazit program \t \tvar $wvlen as real\t\t\t// Excitation wavelength determins oscillation amp \tvar $dist as real \t\t\t// Stage oscillation amplitude \tvar $freq as real \t\t\t// Oscillation frequency \tvar $vel as real \t\t\t// Velocity dependent on frquency and distance \tvar $i as integer\t\t\t// Iteration variable \tvar $numsteps as integer\t// Total number of oscillations \t \t// The two inputs required to determine oscillation velocity \t$wvlen = 0.0072727\t\t\t// Set to 1375cm1 aka 7272.7nm in mm \t$freq = 200 \t \t// Caluclating sSNOM distance and velocity \t$dist = 2.6298 $wvlen / 6.2831 \t$vel = 2 $dist $freq \t \t// Setting Oscillations for 1 min \t$numsteps = 60 $freq \t \tSetupTaskTargetMode(TargetMode.Incremental) // Enable velocity blending, which enables lookahead VelocityBlendingOn() for $i = 1 to $numsteps \t MoveLinear(X, -$dist, $vel) \t MoveLinear(X, +$dist, $vel) \tend VelocityBlendingOff() end
+
+================================================================================
+
+--- Case 29 ---
+Created: 2024-07-25 17:04:25+00:00
+Customer: Coherent
+Status: Resolved
+Summary: Rotary Stage Tuning Procedure
+Description: Hello Derry, My name is Luke Hardy and I am a new engineer working with Jack Disciacca and Brian Peer at Coherent. I was wondering if you would help us with tuning our rotation stage. Currently we adjust the GainKp anytime the rotation stage is not working properly, but it looks like we are just increasing it over the course of a year. I wanted to know if there is a standard procedure or any guide for tuning the ServoLoop Gains? Rotation Stage: PN: ABRX150E1TAS SN: 348960-01 Software: A3200 Motion Composer (6.04.006) Thank you, Luke Hardy Hi Luke, Optimally tuning your stage does have some standard procedures. The best route to get this done is to speak with the service team who routinely work with customers on this specific task. I have cc'd them here, we will create a ticket to track the support case, which will also be the means of communication for the support. Service, can you please assist Luke with his controller tuning problem? Please ensure to include me on the issue. Luke, is there anything odd about the payload that you are moving with the stage? Is it a consistent mass and inertia during the operations? I believe I know the application, the payload from my recollection is a wafer on a chuck. If the mass changes during the process, optimal tuning for one mass may not be optimal for the other mass and we will need to take this into account. Are there any external forces on the payload during the motion or any other discontinuities that would change the payload mass inertia or forces felt during the laser operation? Can you please find the sales order number or numbers of the drive and stage for this system, we will need it to pull up the documentation we created when it shipped. Derry Crymble
+
+================================================================================
+
+--- Case 30 ---
+Created: 2024-09-11 07:43:06+00:00
+Customer: SICK AG
+Status: Resolved
+Summary: Mtc150p noises
+Description: Dear Sir or Madam, we have a problem with an axis of your model MTC150P. Loud noises occur in the process of this axis. The axis works perfectly and references correctly, but the noises only disappear temporarily if the system is switched off and switched on again. After a while the noises appear again. Can you offer us technical support? Thank you in advance \\! Sincerely, Robin Emminger
+
+================================================================================
+
+--- Case 31 ---
+Created: 2024-07-26 04:44:54+00:00
+Customer: IQS nano s.r.o.
+Status: Resolved
+Summary: Stage Resonance
+Description: Hello, When I navigate to the coordinate around 8 -12mm from positive to negative. the table catches some resonance. I can even hear the sound. In Automation1 on the oscilloscope this oscillation is clearly visible with a very high PosErr. Is there any way to fix it? Thank you in advance Regards Stepan Cerny
+
+================================================================================
+
+--- Case 32 ---
+Created: 2024-11-27 04:07:54+00:00
+Customer: IQS nano s.r.o.
+Status: Resolved
+Summary: Defective resonance
+Description: Hello, we have been observing problems with writing for a long time and we have finally probably found the cause. It is the resonance of the table when moving. (see the attached pictures, where we only move from left to right in a meander). Our lithographic process works with a resolution of 250nm, but the tables are in resonance with an amplitude of about 1um, which means for us that some places are unexposed and some are overexposed. The resonance frequency perfectly matches the problems we have noted. Can this resonance be removed somehow, please? Many thanks in advance Best regards Štěpán Černý
+
+================================================================================
+
+--- Case 33 ---
+Created: 2025-04-03 04:53:20+00:00
+Customer: Ephos
+Status: Resolved
+Summary: Remote tuning session
+Description: Good morning, I am using 3axis stage system based on ABL1500WB stages and the Automation1XR3 controller. The system was delivered with calibration files that was prepared based on declared weight of the equipment connected to all the stages. Recently we changed the configuration of the accessories connected to the stages. The weight of the load for each stages is now different from what was declared during the delivery of the system. Is is possible to schedule remote session to recalibrate/retune the system for new weight of the load? Thank you in advance. Best regards, Jakub Kaczorowski
+
+================================================================================
+
+--- Case 34 ---
+Created: 2024-07-18 03:10:27+00:00
+Customer: Sewtec Automation Ltd.
+Status: Resolved
+Summary: Tuning Support onsite
+Description: Hi, We have two Aerotech units which require tuning, Usually this is done via remote support, due to mechanical design changes we would like someone to come to Sewtec to carry out the tuning process. Is Clive Lewin available w/c 22/07 or w/c 29/07? Thanks, Tom
+
+================================================================================
+
+--- Case 35 ---
+Created: 2025-04-01 04:18:13+00:00
+Customer: Industrial Laser System
+Status: Resolved
+Summary: Alsymex tuning
+Description: Hi Clive, I hope you’re fine. Maybe you remember that Eric spoke to you about the customer ALSYMEX. Recently Eric changed the motor and the drive after the connectors burned. Today, the customer has an over current fault. Eric can’t connect and last time, he didn’t find the right tuning. Can you help us today on this topic??? We really appreciate your help. Many thanks.
+
+================================================================================
+
+--- Case 36 ---
+Created: 2025-02-13 10:02:16+00:00
+Customer: OPTOPRIM S.A.S. \| ALPHANOV \| ROLEX 
+Status: Resolved
+Summary: Optoprim/Alphanov/Rolex - Remote Tuning
+Description: Hello, I contact you because ALPHANOV is requesting a Service Visit at ROLEX Chêne Bourg ( Close to Genêve) for 2 systems under A3200 The 2 systems are functionnal, and ROLEX is simply asking for a check of the systems and some retuning if necessary Rack SN 456426 ( NPAQ or XR3) on system 173704 (5 axes) Rack SN 188515 (NPAQ) on a 3 axis system These 2 systems have been already tuned by remote, but this time ROLEX is asking a visit on Site to be able to Interact directly with the Aerotech Engineer. What would be the price of such a visit ( 1 day on site, 3 hours per system) ? Please propose 3 possible dates slots suitable for you ( Starting from the Monday 24th of February and the following weeks) Thank you very much in advance for your answer and best regards François SALAÜN OPTOPRIM Mob : + 33 (0) 6 16 17 90 04
+
+================================================================================
+
+--- Case 37 ---
+Created: 2024-10-11 18:11:46+00:00
+Customer: Amada Weldtech
+Status: Resolved
+Summary: Tuning a Z Axis
+Description: Hello, We have tuned a Z-Axis that has been giving us some trouble, but it still makes a screeching sound when it moves. Are there any tips or trick that can resolve this issue? Sincerely, Sam Childers
+
+================================================================================
+
+--- Case 38 ---
+Created: 2025-02-20 02:44:24+00:00
+Customer: Optoprim
+Status: Resolved
+Summary: OPTOPRIM new order - Alphanov tuning
+Description: Hello, Please find attached a new order. Our EORI number is 39971359300057. ATTENTION : New address for deliveries ! OPTOPRIM Fontenay ZAC de Fregy 2, rue Sophie Germain 77 610 Fontenay-Tresigny France Please acknowledge by email, and please confirm the HS code for products of this PO. After shipment, please send automatically the corresponding invoice to me. Please use our Account Number DHL 951 275 489 –Please use EXPRESS 12 :00 If you have problem to use this carrier, please ask me or please use our UPS account #7E1889 but do not use FEDEX Chrystelle CHAPPUIS \ OPTOPRIM Assistante commerciale 40 rue Victor Basch 91300 Massy \ France Direct : +33 (0)1 41 90 61 80 Email : cchappuis@optoprim.com\ mailto:cchappuis@optoprim.com \ www.optoprim.com\ https://protect.checkpoint.com/v2/r01/http://www.optoprim.com/.YzJ1OmFlcm90ZWNoMjpjOmc6NDA1NzYyZTk0ZDM1MWU1N2FhOWQ3OWJiMTM3ZGM0OTM6Nzo3NDQyOjRiOWM0OTI0OGIwZDkxMDBiYzU1OWYyZWM2NzliNWRiOWRhYjUxYjAyZmEwMGQwZWJmZjgzNDRlZDY1YmUzMzQ6aDpUOkY
+
+================================================================================
+
+--- Case 39 ---
+Created: 2025-03-25 04:55:13+00:00
+Customer: Industrial Laser System
+Status: Resolved
+Summary: Tuning
+Description: Forward to service Éric FRÉMONT Support Technique # L. S. De : Eric Fremont <efremont@industriallasersystems.com> Envoyé : mardi, mars 25, 2025 09:14 À : Clive Lewin <clewin@aerotech.com> Objet : Tuning Morning Clive, I need your help once again: I' M triying to restart a A1 gantry after replacing Z motor plus drive ( bad motor connections on the plug has damaged the power pins in connectors), everything is same as before except the motor es BM130E2500H... instead of E1000H. At activation I can hear the break release, but the motor seems weak and it goes to position error or overcurrent. I can't tune it and I tried different manual inputs but I'm not good at all with A1 new parameters. Could you do a remote tuning for me? Machine is connected. Thanks and regards. Éric FRÉMONT Support Technique # L. S.
+
+================================================================================
+
+--- Case 40 ---
+Created: 2024-10-24 07:47:50+00:00
+Customer: ASN Norway AS
+Status: Resolved
+Summary: Problem tuning an Axis
+Description: Hi there. I hope you guys are all doing okay. I have a question on tuning an axis on the XR3 that does not work anymore. I almost had everything set up until there was a realization that I needed to scale the axis’ encoders so that we can fire the PSO’s at very small distances. We need to fire them 15nm apart. This was done with the NPAQ using an encoder multiplier of x8000 and setting the Unit count to 2000000. This is very high compared to the defaults of x1 and 250 units. So, after setting this up and trying to avoid running the stage at 8000x speeds that can cause significant damages, I got it right. But the tuning was now completely off with strong oscillations and noise from the stage. Running Easy Tune then failed, it kept saying the encoder signal had minimal current. I am unsure what I did, but eventually I got it to work. The encoder signals are lined perfectly up on the circle in encoder tuning, so it should work. I think I committed the new values once in there, even if they were almost identical to the old ones, and then it was able to run past the first step in Easy Tune. However it will always fail after it tries motion on the different frequencies and saying its trying to go back to start. This is the error: !image001.png\ thumbnail! “The calling thread does not have access to this service”. This error makes no sense. I run Automation 1 studio as Administrator as well to make sure it has all access. I just rebooted the PC and restarted the XR3. Always the same error. Can someone please assist on this error? I am unable to tune manually, as the parameters before setting the multiplier are unstable, and the PID parameters I have from the NPAQ are completely different. As far as I know, this error came after I set the encoder multiplier up, and it worked before I did that. Best Regards, Ronny Pettersen Production Engineer ASN Norway AS
+
+================================================================================
+
+--- Case 41 ---
+Created: 2024-10-08 07:50:25+00:00
+Customer: Aperam
+Status: Resolved
+Summary: My Z axis and theta axis are respectivly on Motor temperatureFault OvercurrentFault
+Description: I am doing the configuration of axis. X and Y are well done but Theta and Z are on Fault (overcurrent and motortemperature).
+
+================================================================================
+
+--- Case 42 ---
+Created: 2025-05-14 08:51:35+00:00
+Customer: Department of Engineering Science University of Oxford
+Status: Resolved
+Summary: A question about sync between PSOCONTROL and velocity profile
+Description: Dear Clive, Aerotech Technical Support Team, I hope this email finds you well. I’m writing to seek your assistance with Ensemble coding (S/N of our controller: 177534A1-1). As you know, we’re working on laser fabrication here using the Aerotech stages, while the laser output is connected to the stage and could be configured through PSO. I’m trying to use VELOCITY ON in combination with PSO functions to fabricate curved tracks, with the laser turned on and off at specified positions in the middle. I’ve explored both LINEAR and PV and PSOCONTROL and PSOWINDOW for programming. However, the PSO and the motion commands were executed in a different order, that the PSO commands were either executed at a different position or skipped completely. Would you mind providing some advice on this? Any feedback would be very much appreciated. Please also let me know if I could provide more information or a sample code. Best wishes, Mohan
+
+================================================================================
+
+--- Case 43 ---
+Created: 2025-01-20 03:11:35+00:00
+Customer: OPTOPRIM S.A.S. \| LABO Hubert Curien 
+Status: Resolved
+Summary: Request for tuning of MPS50SV ( Labo Hubert Curien)
+Description: Hi Clive, as we discussed by phone , SEDAO from Labo Hubert Curien has a problem with the MPS50SV which is mounted on XY Air Bearing stages ABL10150XY. The MPS50SV is vibrating and does not allow them to perform their 3D Inscriptions with Femtosecond laser. The idea would be to check the parameter file they use to eventually adjust some gains ( Or to do a remote with Teamviewer) I attached some photos and specifications of the XYZ system. Thank you in advance and best regards François SALAÜN OPTOPRIM France
+
+================================================================================
+
+--- Case 44 ---
+Created: 2024-08-08 07:59:36+00:00
+Customer: Taylor Hobson
+Status: Resolved
+Summary: Noise with characteristic wavelength in ABL1500 stage
+Description: Hi, We have an ABL1500 here which is showing significant noise when moving. There is a vibration with a characteristic wavelength of 20um. E.g, speed = 1 mm/s, frequency of noise = 50 Hz. The frequency of the noise varies with the speed. The length scale of 20um suggests an issue with the encoder, however feedback tuning and autotune have not removed the noise. We have also checked the system for any grounding issues, no electrical faults have been found. I would be grateful for your advise on how to rectify this please. Kind regards, Tom
+
+================================================================================
+
+--- Case 45 ---
+Created: 2025-04-02 11:16:24+00:00
+Customer: ILS
+Status: Resolved
+Summary: Noise on PSO signal
+Description: Noise on PSO to laser signal. 10m cable from XC4e to laser. Seeing a voltage drop over 10m. Advise components for opto isolation.
+
+================================================================================
+
+--- Case 46 ---
+Created: 2024-12-06 05:05:37+00:00
+Customer: OPTEC SA
+Status: Resolved
+Summary: Loaded MCD not provided for SO# 405681
+Description: We received a TAS configuration file with no load on stages. However we provided information concerning the load. See it: Weight: 12kg Gravity center 40mm above stages surface. Could you help us to optimize the TAS file with the load ? Thank you Flavien
+
+================================================================================
+
+--- Case 47 ---
+Created: 2025-01-16 02:44:03+00:00
+Customer: Taylor Hobson
+Status: Resolved
+Summary: Help request for tuning spindle
+Description: Hi, I am setting up a system with an XR3 controller with a PI A627 spindle. The spindle is giving an over current fault when there is a load on it. Originally this was a 300kg load but even with just a centre and levelling table of about 50kg it does not enable without a fault. It works ok with no load. The spindle is mechanically OK. It spins freely (with load) and the encoder is working, the feedback tuning has been completed successfully. The XR3 has an XSP330 card, and we have even swapped the card but the same problem occurred. It has been suggested that the problem is with the servo tuning or commutation. Would you be able to connect to help with setting the parameters or advise on what parameters to use please? Kind regards, Tom
+
+================================================================================
+
+--- Case 48 ---
+Created: 2025-03-17 06:54:47+00:00
+Customer: Innolas UK Ltd
+Status: Resolved
+Summary: Tuning Rotary Axis
+Description: Good Morning, I am currently tuning a rotary axis mounted on a Z axis. I have been able to tune so the movement are smooth. However when the axis is stationary it hums. Which setting needs to be changed to avoid this? Kind Regards Zoe-Hope
+
+================================================================================
+
+--- Case 49 ---
+Created: 2025-05-28 09:50:29+00:00
+Customer: WOP
+Status: Resolved
+Summary: X-axis "amplifier fault" and "position error" faults
+Description: Hi, Our client has an issue with the xaxis. It shows an error of position and amplifier faults on XR3 controller with XSL310 amplifier axis. Firstly position error appears, then trying to reset it and home axis results in amplifier fault. Here is configuration file. The client says, that axis can be enabled, but homing or moving it results in errors, so it cannot be operated. There was no physical hit related to the axis and stage. What occurred was that a user was attempting to write a pattern and a position fault appeared. The software was restarted, but unfortunately, it could not home due to the position fault. Additionally, when we tried to control the stage through the A3200 motion composer, both position faults and amp faults appeared alternately. What would be further steps for troubleshooting? Thanks.
+
+================================================================================
+
+--- Case 50 ---
+Created: 2024-10-17 10:11:07+00:00
+Customer: Pixieray Oy
+Status: Resolved
+Summary: Units used in camming table with velocity output
+Description: I’m trying to control the rotation speed of rotary stage (ABRT150 with iXCE4 controller) using camming table with a linear stage. I calculate the rotation stage speed in deg/s and set it to freeroll with the first speed value of the camming table, but after the camming kicks in, the speed of the rotary stage doesn’t match the speeds defined in the table. The velocity profile of the rotation is correct but the velocity numbers are off. I have tried changing the units of the camming table to deg / min and revolutions / s and / min.
+
+================================================================================
+
+--- Case 51 ---
+Created: 2025-05-01 10:09:41+00:00
+Customer: LPSC
+Status: Resolved
+Summary: ADRS150_UF showing over current fault
+Description: Our ADRS 150 with ensemble/MP 10 drive is now showing over current fault. This has been working fine so far. Since we have only one functional driver controller we use configuration manager to switch between ADRS 150 and ANT 95 50L.. The current fault occurred after a configuration re load. The stage have tightness in rotation when compared to our latest ADRS 150. This tightness was not felt because there was nothing to compare until the new stage was received. We have opened the bottom cover to see the sleeve area, but the stage is a sleeveless option. We found the encoder disk to having lots of dust contamination which appears to be fungal growth usually seen in camera lens. The rotary stage is less frequently used and this was sitting idle for last 4 or 5 months. The controller/driver is working fine with ANT 95 50L.
+
+================================================================================
+
+--- Case 52 ---
+Created: 2024-09-18 11:13:28+00:00
+Customer: Applied Materials
+Status: Resolved
+Summary: Tuning and Position Fault help
+Description: Need help with initial troubleshooting related to tuning and position faults. AMAT has purchased independent components including Micronix stages connectorized for Automation1. Motion Plus, with the direction of Micronix have provided the customer with the necessary settings for machine set up of the mechanical devices. The following units were independently tested at Micronix with a similar Automation1 drive. The customer provided their own mounting plate and took responsible for assembly and they were also directed to use appropriate payloads for each axis in machine set up. The system includes the following components: X PPS110 Linear motor with special limit and index location https://buy.motionplusmore.com/product/pps110precisionscrewlinearmotororpiezodrivenpositioner/01tPs000003rMsTIAU Z (lift) PZS90 with stepper motor and encoder type incremental sq wave https://buy.motionplusmore.com/product/pzs90elevationstage/01tPs000003rMqVIAU Automation1iXC210EB2MX0PSO1 (47249001) Automation1XC210EB0MX0PSO1 (36727920) Automation1iSMCL1iXC2CP0H06CM1HX0FA0AP0DCT0MA0IE2S1HW0M1 with EtherCAT communication. License ID 27504 The AMAT team is located in India – Bangalore working from morning 10AM to Evening 6 PM IST. Latest responses describing errors: 9/16/24 ”But for linear axis tuning error occurring and no option for z axis easy tuning…also to get the XML file for Ecat file in software.” 9/18/24 “We are facing huddles while configuring drives, Jog movement, Homing and for Easy tuning. Kindly help us at earliest on errors I am getting while drives configuration. # Position error occurring if I give jog/homing cmd. # Overcurrent error occurring in linear motor. # End of travel erroroccurring in elevation motor. Kindly give quick response as we are overshooting with project timeline.” Thanks & Regards Murulikumara LD Jagannath Hanumanthappa Henry Raj Umashankar Bangalore Venkatesan Nalakukal
+
+================================================================================
+
+--- Case 53 ---
+Created: 2025-02-12 01:49:07+00:00
+Customer: Applied Materials
+Status: Resolved
+Summary: Stepper Motor Humming Noise
+Description: Hi Jong,, Hope you are doing well. This mail is regarding the stepper motor issue I tried to tune but still same issue we were facing. If the speed increase to more than 5mm/Sec humming noise is generating inside the motor and that is leading to vibration of the channel. Kindly help me to get out from this issue. Thanks & Regards Murulikumara LD
+
+================================================================================
+
+--- Case 54 ---
+Created: 2025-02-11 21:51:08+00:00
+Status: Resolved
+Summary: Noisy motion during homing
+Description: Hi Aerotech support, We encountered noisy motion when trying to home the Aerotech axis (Please refer attached video) We need your technical rep to advise / come down to MMI to follow up. PO No 4500640997 S/No 475752-01 Thanks & regards, Faizal P Please consider the environment before printing this email
+
+================================================================================
+
+--- Case 55 ---
+Created: 2025-04-17 03:10:44+00:00
+Customer: HSGKK
+Status: Resolved
+Summary: Noise is suspected to be causing position errors
+Description: The end user believes that the stage is malfunctioning due to noise from the Automation1 driver. We are currently in contact with the end user to confirm. I have one question. I am using the Automation1PS2D1P2AX02 sent by Aerotech as the power supply for two XC2e units, and as shown in the attached file, the 0V of the 24V and 0V of the 48V power supply are connected to the chassis earth (GND). Is this the correct way to use it? Is it susceptible to noise if the 0V of the power supply is used in a state where it is floating from GND? When delivered, the 0V of the X and Y axis power supplies was connected to ground, but it may now be floating from GND.
+
+================================================================================
+
+--- Case 56 ---
+Created: 2025-03-28 08:28:27+00:00
+Customer: Soongsil University (Korea)
+Status: Resolved
+Summary: WAFERMAXZ Overcurrent and Resistance Issue – Possible Fault in V Terminal
+Description: It seems like there might be overcurrent flowing through the motor, and there could be an issue inside the motor. After measuring the resistance, the following results were obtained: U > V: 4.0 U > W: 5.6 * V -> W: 4.0 It appears that there might be an issue with the V terminal. I would like to know if this can be resolved. Please let me know if a solution is possible.
+
+================================================================================
+
+--- Case 57 ---
+Created: 2025-04-22 02:33:13+00:00
+Customer: Unice E-O Services Inc > End Customer Tripod
+Status: Resolved
+Summary: Re: Tripod PID training
+Description: Hi Jimmy, 我將此需求上傳到GTSE系統。 請問這個調整PID的課程。 是要調整非Aerotech的平台，或是Aerotech的平台? 與是否能夠補充一些資訊，客戶目前遇到的瓶頸是什麼?所以才會想要此課程? 收到您的回覆後，我們可以規劃客製化課程。 Jerry 張涵睿 <jimmy.chang@unice.com.tw\ mailto:jimmy.chang@unice.com.tw> 於 2025年4月22日 週二 下午2:24寫道： Hi Jerry Tripod有請我安排一個PID調整的training課程 請問大約需要多少的勞務時數，再麻煩您提供 謝謝 \ 張 涵 睿 Jimmy Chang Jimmy.chang@unice.com.tw\ mailto:Jimmy.chang@unice.com.tw !image002.png\ thumbnail!專案經理 // Project Manager M 886919521118 T 88634626569 # 2854 F 88634625586 320023桃園市中壢區中壢工業區安東路5號 No 5, Andong Rd., Chungli District, Taoyuan City 320023, Taiwan 助理 : 劉雅琪 Ann # 2821 / sales1@unice.com.tw\ mailto:sales1@unice.com.tw 主管 : 何啟川 Brian # 2801 / brianh@unice.com.tw\ mailto:brianh@unice.com.tw 宏惠光電股份有限公司 / Unice EO Services Inc.\ !image004.jpg\ thumbnail!\ \ !image006.jpg\ thumbnail!\ \ 免付費服務電話 0800321053 https://protect.checkpoint.com/v2/r01/www.uniceeo.com.YzJ1OmFlcm90ZWNoMjpjOmc6NzQ0NjQ2ZTViNjBjM2YxYmMyMDk3NDNhYjZiZTllMTU6NzplZTBkOjkxNjMwNGFhYmMyNGFjYTk5NzhhMjMxNGFiN2M4MTJmNTQzOTE2MzI0YjUzMTZiM2IzZDQ0OTMzNWIzNTU5MTk6dDpUOkY\ https://protect.checkpoint.com/v2/r01/http://www.uniceeo.com.YzJ1OmFlcm90ZWNoMjpjOmc6NzQ0NjQ2ZTViNjBjM2YxYmMyMDk3NDNhYjZiZTllMTU6NzpjMDZhOjhmZDZhMTM2MTJhODgzZTU1YWY4YzFhMmM3MGRlMjQzMjMyYzVkZmVmMTVlYjgwY2JkZTMxNDJiZGQzODdkNTY6aDpUOkY\
+
+================================================================================
+
+--- Case 58 ---
+Created: 2025-05-15 05:37:16+00:00
+Customer: Bruker Taiwan
+Status: Resolved
+Summary: LM165 product Y-Axis showing "position error fault" during moving
+Description: Hi Jerry, We are suffering LM165 tool Y axis position error fault, per experience will need your help to arrange your schedule to help replace the Y cable. Is it possible to arrange 5/15 for this action? Thank you
+
+================================================================================
+
+--- Case 59 ---
+Created: 2025-05-27 10:26:32+00:00
+Customer: IFM PROVER
+Status: Waiting for customer
+Summary: Training for tuning rotary AGR stages
+Description: Hello, I was looking to see if you offer a training for tuning the stages, we have several AGR50, AGR75, and AGR100 that need tuned every so often and the auto tune does not typically work. I look forward to hearing from you, Thank you. Michael Minninger Welding Engineer 4846240244
+
+================================================================================
+
+--- Case 60 ---
+Created: 2025-06-03 17:07:51+00:00
+Customer: Bruker Nano
+Status: Waiting for customer
+Summary: GTS Servo Tuning Training for ES18837 Bruker Nano San Jose CA
+Description: Message from Jean Starr: Over the last couple of months, we have been working with them to optimize their servo tuning regarding ES18837. Jeff is working to update the process for his team and would like for Aerotech to provide servo tuning training to Bruker. A virtual training should be acceptable for this. Jeff also mentioned having this training recorded so they can distribute it to their Malaysia team at a later date. Bruker contact: Jeffrey Rzepiela
+
+================================================================================
+
+--- Case 61 ---
+Created: 2024-10-22 01:28:46+00:00
+Customer: AK optics Technology co., Ltd.
+Status: Resolved
+Summary: XC2 controller has abnormal noise and poor contact
+Description: Hi Zhougong XC2 controller was found to have poor contact during use and there was an abnormal noise inside. Your company needs to assist in handling and confirmation. Thank you! !Catch.jpg\ thumbnail! Good luck! ······························································································································································································································································································································································································································································································································ AK Optics Technology Co., Ltd Room 503, Building B, Xinyuan Science Park, No. 97 Changping Road, Changping District, Beijing, China 102206 Tel: 010-82356771 Mobile: 15201155085 Email: cuili_ma@akoptics.com ······························································································································································································································································································································································································································································································································
+
+================================================================================
+
+--- Case 62 ---
+Created: 2025-01-08 02:37:38+00:00
+Customer: Shenzhen JPT Optoelectronics Co., Ltd.
+Status: Resolved
+Summary: Shenzhen JPT Optoelectronics Co., Ltd. \ AGV10HPO Galvo (Abnormal Noise Issue) 振镜啸叫
+Description: Hello, our company has a galvanometer with a whistling abnormality. Please tell me what to do, or help with remote processing. Galvanometer controller model: Automation1GL420; Galvanometer controller SN: 32957007; Galvanometer model AGV10HPO2BE1W008ACWCTAS Galvanometer SN: 35597002; \ \ Jeput \ !https://rescdn.qqmail.com/node/wwqy/qymng/style/images/sass/independent/cardverify.png! \ <https://work.weixin.qq.com/apph5/user/h5/corp?vcode=vc4c10b26b4d85e88f&from=mailcard> \ Pang Zegui \ Electrical Engineer \ !https://rescdn.qqmail.com/node/wwqy/qymng/style/images/sass/independent/cardlogo.png! \ <https://work.weixin.qq.com/weworkadmin/user/h5/qqmailusercard/vc4c10b26b4d85e88f?from=myprofile> Tel: 13077628037 Shenzhen Jieput Optoelectronics Co., Ltd. Address: Comron Science Park, Guansheng 5th Road, Longhua District, Shenzhen!https://rescdn.qqmail.com/node/wwqy/qymng/images/wemailcomposeiconatt2.png! From the enterprise WeChat email \ !https://rescdn.qqmail.com/node/wwqy/qymng/images/fileimage@2x.png! <https://exmail.qq.com/cgibin/ftnExsdownload?key=2dd8b179b5b082d431c9423b2bbeed0d8a4f3c92&from=wedrive&t=exsftndownload> \ IMG20250108152515.jpg 243.3K 2025/01/23 15:34 Expired Extra Large Attachment \ https://exmail.qq.com/cgibin/ftnExsdownload?key=2dd8b179b5b082d431c9423b2bbeed0d8a4f3c92&from=wedrive&t=exsftndownload \ \ !https://rescdn.qqmail.com/node/wwqy/qymng/images/fileimage@2x.png! <https://exmail.qq.com/cgibin/ftnExsdownload?key=76e5a7cac657403ca82a42fc33562ce59fce5e33&from=wedrive&t=exsftndownload> \ dd78b1bd315a770da9139fdc549d1f7borigin(1).jpg 3.82M 2025/01/23 15:34 Expired Extra Large Attachment \ https://exmail.qq.com/cgibin/ftnExsdownload?key=76e5a7cac657403ca82a42fc33562ce59fce5e33&from=wedrive&t=exsftndownload \ \ !https://rescdn.qqmail.com/node/wwqy/qymng/images/filevideo@2x.png! <https://exmail.qq.com/cgibin/ftnExsdownload?key=dd4d17f50ad4d372f37ddea957ae9bb1d9fb802c&from=wedrive&t=exsftndownload> \ video(3).mp4 846.6K 2025/01/23 15:34 Expired Extra Large Attachment \ https://exmail.qq.com/cgibin/ftnExsdownload?key=dd4d17f50ad4d372f37ddea957ae9bb1d9fb802c&from=wedrive&t=exsftndownload \ \ !https://rescdn.qqmail.com/node/wwqy/qymng/images/filevideo@2x.png! <https://exmail.qq.com/cgibin/ftnExsdownload?key=0e5701952c365702112824ccaba14ad8a0243acf&from=wedrive&t=exsftndownload> \ video(4).mp4 65.71M 2025/01/23 15:34 Expired Extra Large Attachment \ https://exmail.qq.com/cgibin/ftnExsdownload?key=0e5701952c365702112824ccaba14ad8a0243acf&from=wedrive&t=exsftndownload \
+
+================================================================================
+
+--- Case 63 ---
+Created: 2024-07-15 23:32:23+00:00
+Customer: AK optics Technology co., Ltd.
+Status: Resolved
+Summary: After replacing the controller-Position error fault
+Description: Hello: I have replaced the X-axis controller and replaced the feedback line. It is OK to test it on other machines. Now, the X-axis report Position error fault during the movement. What is the possible reason? The following three points are your suggestions: 1. Observe whether the problem can be solved by slowing down; 2. Try to solve this problem by amplifying the threshold of the position difference between the instructions and feedback; 3. Use the poserror value of the problem axis to determine whether the problem needs to be solved by optimizing the axis parameters; How to operate these three points, please help me check it; Send it to your enterprise WeChat\ https://work.weixin.qq.com/weworkadmin/user/h5/qqmailuser_card/vc544403a4d5346634?from=myprofile
+
+================================================================================
+
+--- Case 64 ---
+Created: 2025-06-11 22:39:59+00:00
+Customer: WuhanXinke Intelligen tEquipment technology
+Status: Waiting for customer
+Summary: XC2e Position error fault
+Description: 您好！ 有一台Automation1iXC2e10EB1MX2PSO1 SN:48996412 在运行过程中出现Position error fault错误，请帮忙处理。
+
+================================================================================
+
+--- Case 65 ---
+Created: 2024-10-22 04:11:46+00:00
+Customer: AK optics Technology co., Ltd.
+Status: Resolved
+Summary: Reply: GTSE-43553 XC2 controller has abnormal noise and poor contact
+Description: Harry Zhou 您好！ 我们没有更换插头，检查过接口的外观，没有弯折损坏迹象，怀疑插头接触不良，重新压了线。没有效果后，选择直接更换了CX2控制器，插头接在更换的控制器上是OK的 发自我的企业微信\ https://work.weixin.qq.com/weworkadmin/user/h5/qqmailusercard/vc92d50610ac1a5c4f?from=myprofile 回复的邮件信息 Harry Zhou (Jira)<Support@aerotech.com> 在 20241022 周二 15:58 写道： ———— Reply above this line. Harry Zhou commented: xinweiyue@akoptics.com 您好！ 对于第一台您有尝试更换插头，来排查问题点吗？从而判断是插头的问题还是插座的问题，还是插头和插座匹配不好的问题，谢谢！ Harry Zhou View request\ https://support.aerotech.com/servicedesk/customer/portal/1/GTSE43553?sdasource=notificationemail · Turn off this request's notifications\ https://support.aerotech.com/servicedesk/customer/portal/1/GTSE43553/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxc2giOiIzZmFhZWNiYjg0OWFlMDJlMTUyM2RkMjY0NGRjYmJlNWI1OTNhM2Y2OGM5ZGI4ZWJlMjYyYmUxYzc3YTMwNGIxIiwiaXNzIjoic2VydmljZWRlc2stand0LXRva2VuLWlzc3VlciIsImNvbnRleHQiOnsidXNlciI6IkpJUkFVU0VSNDQ1MzgiLCJpc3N1ZSI6IkdUU0UtNDM1NTMifSwiZXhwIjoxNzMyMDAzMDM2LCJpYXQiOjE3Mjk1ODM4MzZ9.uIMpFmvwmfkkhloGwRQADB5Ol0Uu8P4Rgl9SMKPDzhY This is shared with cuilima@akoptics.com and xinweiyue@akoptics.com. Aerotech Technical Support, powered by Jira Service Management\ https://www.atlassian.com/software/jira/servicemanagement?utmmedium=email&utmsource=servicedeskemailnotificationserver&utmcampaign=servicedeskemail-notificationserver, sent you this message.
+
+================================================================================
+
+--- Case 66 ---
+Created: 2025-03-03 01:53:17+00:00
+Customer: 合肥工业大学
+Status: Resolved
+Summary: Micro-movement table report-Position Error Fault
+Description: During the switching process of the two sets of micro-moving stages, the parameters in the controller are lost and cannot be used.
+
+================================================================================
+
+--- Case 67 ---
+Created: 2025-05-14 05:29:07+00:00
+Customer: Han's CNC
+Status: Waiting for customer
+Summary: ES20040 Galvo Tuning issue
+Description: ES200401 Machine was in mass production. Controller reported error suddenly: 1Over current 2AmplifierTemperatureFault 3Noise high frequency Customer can heal aqueal from scanner when only enable axes. Customer want to solev this issue in the field with aerotech's help
+
+================================================================================
+
+--- Case 68 ---
+Created: 2024-09-26 22:13:27+00:00
+Customer: 广东工业大学
+Status: Resolved
+Summary: Operating without Halls(Using Commutation Search was unsuccessful) and Position Error Fault & Over Current Fault
+Description: Operating without Halls: Using Commutation Search was unsuccessful I configured the driver and noneHall linear motor according to the guide, and then do the checklist items one by one. Then , I use the noneHall phase search method (Commutation Search) and set the corresponding parameters according to Aerotech's help manual and technical support articles. Attached is a screenshot of the source. This is one of the website addresses—Operating without Halls: AutoMSET and Commutation Search Aerotech Knowledge Base Aerotech Knowledge Base\ https://knowledgebase.aerotech.com/pages/viewpage.action?pageId=10393057 Afterwards, the Motor Phasing module was started, but the phase finding process was not fully completed. Finally — The motor moves in a stepped manner 6 to 10 times, then stops and reports a prompt. it reported "Hall Sequence must contain exactly six distinct Hall States". But operating without Halls, why does the software give me hall related prompts, and how can I solve this problem. Afterwards, EasyTune was done, and the same situation was found when Motor Phasing was completed after tuning. h1. Position Error Fault & Over Current Fault After EasyTune, it can execute single command instructions and simple instruction codes, but it will report a Position Error Fault or Over Current Fault fault. Attached screenshot, According to the data graph, the CurrCmd gradually increases after the motor starts, and the CurFbk follows it. After reaching the MaxCurrentClamp value, the motor decelerates and stop. After increasing MaxCurrentClamp to the default value, the results were similar. I have referred to the suggestions in the link (Position Error & Over Current on "Test As System"(TAS) Systems Aerotech Knowledge Base - Aerotech Knowledge Base\ https://knowledgebase.aerotech.com/pages/viewpage.action?pageId=3212012 ) to conduct a preliminary check of the system. Is this phenomenon caused by Motor Phasing error? If not, how should I solve it
+
+================================================================================
+
+--- Case 69 ---
+Created: 2024-11-13 06:16:57+00:00
+Customer: Technoprobe s.p.a.
+Status: Resolved
+Summary: X,Y axis noise
+Description: Good morning, we’re facing an issue on an X,Y axis. Every time we try to move the axis, when they are enable, they make a very acute noise, that continues even when the motion stops. We already tried to tune the axis, but with no result, even though the graphs are fine. Can we schedule a remote session, to try and solve the problem? Thanks
+
+================================================================================
+
+--- Case 70 ---
+Created: 2025-06-20 08:53:34+00:00
+Customer: Exmel Solutions Limited
+Status: Waiting for customer
+Summary: Remote Tuning Session for Honeywell
+Description: Remote Tuning Session for Honeywell, paid for via Exmel
+
+================================================================================
+
+--- Case 71 ---
+Created: 2025-03-04 12:01:57+00:00
+Customer: PowerPhotonic Ltd
+Status: Resolved
+Summary: Automation1 Encoder Signals from Aux Port - noise issue
+Description: Hi, I’m integrating an iXC2e drive to replicate the function of the EPAQMR it’s replacing. The Auxiliary output port specification appears to be the same differential RS422 AB Encoder Signals as the EPAQMR. The pinout is different. To account for the different pinout, I have cut the Aerotech supplied molded db9 from the cable and installed a regular DB9 connector (rs# 7659432) and connected pins 2>2, 3>7, 4>1, & 9>6. I lifted that pinout from Table 34 of the iXC2e manual and mapped the new pins to match Table 222 from the EPAQ-MR manual. This reconfigured DB9 connects to an external module. We’re experiencing enough noise on the encoder signal that it’s causing the resolved position to drift when the stage is stationary, making it unusable for the application. Can you advise if there are any configuration options that could be influencing the signals. On the new end I have soldered the cable shield to the shell of the db9 which helped a little. I need to figure out if I need a special cable manufactured and what properties might need to be specified for this. Kind Regards, Brian
+
+================================================================================
+
+--- Case 72 ---
+Created: 2025-02-24 12:55:36+00:00
+Customer: SWC
+Status: Resolved
+Summary: Position Error Fault when setting gear mode
+Description: hi We have been driving the motors by sending voltage waveforms. The protocol is basically, first to set the gear mode to 1, then send voltage waveforms from NIDAQ, to finish set the gear mode back to 0. All steps are done in Matlab. The same protocol could work well on both ADRT150135(628831A11) and ADRT260160(630431A11). But recently the same protocol didn't work on ADRT150135 ONLY and resulted in a Position Error Fault when setting gear mode to 1. The ADRT150135 motor was observed doing crazy rotation at uncontrolled high speed a few times. Please help to locate and fix the issue. Thank you very much. Best Yanting
+
+================================================================================
+
+--- Case 73 ---
+Created: 2024-08-22 03:13:49+00:00
+Customer: Oxford Lasers
+Status: Resolved
+Summary: Stage Tuning
+Description: Hi Clive I'm currently on-site in the UK with a customer's system who has XY issues pointing towards tuning. It was a system that Aerotech assisted with back in December for XY issues. Can you remote in and have a look I'll send the TV details for you. I'm with a unhappy customer at the moment. Please let me know if you can help me asap. Regards Roy 07845278772 Sent from Outlook for iOS\ https://aka.ms/o0ukef
+
+================================================================================
+
+--- Case 74 ---
+Created: 2025-02-27 09:19:37+00:00
+Customer: Automated Industrial Robotics
+Status: Resolved
+Summary: Stage tuning issue
+Description: Good Afternoon, We are having some issues with one of the Aerotech stages we installed on a machine towards the back end of last year which we believe might be related to the tuning. We had the stages tuned by Aerotech to meet a specification set by the customer and unfortunately overtime it seems that we are no longer meeting this requirement, and we would like to try and understand why. When we select an exit velocity of 25mm/s (maximum) we can’t achieve a scenario where we have the velocity feedback, position error and position delta within the allowable tolerance (max position error = +/-0.01, max pos delta = 0.2mm). We’ve tested the max/min balance pressure without going out of the ‘neutral balance’ and there wasn’t a significant improvement. I will be visiting the customers site on Monday and am wondering if anyone would be available from Aerotech to provide technical support? Clive is knowledgeable of our application. Many thanks, \ \ \ \ Luke Williams\ \ Controls Engineer\ \ \ \ Automation House, Jane's Hill\ ,\ Wakefield\ \ West Yorkshire\ ,\ United Kingdom\ ,\ WF5 9TG\ \ \ \ e: luke.williams@industrialrobotics.com\ mailto:luke.williams@industrialrobotics.com\ \
+
+================================================================================
+
+--- Case 75 ---
+Created: 2024-12-04 05:05:15+00:00
+Customer: IMS zerotouchmetrology
+Status: Resolved
+Summary: "Position error fault" after power reset
+Description: Using an aerotech soloist controller with a non aerotech translation stage. Using an version 5.06.001 of Soloist motion composer. After executing a home, and going to a lambda position (here -107mm in GoToPosition.bmp) If we shut down the system and power it back on, then acknowledge the “Emergency Stop fault” error (see EmergencyStopFault.bmp) Sometimes a "position error fault" error appears after enabling the controller, although the gains stay the same (PositionError.bmp) The stage can be reenabled after reseting the controller (Reset.bmp), but is there a way to prevent this error from occuring?
+
+================================================================================
+
+--- Case 76 ---
+Created: 2024-10-01 07:22:28+00:00
+Customer: Pixieray Oy
+Status: Resolved
+Summary: Over Current fault on iXC4e with ABRT150
+Description: We were using the driver to control linear stage and after going back to the rotary table there is a over current fault that is popping up. Is it possible that the driver is broken or some setting is still wrong? The linear stage had burned itself, so I’m now wondering that was the driver taken a hit at the same time? Is there a easy way to test this?
+
+================================================================================
+
+--- Case 77 ---
+Created: 2025-05-23 08:19:15+00:00
+Customer: 3D-Micromac AG
+Status: Waiting for customer
+Summary: Loud noises in the Mäander reversal movement
+Description: Hello Aerotech Service Team, at our dynamic wafer days (Eitzenberger axle system) we have spent a mass structure with the axes, and we find very loud noises in the reversal movement. We command the reversal as a semicircle (polygon). In the plot, enormous acceleration peaks can be found, which thus results in enormous power tips, which in my view is the cause of the noises. Enclosed are: MCD Ascript PLT 2x PNG with image sections from the plot How can the control drive down the semicircle? Do you need an even finer polygon grid or what measures would be effective? Thank you. Sincerely, Christian Kelterborn
+
+================================================================================
+
+--- Case 78 ---
+Created: 2025-04-22 09:25:10+00:00
+Customer: Sabancı University 
+Status: Resolved
+Summary: Tuning issue
+Description: Hello, We are using the Aerotech A3200 system for bioprinting studies. We are mounting printing head parts on the Z-axis of the Aerotech system. We developed a new printhead as shown in the attached image. The weight of the new printhead system is below the Aerotech suggested limitations, as we talked before. However, we observed that there may be some calibration issues on X and Y axis of the Aerotech. We will be glad if you can help us to check the calibration status of the Aerotech. Thank you. Regards, Asena Gülenay Tatar
+
+================================================================================
+
+--- Case 79 ---
+Created: 2025-01-07 21:53:38+00:00
+Customer: E&R Engineering Corporation - Kaohsiung City
+Status: Resolved
+Summary: Position Error Fault 異常故障相關事誼
+Description: Hi Jerry, 根據您上次的建議，我們已經將Windows相關設定做調整，但這幾周一樣會發生Position Error Fault 這次發生是3個軸同時發生Position Error Fault，附件為發生當下的SignalLog !image001.jpg\ thumbnail! 此外我們對該台sever PC進行Analyzing PC Performance，結果如下圖 請問這樣的Performance是可接受的嗎? !image002.png\ thumbnail! Thank you & Best Regards, ChunKai Chen \ 陳雋凱 E&R Engineering Corp. System Integration Department｜Engineer T｜+88676156600 ext:3216 E｜kevinchen@enr.com.tw W｜https://www.enr.com.tw
+
+================================================================================
+
+--- Case 80 ---
+Created: 2024-12-10 15:51:56+00:00
+Customer: 羅門哈斯亞太研磨材料股份有限公司
+Status: Resolved
+Summary: When the X-axis is running, there will be a loud current noise.
+Description: When the X-axis is running, there will be a loud current noise. I need you to arrange time to help me confirm the motor or driver. Thank you, because there is currently no error message that can be used for troubleshooting.
+
+================================================================================
+
+--- Case 81 ---
+Created: 2025-03-10 02:26:03+00:00
+Customer: Bruker Taiwan
+Status: Resolved
+Summary: Position Error Fault (SO# 638006)
+Description: Hi Vincent, 已收到您的通知，您今日遇到一套系統出現Position Error Fault。 與您約03/13 (四) 過去竹南TSMC。 TSMC卡號 A3602680 林建宏 艾羅德克 我們會需要先確認您目前系統的PRO Stage的SN號碼與EPAQ的SN號碼是否有配對。 !image.png\ thumbnail! 如果是的話，會需要請您參考附件的PRME檔與接線圖。 去確認接線與參數檔是否使用正確的檔案。 我有留意到，工廠針對貴司開出三種部不同的重量個規格，調整了三組PRME參數。您可以與貴司美籍同事確認一下，依您目前的配置，附載的重量是多少? 之後您在對應到適合的參數檔與校正檔!image.png\ thumbnail! Jerry
+
+================================================================================
+
+--- Case 82 ---
+Created: 2024-12-03 00:42:38+00:00
+Customer: Tong Hsing Electronic Industries,Ltd.
+Status: Resolved
+Summary: 諮詢 Stage Velocity Error Fault 異常
+Description: Hi Aerotech: Stage 型號: X 軸ALS50030 ES169771 446365A11X Y軸 ALS50045WBU PLN45ASNCXYMCS 146366A11Y 載台異常問題: Velocity Error Fault”有時發生在x軸、有時發生y軸，諮詢是載台哪邊出現參數異常導致，或者是說硬體哪邊異常造成此錯誤 異常發生時 \ \ \ \ !image002.png\ thumbnail! \ Regards, 調整修改後 !image004.png\ thumbnail! !image005.png\ thumbnail! !image006.png\ thumbnail! !image007.png\ thumbnail! 當時x&y軸波形 !image008.png\ thumbnail!!image009.png\ thumbnail! 該軟體版本 !image010.png\ thumbnail! Jeffery 工程一部 張世威 Tong Hsing Electronic Industries,Ltd. 新北市鶯歌區鶯桃路365巷55號 No.55, Ln. 365, Yingtao Rd., Yinko Dist., New Taipei City 239, TaiwanTel # 0970296368 Ext.614029, Fax # 886226791211 E-mail : jeffery.chang@theil.com\ mailto:jeffery.chang@theil.com
+
+================================================================================
+
+--- Case 83 ---
+Created: 2024-12-04 20:11:59+00:00
+Customer: Garmin Corporation - Linkou
+Status: Resolved
+Summary: Cables and Tuning Issue
+Description: Cables Issue and Gantry Servo Loop Tuning Issue
+
+================================================================================
+
+--- Case 84 ---
+Created: 2024-08-23 02:47:04+00:00
+Customer: Coherent Singapore Pte. Ltd. Taiwan Branch
+Status: Resolved
+Summary: Request a onsite tuning on A3200 2.19 with NPAQ controller
+Description: Here are the AeroTech system in Taiwan the SN 158156A1-1，the Y axis humming and vibration in specify position. Please provide the quote for your engineer onsite tuning axises.
+
+================================================================================
+
+--- Case 85 ---
+Created: 2025-03-13 21:12:10+00:00
+Customer: E&R Engineering Corporation - Kaohsiung City
+Status: Resolved
+Summary: Automation1 架構 Position Error Fault
+Description: Hi Jerry, 我們在Automation1 架構下也遇到 Position Error Fault問題，想請問Automation1的error signal log檔案的資料夾位置? 在之前A3200手冊寫的路徑下沒有找到相關檔案，謝謝! !image003.png\ thumbnail! Thank you & Best Regards, ChunKai Chen \ 陳雋凱 E&R Engineering Corp. System Integration Department｜Engineer T｜+88676156600 ext:3216 E｜kevinchen@enr.com.tw W｜https://www.enr.com.tw
+
+================================================================================
+
+--- Case 86 ---
+Created: 2024-11-16 23:07:02+00:00
+Customer: Bruker Taiwan
+Status: Resolved
+Summary: LM165 product X-Axis showing "position error fault" during moving
+Description: Hi Jerry, we are suffering LM165 tool SO 625702 Y axis for position error fault, we will try to check the feedback tunning and loop transmission first. And also, per experience will need your help to arrange your schedule to help replace the Y cable. My college will try to reach you in phone today and tomorrow. Please let us know your schedule and keep in touch
+
+================================================================================
+
+--- Case 87 ---
+Created: 2025-01-08 15:59:54+00:00
+Customer: Integer
+Status: Resolved
+Summary: Position Error Fault
+Description: Hello Aerotech Team, I reached out to get help regarding a failure that appears in our system(A3200) (this error only appears in axis X and XX), We performed the follow: 1st Cleaning to the encoder bar as commonly we do it, 2nd check for mechanical issues and everything was ok 3rd check for power issues in the power supplies and all ok 4th Performed an autotuning to reduce the error, but it continues happening, So, we tried decreasing the speed in the step where the system get alarm, and it works better, What do you think? Also, we would like to acquire the cables of from the Controller to the stage, could you help us? Thank in advance. Regards\\! Juan Estrada
+
+================================================================================
+
+--- Case 88 ---
+Created: 2024-09-17 21:41:21+00:00
+Customer: 3D Systems
+Status: Resolved
+Summary: "The calling thread does not have access to this service" during Easy Tune
+Description: I’m getting the error in the attached picture when trying to run Easy Tune on some axes. This happens right at the end of the Easy Tune process before the parameters are saved. This has happened on a few machines on machines when retuning axes that have been successfully tuned in the past.
+
+================================================================================
+
+--- Case 89 ---
+Created: 2024-12-23 09:26:52+00:00
+Customer: Univeristy of Notre Dame
+Status: Resolved
+Summary: Clarification on VELOCITY ON Lookahead Moves in Npaq MR System
+Description: Hello Aerotech Support Team, We are using the VELOCITY ON command in a coordinated motion program on our Npaq MR system. We have set the MaxLookaheadMoves parameter to 500 and would like clarification on the following points: # Maximum Number of Lookahead Moves What is the maximum value we can set for MaxLookaheadMoves? 2. Behavior of the Lookahead Buffer Does the MaxLookaheadMoves value represent the maximum number of commands that can be included in a single VELOCITY ON block? * Is the lookahead buffer static or dynamic, and how does it handle additional commands once it reaches the set limit? Thank you for your assistance. We appreciate any detailed information or documentation you can provide on configuring and using VELOCITY ON with the lookahead buffer.
+
+================================================================================
+
+--- Case 90 ---
+Created: 2024-10-01 23:13:18+00:00
+Customer: Nanoverse Technologies
+Status: Resolved
+Summary: Attempting to tune a counterbalanced vertical linear stage
+Description: Good evening Support, We are putting together a new system, with a stacked X/Y stage, and an Aerotech AGVXPO scan head riding on a linear motor Z stage, The SO# is 637477. The stage we are using for Z is a small linear motor stage from Primatics, the PXL43025 (see attached spec sheet). We have that setup using counterbalance springs, so when unpowered it sits at the mechanical equilibrium close to the center of travel. The limited travel range (~20mm) was preventing me from executing the automated motor phasing operation, but I was able to confirm the commutation offset and direction using manual commands (via the process described in the help files using TuningSetMotorAngle). I have been making progress with tuning the stage but am struggling with a sharp high frequency resonance close to 2.0kHz that I am unable to remove. This resonance causes Easy Tune to fail, and generates an OverCurrentFault toward the end of executing a Frequency Response. I’ve attached a recent frequency response with screenshot, plus the current MCD file. Can you help to identify options that might be available for reducing this resonance, so I can get this stage under control? Thanks in advance, David David Lord Sr Dir Systems Engineering Nanoverse Technologies, Ltd David.Lord@nanovtech.com\ mailto:David.Lord@nanovtech.com +1503781-5988 !image001.png\ thumbnail! CONFIDENTIALITY NOTICE: This email message, its contents and any attached files are intended solely for the addressee(s) and may be privileged or confidential. Any use, disclosure or reproduction of this email, its contents or attached files by anyone other than the intended recipient(s) is strictly prohibited. If you have received this email in error, please notify the sender immediately and delete all copies of the email and associated files.
+
+================================================================================
+
+--- Case 91 ---
+Created: 2025-05-13 13:17:12+00:00
+Customer: Medtronic
+Status: Resolved
+Summary: Hall faults, position error, velocity error
+Description: The stage had water get on the tonic interface and the read head chip that connects to it. We are now experiencing a variety of errors that alternate when they show up. Sometimes they all show up at once. Hall faults, Position error Velocity error
+
+================================================================================
+
+--- Case 92 ---
+Created: 2024-08-02 17:34:01+00:00
+Customer: Intermolecular
+Status: Resolved
+Summary: Loud noise on ADRS100 when powered on
+Description: When ADRS100 motor is powered on, it makes a loud noise (video attached).
+
+================================================================================
+
+--- Case 93 ---
+Created: 2024-12-03 17:33:35+00:00
+Customer: M3 Measurement Solutions
+Status: Resolved
+Summary: Remote tuning session - M3 Measurement Solutions
+Description: Would it be possible to setup a tuning session for Friday Dec 6 anytime after 7AM PST? I was able to setup the repaired amp controller. It gives me an overcurrent error when I initialize the stage. Can we setup a call to go over this and possibly perform a tune at the same time? I would prefer next week January 28 Tuesday or Wednesday at either 6 or 7 am PST. I can also be available any time after 6am PST on Friday. Jim Grimes
+
+================================================================================
+
+--- Case 94 ---
+Created: 2024-10-10 17:58:56+00:00
+Customer: IPG Photonics
+Status: Resolved
+Summary: CCS130DR160WCUT-TAC Emitting Smoke While Tuning
+Description: Whenever we tune our CCS130DR160WCUTTAC rotary (SN: 27351603), the rotary will overheat and start smoking. The electrical connections to the rotary and its surrounding voltages were measured, and everything was found to be connected correctly. This is the second CCS130DR that we have experienced smoking with; the smoking of the previous CCS130DR was a reaction of the overcurrent going through the encoder, making it difficult to manually spin the rotary when the axis was disabled (where we would expect the rotary to move freely, instead). After our current CCS130DR started smoking, it is also becoming difficult to rotate the rotary when the axis was disabled. Attached is the .mcd file. It was on Aerotech Automation1 version 2.8.1.
+
+================================================================================
+
+--- Case 95 ---
+Created: 2024-12-09 15:30:52+00:00
+Customer: Argonne National Laboratory
+Status: Resolved
+Summary: Over current fault with Aerotech rotary stage
+Description: Hello, My name is Tyler Eastmond, I am a beamline scientist at the Advanced Photon Source. We recently purchased an Aerotech rotary stage and I have some questions on a fault that is being thrown. Before getting into the details of the fault, here is some relevant information: Model part number: ALAR150SPE1TAS Serial number: 48043101 Machine controller definition files (see attached): 63917111 Loaded, 63917111 No Load Cal files (see attached): 63917111A Controller: Automation1iXL5e20VL1VB4E Software: Automation1iSMC Complete order information: Your Order has shipped from Aerotech, Inc. on 24Jun2024: \ Purchase Order Number: \ 4A63519 \ \ Aerotech Sales Order Number: \ 639171 \ \ Customer Name and ID: \ Argonne National Lab Argonne, US0005621 \ \ Tracking Number: \ 276276782396 \ \ Shipped Via: \ FedEx Freight \ \ \ Line Items: \ \ Quantity \ \ Part Number \ \ Description \ \ 1 \ 1.00 \ Automation1iSMCL1iXL5eCP0H01CM1HX0FA0AP0DCT0MA0IE1S1HW0M1 \ Automation1iSMC Intelligent SoftwareBased Motion Controller \ \ 2 \ 1.00 \ Automation1MDKL1MA0LV0S1M2 \ Automation1MDK Motion Development Kit \ \ 3 \ 1.00 \ Automation1iXL5e20VL1VB4EB0MX0PSO1 \ Automation1iXL5e Enhanced Linear Servo Drive with Motion Controller \ \ 4 \ 1.00 \ ENETCAT5E45 \ Communication Cable \ \ 5 \ 1.00 \ ALAR150SPE7TAS \ ALAR150SP MechanicalBearing DirectDrive Rotary Stage \ \ 6 \ 1.00 \ C1936050 \ Motor Cable \ \ 7 \ 1.00 \ C1650150 \ Feedback Cable \ \ 8 \ 1.00 \ ProdServiceTAS \ Production Services Configurator \ We ordered this rotary stage to spin a hydraulic press that weighs 60 kg, well within the spec of the instrument. I have been running the stage without anything on top of it just fine by loading the "63917111 No Load" MCD file. However, I recently put a bit of load on the stage (15 kg) and when I did, the stage started vibrating. I don't know if it was hunting for its nominal position but it was very noticeable. I then figured I would try to run the stage with the "63917111 Loaded" MCD to account for the additional load. After loading the file, I tried to enable the axis and heard a load noise from the stage which was accompanied with an "overcurrent" fault. I checked some of the settings, everything seemed fine. I tried to clear the error and enable the axis again and the same thing happened. I am hesitant to continue playing around with this because I don't want to damage the stage, but I am at a loss for what is going on. Any ideas? The load of 15 kg I currently have on the stage is well within the specified maximum load. Thoughts on what is happening? Any help you can provide would be much appreciated. Thanks, Tyler Eastmond HPCAT Assistant Beamline Scientist XSD, Advanced Photon Source Argonne National Laboratory 630252-4121
+
+================================================================================
+
+--- Case 96 ---
+Created: 2025-01-13 11:18:30+00:00
+Customer: Honeywell FM&T
+Status: Resolved
+Summary: Max Velocity Command Fault
+Description: I have run a certain toolpath a number of time successfully in Automation1, however I have recently had two MaxVelocityCommand Faults occur in the middle of a print. Strangely, it has been happening in the middle of a long horizontal or vertical move, not a turnaround. In the first case, Y faulted on a move similar to: G1 X 24.9600 Y 98.4863 Z 9.4500 F$rglobal\\30 G1 X 24.9600 Y 98.4863 Z 9.4500 F$rglobal\\30 In the second case, X faulted on a move similar to: G1 X 46.2161 Y 90.4800 Z 20.7000 F$rglobal\\30 G1 X 46.2161 Y 90.4800 Z 20.7000 F$rglobal\\30 $rglobal\\30 is set to 47, and then not touched by any other program. The velocity command threshold is set to 88 mm/s for both axes, which is nowhere close to 47. In addition, in both cases it occurred in the middle of the movement, not when turning around. Moves like these occur all throughout the 9 hour toolpath with no issue. Can you help me prevent this error from occurring in the future?
+
+================================================================================
+
+--- Case 97 ---
+Created: 2025-03-17 13:54:31+00:00
+Customer: P&G
+Status: Resolved
+Summary: Question about technical support for tuning motors
+Description: To whom it may concern, I’m looking to setup a phone call for troubleshooting tuning an Aerotech instrument. We have tried to use the Easytune several times and it seems to be making the XYZ stage tuning worsenot sure what is happening here or if there is something we are doing wrong. I’m looking for some help Friday 3/21 Est time to talk through this if this is something that is possible, please let me know what number to call or I can provide my phone number as well. Furthermore, do you travel to setup custom XYZ stagescould you provide a PO for how much this would cost for 2 aerotech instruments located in Cincinnati OH to have their XYS stages tuned. Or is there a contact I can reach to set this up. Thank you for your help, Jen h3. Part Number EnsembleHPe10ES18784 h3. Serial Number 16714701
+
+================================================================================
+
+--- Case 98 ---
+Created: 2025-03-11 05:09:46+00:00
+Customer: Procon X-Ray GmbH
+Status: Resolved
+Summary: Position Error Fault
+Description: On customers system suddenly 3 of 4 axis showed position error fault. What can cause this?
+
+================================================================================
+
+--- Case 99 ---
+Created: 2024-11-04 03:57:00+00:00
+Customer: engionic Femto Gratings GmbH
+Status: Resolved
+Summary: Noises from ANT130LZS
+Description: Hi, while traveling our Z-Stage, it sounds like a wet disc brake and shakes in a high frequency. The same sound, but louder, we get when we turn the microscope revolver in positions whre the lens is out of the middle. By pushing the sled of the stage sidewards or by bringing torque to the sled, the stage is silent. When I deactivate the Z Axis, the sound is gone. Is there a chance, to improve the problem by performing a stage tuning, or could i damage something? What are the next steps to bring the screaming stage to silence and stop shaking. +49 (5321) 39 58 70 9 best regards Alexander Thies
+
+================================================================================
+
+--- Case 100 ---
+Created: 2025-05-28 12:01:14+00:00
+Status: Resolved
+Summary: Stage Hum and Manual Tuning
+Description: Hi Zachary, We have noticed that our bottom stage will hum if left enabled after a linear movement or jogging. Do you have any feedback on this? Also, we have added more weight to the stage and would like to retune. Do you have any instruction what a "good tuning" should look like in the frequency response? Otherwise, I will reach out with a possible time to meet. Best Regards, \ h1. Brenton Cousins Computer/Software Engineer \ \ Direct: 7163079810 !https://lh5.googleusercontent.com/hyZdbL87ohDyJs96OrK192xWwH2Fa51v93qucEIkZN5zobk5KBiD3hz0JFXD87V77mNYZILHzkkiNjtfcU3iRRow9dtfhwqMpikBwQ4xxd1WryWxN5IU7oBseg8ZAlcCzWlnPHHgokSEKgk0! \ \ Email: brenton@sundensity.us \ \ Addr: 260 East Main St. Suite 2600 Rochester, NY 14604 \ \ www.sundensity.\ https://www.sundensity.net/us \ \ !https://lh3.googleusercontent.com/3uoIIzRlQTsNNjFliA23sKUZBP0sv0sdMgQOj9rJMpB15sUhKOXXPuQ7GhY15SmJe1ItZR6eygRIAGCekfuS6q4bQEDN5ZVWOScznYOTW40nwrZ9OxXgl0qtcP0v8kFC0fWq9PybH8blF9VwNbQ!!https://lh3.googleusercontent.com/9nByfLtfxdIAxcGlLReCGa0JHeQhnj0w69w3ZlusmkwOkyWIiQwwc6gtUosdRfapHeKu4tuObsnGy15e8lVBH5THIg0lU6nymbs7jCQYfl03NEOpTrvaxpOOAoAKDVDg3NZ0zQHBqs6x7aN0CPv0!!https://lh4.googleusercontent.com/ljZGzMuoCUtgpY7NEZELIX1HrXxev6v0deBhbZBvPGhLGIGJ5s2YtDfhZpnkQQjwhyUVvbNkmcIjqtSvI9Rv70wABpx6A68I4LB4TyUfLGscPPDM8C67BlqBDJf3KCTw8kiKFnOIi3FDwU56Xk! \ \ !https://lh3.googleusercontent.com/lTansDruX8AWzQJ5shhftYao0axGP0IW7hBf0CCtuW1ATpMuI4gJXF546Z7G3kTxQLpCv9N0KeCZXcYreIG2AxTka7EVk56h1Jf0NV9HJPR5RCozwZ0kfVw04zmFBbbMt9jtuAxNTAggJDHnka8! \
+
+================================================================================
+
+--- Case 101 ---
+Created: 2025-06-17 08:30:17+00:00
+Status: Resolved
+Summary: over current fault
+Description: Good afternoon, I have an overcurrent fault with a motor we just purchased. My colleague Alan Freeland been in touch with Clive and Joseph in regards to this fault. My understanding is Clive remote access the pc to easy tune the motor and that it was fixed, but we are still having over current faults, my colleague is on holiday and don`t have more info. You might have any guidance on this fault? I had a look at parameters Average current fault mask is sitting at 3.4 (motor datasheet apk 3.4), can I increase this ? Can see motor peak current is 14A Is there a way to find the Amps value of over current fault when it fails ? Many Thanks Leon
+
+================================================================================
+
+--- Case 102 ---
+Created: 2025-06-23 12:51:27+00:00
+Customer: Integrated Solutions & Designs, Inc
+Status: Waiting for customer
+Summary: PID Tuning AND Home Limit Switch Operation
+Description: The system was tuned from the factory but once the tables were installed the tuning is not working any longer. We need Aerotech to tune the system remotely with us via Quick Assist. Additionally several axes home limit switch does nothing for the homing function. The table moves to EOL switch and moves off that EOL and stops without the Home sensor being made or not made. Home sensor had zero effect on the homing function. 2088412777
+
+================================================================================
+
+--- Case 103 ---
+Created: 2025-06-02 16:17:20+00:00
+Customer: Pennsylvania State University
+Status: Resolved
+Summary: Stage tuning
+Description: Related to GTSE48452 PlanarDL200XY stage tuning and general overview Microsoft Teams Need help?\ https://aka.ms/JoinTeamsMeeting?omkt=enUS Join the meeting now\ https://teams.microsoft.com/l/meetupjoin/19%3ameetingZWJjNzEwNTUtMGE1My00ZWU3LTg2OWItMTNhYjUwOTZkNTBi%40thread.v2/0?context=%7b%22Tid%22%3a%227cf48d453ddb4389a9c1c115526eb52e%22%2c%22Oid%22%3a%22048aeef37881436c85fd0aefc4d58f3b%22%7d Meeting ID: 221 897 833 978 5 Passcode: zm7uQ6be Dial in by phone 1 4126346292,,638532155# <tel:14126346292,,638532155#> United States, Elizabeth Find a local number\ https://dialin.teams.microsoft.com/eed9b031316c47d9a597d162f4041cb9?id=638532155 Phone conference ID: 638 532 155# For organizers: Meeting options\ https://teams.microsoft.com/meetingOptions/?organizerId=048aeef37881436c85fd0aefc4d58f3b&tenantId=7cf48d453ddb4389a9c1c115526eb52e&threadId=19meetingZWJjNzEwNTUtMGE1My00ZWU3LTg2OWItMTNhYjUwOTZkNTBi@thread.v2&messageId=0&language=enUS \ Reset dialin PIN\ https://dialin.teams.microsoft.com/usp/pstnconferencing _
+
+================================================================================
+
+--- Case 104 ---
+Created: 2025-06-02 13:57:36+00:00
+Customer: Nitor Laser
+Status: Waiting for customer
+Summary: Configuring Velocity Blending, MotorTempFault Triggered on Z-Axis
+Description: Need assistance configuring axis/task parameters for velocityblended coordinated moves. Noisy AccFbk signal coming from multiple axes, even without motion. Can’t clear/resolve MotorTempFault on Zaxis: (PRO115SL100TT1M63LI1CP1PL2TAS).
+
+================================================================================
+
+--- Case 105 ---
+Created: 2025-06-03 16:26:37+00:00
+Customer: QED Technologies
+Status: Resolved
+Summary: stage exhibits siren noise
+Description: Hi, We previously returned an ADRT260 stage (serial 47890503) under GTSE-42591 for a bearing replacement. During incoming inspection, we've noticed a loud siren sound when it was running at 350rpm with a Rockwell drive, and we confirmed the same noise when tested with the Aerotech drive. I've attached the video recorded by GTSE after the repair. I didn't pick up the siren noise initially, so I had approved the shipment of the reworked stage. You can hear the siren noise in the video, and it was louder in person. We don't think this siren sound is normal, and we cannot ship this stage to our customer in its current condition. Have you ever noticed any of the stages making a noise like this? Do you know what might be causing it? Thanks.
+
+================================================================================
+
+--- Case 106 ---
+Created: 2025-06-26 13:29:01+00:00
+Customer: Coherent
+Status: Resolved
+Summary: Remote support to tune linear stage
+Description: Need remote support to tune a linear stage. Load: ~ 22 lbs PN: PRO165SL250TT1M23LI1CP2PL1TAS SN: 237488-02 Automation 1 Version: 2.7.1
+
+================================================================================
+
+--- Case 107 ---
+Created: 2024-10-30 06:42:14+00:00
+Customer: Shearline Precision Engineering
+Status: Resolved
+Summary: Tuning
+Description: Paul Shearline called earlier from Shearline Precision Engineering. Shearline are the parent company of HLT where we've supplied some Aerotech Tables. He wants to run a tuning function on the table but gets backlash on the tables and errors when trying to cut a circle? Please can someone contact him on either: 01353 668668 - ext. 181 or maintenance@shearline.co.uk Thanks!
+
+================================================================================
+
+--- Case 108 ---
+Created: 2024-09-18 11:20:42+00:00
+Customer: Applied Materials
+Status: Resolved
+Summary: Noisy stage on Prime 10 tool P-1200
+Description: We have a noisy stage on Prime 10 tool P1200 in C/R \\Video attached \\It happens when one axis is locked the 2nd make the noise Stage S/N:6230921-1 Need support from Aerotech. Can @mostafa \\ local support come tomorrow 18/09 to PDC to check if problem can be solved?
+
+================================================================================
+
+--- Case 109 ---
+Created: 2024-11-22 05:58:41+00:00
+Customer: TECHNOPROBE s.p.a
+Status: Resolved
+Summary: Over current fault, Z axis
+Description: We have an over current fault on a system with this Axis: ATS150150M20PNM9DUNCSTD C 185959A21-Z. we tried to calibrate the feedback tuning without results. i attach you a picture of the feedback tuning and loop transmission.
+
+================================================================================
+
+--- Case 110 ---
+Created: 2025-06-12 13:32:05+00:00
+Customer: University of Southampton
+Status: Waiting for customer
+Summary: Stage noise
+Description: When the axis is activated in Motion Composer, the stage emits a sound at 460 Hz. What could be the cause, and is it safe to use the stage in this condition?
+
+================================================================================
+
+--- Case 111 ---
+Created: 2024-09-09 12:42:43+00:00
+Customer: SLAC
+Status: Resolved
+Summary: Conducted Emissions and Electrical Noise
+Description: Hi, approximately 5 years ago Aerotech provided our motion control team a custom chassis with 4x Ensemble MP drives. We have many more used elsewhere as well. We have been experiencing some major noise, and believe the source is conducted. If I look at the MP data sheet , I see that specific callouts are made for Ferite Toroids on the the motor and drive power lines, however the custom chassis that was given to us has no such ferrites. I wanted to open a discussion regarding this. Additionally, could you provide current information for who is our representative? Our company is S.L.A.C ( Stanford)
+
+================================================================================
+
+--- Case 112 ---
+Created: 2025-01-23 09:35:24+00:00
+Customer: P&G
+Status: Resolved
+Summary: Trouble tuning instrument
+Description: To whom it may concern, h3. We are having some challenges to tune our Aerotech instrument h3. Part Number EnsembleHPe10ES18784 h3. Serial Number 16714701 The movement of the XYZ stage is not smooth and we wanted to oil/grease the stage to help provide smoother movement of the stage. Do you recommend an oil/grease to use on this instrument? Thank you, Jen
+
+================================================================================
+
+--- Case 113 ---
+Created: 2024-09-30 10:38:15+00:00
+Customer: O'Neal Manufacturing Services
+Status: Resolved
+Summary: BM500 - Overcurrent Fault
+Description: Hello, We are experiencing issues with the motor we received back from being repaired. We are getting an overcurrent fault; it may be something with the motor itself or tunning the motor in. \ Reference# GTSE41672 Purchase Order Number: \ 388434 \ \ Aerotech Sales Order Number: \ 640825 \ \ \ \ \ \ Model# BM500MSE1000HBK2 \ \ \ SN# 156594A11Z Contact Number 3192318145 \ \ Garret Geerdes Maintenance Tech O’Neal Manufacturing Services Cedar Falls 7100 Chancellor Drive \ Cedar Falls \ IA \ 50613 Office 3195755158 Email: ggeerdes@onealmfg.com
+
+================================================================================
+
+--- Case 114 ---
+Created: 2025-04-30 13:56:31+00:00
+Customer: Nokia
+Status: Resolved
+Summary: Troubleshooting Overcurrent fault
+Description: We added a pneumatic slide under one of the Aerotech stages that were added. Due to the mass of the stages on the slide, when the slide moves the stages overcurrent and disable. What parameter can I change to increase the holding current? The stage is an ANT130160. I have NDrive controllers with version 6.04.000.0177 software. New license ID # 21215 Thank you, Gary Wiand Nokia 7360 Windsor Drive Allentown, PA 18106 gary.wiand@nokia.com\ mailto:gary.wiand@nokia.com Phone: 4848664560
+
+================================================================================
+
+--- Case 115 ---
+Created: 2025-04-09 01:36:14+00:00
+Customer: BRUKER
+Status: Resolved
+Summary: Gantry Overcurrent fault ABL9000 ES200371 SN639854
+Description: I’m getting gantry overcurrent faults after applying a 1D and 2D cal to this stage. Attached are the MCD, 1D and 2D cal files. What would be the best way to resolve this?
+
+================================================================================
+
+--- Case 116 ---
+Created: 2024-10-03 13:47:41+00:00
+Customer: Pulse Technologies
+Status: Resolved
+Summary: ACS150 Rotary Drive Position Error Fault
+Description: Hello, I have an ACS150 rotary drive which has been having increasingly frequent Position Fault Errors and I am looking for troubleshooting guidance. It is driven by an NdriveCP10 and A3200 CNC software v6.04.002.
+
+================================================================================
+
+--- Case 117 ---
+Created: 2025-02-11 19:58:32+00:00
+Customer: Lawrence Livermore National Lab
+Status: Resolved
+Summary: Easy Tune not identifying axis
+Description: I’m running Easy Tune on an AGR50 and AGR150. For both of them, the stage moves small short moves when I click start. Easy Tune then quits and says it could not identify the axis. Neither axis is close to the end of motion limits.
+
+================================================================================
+
+--- Case 118 ---
+Created: 2024-07-05 17:25:45+00:00
+Customer: University of Ottawa
+Status: Resolved
+Summary: Loud screeching noise when homing X and Y axis (Aerotech A3200)
+Description: Hello, My name is David Girard. I am working under the supervision of Dr. Arnaud Weck. We have noticed an issue lately when using our Aerotech system. When we home the X or Y axis, a loud screeching noise is produced. When homing the X axis, the noise is quieter, but the system still manages to home the axis. When we are homing the Y axis, the noise is very loud, and the homing does not complete. An “Overcurrent Fault” appears on the X axis, and when we try to reactivate the X axis, the screeching noise continues until another overcurrent fault occurs. To stop this, we need to deactivate the Y axis and set it manually to the center. Here is some useful information about our system: Controller: Npaq X stage: ANT 130XY Z stage: ANT 130V The configuration file is attached to this email. We have tried the following things: Reduce the homing speed from 20 mm/s to 10 mm/s Perform EasyTune Restart the controller Remove anything on the stage Let us know what you think might be the issue. We can also send more information if you need. Best regards, David
+
+================================================================================
+
+--- Case 119 ---
+Created: 2024-10-15 15:03:44+00:00
+Customer: OrcaBio
+Status: Resolved
+Summary: Remote tuning ADRT100-135 & Ensemble
+Description: Please refer to the customer issue below. Please also change the reporter of this issue to the customer contact shown. Thanks! Issue: Customer needs assistance tuning an ADRT100135 with ensemble drive. Customer has an agitation cycle: 60 degree moves back and forth 23 seconds per move * Repeats continuously for a few minutes Customer Contact: khiem@orcabio.com\ mailto:khiem@orcabio.com john@orcabio.com\ mailto:john@orcabio.com Thanks, Ethan Linderman Mechanical engineer Applications Engineering Group
+
+================================================================================
+
+--- Case 120 ---
+Created: 2025-06-24 19:15:15+00:00
+Customer: Raytheon
+Status: Waiting for customer
+Summary: Changing The Ramp Rate Has Limited Effect On Acceleration
+Description: Changing The Ramp Rate Has Limited Effect On Acceleration And Not Sure How To Use API To Check If Homed # Application: XR3 controller with XSL3-10 amplifiers drives custom gimbal system. Requesting assistance with resolving several issues: The system’s acceleration appears to be clamped at 10 degrees / sec^2. The motor reaches the desired velocity slower than necessary. Increasing the ramp rate, after a certain point, does not affect the acceleration. Changes to the axis speed did not affect the acceleration either. Is there some other parameter that could be affecting the acceleration besides the ramp rate? Is there a way to read back the current ramp rate using the API? The goal is to confirm that the ramp rate that we set the motion controller to is being used. 2. I am aware that there is a homed property in the A3200 API. However, it is unclear to me how to retrieve it and use it. Could you provide some clarification on that?
+
+================================================================================
+
+--- Case 121 ---
+Created: 2024-11-14 17:18:51+00:00
+Customer: Lockheed Martin
+Status: Resolved
+Summary: OverCurrent fault on screw-driven goniometer
+Description: We have a two-axis (AZ and EL) system. When enabled, our EL stage no longer moves more than 0.07 deg incrementally before giving an OverCurrent fault with a short rattle sound and vibration that seems to come from the brake assembly. We can still hear the clicking of the brake as it engages and disengages, which is what we observed during normal operation. We checked for physical obstructions and did not find any. We cycled power to all components, and this did not fix the issue. We manually disabled the brake (DriveBrakeOff), and we found that we could rotate the screw of the disabled stage by hand once we did that. There was a facility power outage between when we last ran the system as normal and now, and perhaps this was the cause of some issues. I attached a CSV file with position/current command/feedback for AZ and EL for one of the runs. Can you please advise on troubleshooting that we can perform? Thank you, Shea Charkowsky
+
+================================================================================
+
+--- Case 122 ---
+Created: 2024-11-05 17:15:26+00:00
+Customer: Amada Weld Tech
+Status: Resolved
+Summary: Remote session - System Tuning & Cal File
+Description: Hi id like to schedule a tuning session for a system with 2 Aerotech Linear Stages. We are hoping to complete this this week currently we have a following error of 30 thou and need under +-2 thou.
+
+================================================================================
+
+--- Case 123 ---
+Created: 2024-10-07 16:07:38+00:00
+Customer: Nanoverse Technologies
+Status: Resolved
+Summary: On-Site Tuning Support for Nanoverse Technologies (Beaverton, OR)
+Description: Hi Gary/GTS Team Nanoverse Technologies (Beaverton, OR) is requesting onsite tuning support. They are a semiconductor OEM that currently uses Aerotech for two of their machine modules see the description below: Laser Scribe Module: Aerotech AGVXPO with controls for 3rd party stages (Griffin Motion XYTheta+ Primatics Z) Aerotech components purchased via SO# 637476637479 Metrology Module: Aerotech controls only for 3rd party stages (Griffin Motion XYTheta) Aerotech components purchased via SO# 639469 They are requesting that this onsite support happen ASAP as they ideally want to have these machines up and running before the end of next week. They plan to have 4 machines powered up (2 of each module described above) ahead of a technician going onsite. Upon discussing with the customer, they believe 2 days of support should be sufficient. For reference, they have two open GTS tickets related to these systems: GTSE43025\ https://support.aerotech.com/browse/GTSE43025 relates to laser scribe module GTSE43003\ https://support.aerotech.com/browse/GTSE43003 relates to metrology module Please let me know if additional information is needed and what the next steps may be. If a quote needs to be generated, the contact info is listed below: Kevin D'Souza VP of Engineering kevin.dsouza@nanovtech.com\ mailto:kevin.dsouza@nanovtech.com 971300-2752 Best Regards, John Guzman
+
+================================================================================
+
+--- Case 124 ---
+Created: 2025-06-05 14:31:26+00:00
+Customer: MicroCut Lab
+Status: Resolved
+Summary: PRO165SL600TT1LI1CP1PL0TAC screw resonance
+Description: Hello, I am tuning the servo motor on the PRO165SL600 stage that we recently purchased. I am experiencing screw resonance issues that prevent me from achieving the same servo positioning performance that we have on our PRO165SL400 unit. When the servo gains that work well on the 400mm unit are used on the 600mm unit, a high frequency instability occurs. That instability appears to be related to the screw and quickly disappears if the screw is damped by touching it. Do you have any options for reducing the tendency of the screw to resonate and cause servo instability? I can not see the coupling between the motor and the ballscrew as it is hidden inside a housing with only a small slot to access the attachment screw. Is there possibly an upgraded coupling that would have higher stiffness and could that possibly help? Any other suggestions would be appreciated. The serial number of our unit is: 50713801 and the model number is: PRO165SL600TT1LI1CP1PL0TAC in case you need that. Thanks, Clark Davis !https://ci3.googleusercontent.com/mailsig/AIorK4x2shfJbi8HZ4nGLE2ac3JNWHfMrCtQypHE3rIHmvraGurKEn3cwIh8ceURotLWh6CGvkEM! clark@microcutlab.com\ clark@microcutlab.com 801.706.5768 \ !https://sinstall.avcdn.net/ipm/preview/icons/iconenvelopetickroundorangeanimatednorepeatv1.gif! <https://www.avast.com/sigemail?utmmedium=email&utmsource=link&utmcampaign=sigemail&utmcontent=emailclient>\ Virusfree.www.avast.com\ https://www.avast.com/sigemail?utmmedium=email&utmsource=link&utmcampaign=sigemail&utmcontent=emailclient\ #DAB4FAD82DD740BBA1B8-4E2AA1F9FDF2
+
+================================================================================
+
+--- Case 125 ---
+Created: 2025-03-21 12:02:09+00:00
+Customer: MICRO
+Status: Resolved
+Summary: Rotary making noise when spinning at higher speeds
+Description: HelloI couldn’t find the serial #, but can provide more information if requested. I noticed the rotary began making noise after we’d been cutting parts for a while. The noise is sometimes a loose turning sound (video4), and sometimes it is a loud grinding sound (video3). In both videos, the rotary is rotating at 15deg/sec for 360 deg. In video 3, the equipment is running a program; video 4 its following a motion command. The noise only occurs as you start rotating at higher speeds (5 deg/sec+). We’re cutting .5161.27mm diameter tubes, irregularly. When I do cut parts, its usually about 300400 tubes cut. We’ve had the equipment in since about last May (it was sitting used at a low freq in our customers warehouse 1-2yrs before it arrived to us). This problem began last Friday 3/14/25; since then, we’ve disassembled the chuck to take a look at the rotary housing. However, we stopped there as we don’t want to cause unintended damage. Are there any suggestions for next steps that we can take? We were also going based off the attached manual, which was provided to us from our customer, but we noticed that the model in the manual is incorrect/different from what we actually have in the equipment.
+
+================================================================================
+
+--- Case 126 ---
+Created: 2025-06-17 10:56:33+00:00
+Customer: DuPont
+Status: Waiting for customer
+Summary: Pro115SL Movement Instability
+Description: Hello, We have noticed that the Pro115SLs on two of our instruments have a tendency to move up and down very slightly at the measurement points we have indicated. This hop is causing some variation in our data. We have tried some troubleshooting within our instruments to solve this issue but have yet to find a solution. Would there be anything Aerotech recommends to figure out/ fix this sort of issue? Thank you, Kane Jacobs
+
+================================================================================
+
+--- Case 127 ---
+Created: 2024-07-02 16:05:47+00:00
+Customer: Boston Scientific
+Status: Resolved
+Summary: New drive always throws PositionErrorFault
+Description: I recently purchased an XC2 drive to control a PRO115 stage. I added it to an existing system that was already working that included an iXC2 and three more XC2s and identical stages. I cannot tune or even move the stage due to the PositionErrorFault that is throw whenever a move is attempted. Do you have any recommendations as to how I can move forward?
+
+================================================================================
+
+--- Case 128 ---
+Created: 2025-01-07 13:48:01+00:00
+Customer: National Jet Company
+Status: Resolved
+Summary: A3200 overcurrent and amplifier faults
+Description: I have a A3200 operator interface that gives both over current and amplifier faults. Any idea what I need to fix? Thank you, Joe Headley, Machinist edm@najet.com\ mailto:edm@najet.com Tel 3017292300, 8002721930 Fax 3017294298 www.najet.com\ http://www.najet.com/ !image001.png\ width=93,height=118,thumbnail! National Jet Company 10 Cupler Drive Lavale, MD 21502
+
+================================================================================
+
+--- Case 129 ---
+Created: 2024-11-21 13:55:17+00:00
+Customer: O’Neal Manufacturing
+Status: Resolved
+Summary: Trouble tuning in motor
+Description: Hello, I am still having troubles tunning in the motor that we sent in for repairs. I was wondering if there is anyone that could help me walk through the process of Loop Transmission? Thank You, Garret Geerdes Maintenance Tech O’Neal Manufacturing Services Cedar Falls 7100 Chancellor Drive \ Cedar Falls \ IA \ 50613 Office 3195755158 Email: ggeerdes@onealmfg.com
+
+================================================================================
+
+--- Case 130 ---
+Created: 2025-03-27 12:10:17+00:00
+Customer: Nadatech
+Status: Resolved
+Summary: XY Stage Support needed - Position error fault
+Description: Hey Aerotech, One of our customers uses a tool with your XY stage. I’m copying a picture below of a fault. The user has told me they are unable to enable the X axis or home it. They have tried power cycling and multiple reboots of the software. Any advice? Thank you in advance! -Phil Stadulis
+
+================================================================================
+
+--- Case 131 ---
+Created: 2024-12-20 22:12:17+00:00
+Customer: Nanoverse Technologies
+Status: Resolved
+Summary: Software Errors During Tuning Operations
+Description: Good evening Support, Re: SO# 637477 I have been trying to tune a new vertical stage that we have on one of our tools, but ran across a couple of software errors. The stage in question is being driven by an XC4, s/n 44764214. Yesterday I was attempting to execute Open Loop Tuning, but was unable to complete it without error. Although the process appeared to complete correctly, each time it finished I was greeted with a “Object reference not set to an instance of an object” error message, and no results were displayed. Today I was trying to continue my work, but this time was using EasyTune. I was able to get EasyTune to work correctly the first time, but when I attempted to rerun it using a different performance target, it would fail mid-execution with a “The calling thread does not have access to this service” error message. I tried multiple times, including going back to the normal performance target, and after resetting the controller, but each time I received the same error message. I have attached screenshots, and StatusUtilityExport dumps after each of these errors. Thanks, David CONFIDENTIALITY NOTICE: This email message, its contents and any attached files are intended solely for the addressee(s) and may be privileged or confidential. Any use, disclosure or reproduction of this email, its contents or attached files by anyone other than the intended recipient(s) is strictly prohibited. If you have received this email in error, please notify the sender immediately and delete all copies of the email and associated files.
+
+================================================================================
+
+--- Case 132 ---
+Created: 2024-08-21 19:22:48+00:00
+Customer: Oregon State University 
+Status: Resolved
+Summary: Position Error Fault & Brake Installation
+Description: Hi, I have recently set up a 3axis Aerotech system. I am successfully able to run the XY axis (on an iXC4), however, the Zaxis (on an XC4) continues to give a "Position Error Fault" when I give a movement command. I am wondering if this has to do with the fact that it is a first time use? Also, I have the external brake system (line 13 in attached) but I am unsure how it interfaces with the XC4 as I cannot find this in the documentation. Attached is my quote with the system components. Any assistance you can provide would be much appreciated. Thank you, Devin J Roach, PhD Assistant Professor \ Mechanical, Industrial, & Manufacturing Engineering C: (505)2287722 VAMOS Lab Website\ http://vamoslab.org/ Google Scholar\ https://scholar.google.com/citations?user=9hlSsrIAAAAJ \ \ Twitter (X)\ https://twitter.com/DevinJRoach !Outlook4kta3z0d.png\ thumbnail!
+
+================================================================================
+
+--- Case 133 ---
+Created: 2024-11-12 15:34:34+00:00
+Customer: Corning Incorporated
+Status: Resolved
+Summary: XR3 voltage noise
+Description: Hello, I am controlling a laser process using a XR3. I am detecting quite a bit of noise on the analog output Pin #4 and #5 (Analog Output 0 and GND) port that is connected to a laser that has its power controlled by voltage. After setting up a voltage of 8 volts I noticed a noise band overlapping with the DC signal with an AC component of about 2 volts. I don’t believe this is normal and wonder if you can suggest any fix or further testing to eliminate this problem. Thanks
+
+================================================================================
+
+--- Case 134 ---
+Created: 2025-03-25 12:56:18+00:00
+Customer: University of Nebraska-Lincoln
+Status: Resolved
+Summary: High pitch noise from the gantry.
+Description: Hi\\! We are using a Aerotech gantry, and we found that it makes high pitch noise at a specific location and movement of the gantry head. You can hear the high pitch noise in this video: https://www.youtube.com/watch?v=F7ZWulIO2X0\ https://www.youtube.com/watch?v=F7ZWulIO2X0 It is really hard to specify the source (location) of the noise, and it sounds like vibration of something. Would you give us some comment for this issue?
+
+================================================================================
+
+--- Case 135 ---
+Created: 2024-11-26 14:49:42+00:00
+Customer: L3Harris
+Status: Resolved
+Summary: Trouble with motor tuning on elevation stage
+Description: Hey Folks, I am having trouble with the motor tuning on the elevation stage of our 24” mirror mount. I have tried the auto-tune and closed loop tuning in the GUI but both create an over current fault. I am trying to retune the stages because the elevation stage cannot complete its home routine without an over current fault. In both tuning routines I am uusing very small distances and speeds, but they still cause faults. Can we set up a meeting with support to discuss these processes? I also have some questions about the homing routines. Similarly, Could you share a .step or .iges of the 24” mounts we have? It would also be helpful to have the 12” versions that we are considering purchasing. Thanks for the help. Thanks for the help. Henry Donaldson L3Harris 65 Jonspin Road Wilmington, MA 01887
+
+================================================================================
+
+--- Case 136 ---
+Created: 2024-08-09 17:08:16+00:00
+Customer: FormFactor
+Status: Resolved
+Summary: System Down Zaxis overcurrent faults on new iXR3 based system need HELP!
+Description: Sidney, I am going to need some help if you have time today on Friday afternoon. Our system is down. Zaxis needs to be retuned (or similar) loud angry sounds are coming from the Zaxis New system was received yesterday and uncrated. Here are some emails from Brett and I exchanged emails…. I would start by downloading the mcd to preserve the current state. Then check the obvious things Is the brake disengaged Is the air pressure set appropriately * Is the shipping clamp removed Then if easy tune will not run I would attempt to use the classical tuning module to try to get a stable starting place. I would start with an amplitude of ~5 mm, 1.5 Hz frequency, 40 Hz crossover, and 30 deg phase margin. If that is unsuccessful I suggest reaching out to Sidney via GTSE to see if he has some time to help before the end of the day. Brett Heintz Group Leader Applied Technologies Group aerotech.com\ https://urldefense.com/v3/http:/aerotech.com;!!IUBhJIYjDhs!5TA1iDTF8FqzAU4wCmMxEDc0ZcHVC0PEEHu11jbYYFziDesLPaS3ddmfUlD0wD0gC_aSWrK3JvsPlbu4bqPJ$. \ +1.412.406.5247 On Fri, Aug 9, 2024 at 4:38 PM Sean Mish (EXT) <Sean.Mish@formfactor.com\ mailto:Sean.Mish@formfactor.com> wrote: Brett and Nate, I know that it’s a Friday afternoon but the system is currently down with a Zaxis overcurrent fault. When we mounted our fiber arm on the system it is now unstable and will have the fault within a few Seconds of trying to move. I know that you guys tuned this in your lab, but it isn’t working for us (and makes loud harmonics) when It faults. Easy tune cannot run in this situation (has the same motion faults and stops). I don’t want to overwrite your tuning efforts, but I’m trying to get the system up and running to run some Tests over the weekend. Any thoughts?
+
+================================================================================
+
+--- Case 137 ---
+Created: 2024-10-11 09:22:11+00:00
+Customer: Motion Plus
+Status: Resolved
+Summary: INTERNAL Motion Plus/Genesis Ndrive Tuning
+Description: Hello, In April 2024, MP supplied Genesis Automation with an A3200 system and NdriveCP20 components for a duplicate machine setup. The order included the following: A3200MACHINE2 AXESCNC OPERATOR INTERFACEUSBMAINTENANCE100 (SO 639021) NFIREPCIE (2) NdriveCP20 units (SO 639024) Genesis Automation is currently setting up the new machine with these two NdriveCP20 drives, identical to two previous builds. The wiring and drive configuration are consistent with their previous installations. However, they are encountering tuning difficulties with one of the drives (SN: 47950801). Specifically, EasyTune is unable to complete the servo tuning, and as a result, the PSO feature is not functioning. They attempted to swap the drives between the axes, and the issue persisted, following the problematic drive. I’ve already advised them to try a more conservative performance target in EasyTune, but this did not resolve the issue. They also attempted manual tuning but have not achieved satisfactory results. I’ve attached the latest EasyTune file for review. Please keep this ticket internal to MP and open a separate support ticket for Genesis Automation. Kindly add me as a participant (ddirado@motionplusmore.com\ mailto:ddirado@motionplusmore.com). The customer’s contact information is below: Adam Van Boekel Mechanical Design Engineer Genesis Automation, LLC 3480 Swenson Ave. St. Charles, IL 60174 6305870444 AVanBoekel@genesisautomation.com\ mailto:AVanBoekel@genesisautomation.com Drive Serial Number: 47950801 Motion Composer Version: 6.04.009 Firmware Version:* 2.03.000.0010 Thank you\\!
+
+================================================================================
+
+--- Case 138 ---
+Created: 2024-08-06 17:53:59+00:00
+Customer: FormFactor
+Status: Resolved
+Summary: excessive vibrations on Yaxis Easy Tune not working to improve oscillations
+Description: Had a session with Sidney. Here is a plot from a previous run where vibrations were present only on the Y axis. Easy tune failed.
+
+================================================================================
+
+--- Case 139 ---
+Created: 2024-07-10 13:56:26+00:00
+Customer: FormFactor, Inc.
+Status: Resolved
+Summary: Need help resolving PositionErrorFault on all three XYZ axes
+Description: Our Silicon Photonics positioner (ANT XYZ on top of angular FormFactor PRY base) is throwing PositionErrorFault on all three XYZ stages and cannot be Homed or moved. Need help to resolve this issue as it is blocking development of integration with our SiP probe station.
+
+================================================================================
+
+--- Case 140 ---
+Created: 2025-03-06 13:12:46+00:00
+Customer: MIT Lincoln Laboratory
+Status: Resolved
+Summary: Noise from XR3 controller
+Description: We ordered replacement extruders from the company and they changed the stepper motor. Andy has been trying to get the XR3 to communicate with the motors and is observing a lot of noise from the controller. Can you help us troubleshoot?
+
+================================================================================
+
+--- Case 141 ---
+Created: 2024-07-24 14:21:21+00:00
+Customer: FormFactor
+Status: Resolved
+Summary: XYZ stage not reaching positions (tuning error?)
+Description: We are experiencing move failures where the XYZ stage is not reaching the destination closely enough. The errors are far in excess of what is expected and what it has been achieving recently. Not sure if this is tuning or a very odd interaction with Brett’s XYZ compensation code. Attached is configuration when another error occurred as well (Brett is dealing with some discontinuities in the calibration data).
+
+================================================================================
+
+--- Case 142 ---
+Created: 2025-01-17 08:19:48+00:00
+Customer: IPG Photonics Corp. / Applied Medical Technical
+Status: Resolved
+Summary: Velocity Error Faults on Axis A (ILT Serial # 8718)
+Description: Hello Aerotech Team I have a customer that has a rotational axis model AGR50M1ML25LI1T and they are having velocity and position errors. The axis was changed back in early 2024 and was not having any issues with it until two weeks ago. When they changed the axis, they did not run any tuning programs. They used the same parameter file settings they already had. Now they are trying to run the EasyTune application but it cannot be completed due to the velocity and position errors. The email chain also has some more information such as graphs of the axis movement comparison between the A axis and a good axis (B). This is part of the response from the customer (Yellow Highlighted) when I suggested to run the EasyTune application according to the instructions attached in this email. We have attempted to run the Easy Tune tool on axis A but we experience the same velocity error fault during the calibration motion. This occurs at the default settings as well as the recommended settings of 20degrees @ 1/10th speed. We have also attempted to run the Easy Tune at a varying speeds and distances; however, we still experience the same velocity error fault. In addition, I have tried to manually adjust the gain values to maybe get the velocity error to go away long enough for us to run the Easy Tune tool with no success. The last thing we tried was to attempt disable the velocity error by using the A3200 Configuration Manager to set the velocity error threshold to 0 as indicated in the manual. We did this in hopes of allowing us to run the Easy Tune tool without faulting out during the calibration motions, however we still experienced the velocity error fault. I have attached two more digital scope plots to this email for your team’s Investigation. The plots are of the faulty axis A and of the known working axis B. These plots show the position, velocity, acceleration, and current data through 360degree rotation. Axis A did not experience a velocity error fault during this plot and as mentioned in a previous email, we only experience this fault when we are jogging in increments from rest and not when we are making large sweeps of continuous motion. I am curious to know if your team believes that our issues could be due to mechanical degradation in the gearbox/motor. If so, what could have caused it to wear out so soon with such little use whilst also being located in a clean room environment? We have an identical unit in the same room and configuration that has not experienced these issues. Do you believe running the Easy Tune will resolve our issues without needing to replace the whole drive unit? Do you have any tips on getting it to work without triggering the velocity error fault? Please let us know if what your and your team think of the provided results as well as any additional feedback you may have. !image.png\ thumbnail! EMAIL CHAIN BELOW From: Douangmanivong, Lucky <lucky.douangmanivong@appliedmedical.com> Sent: Thursday, January 16, 2025 8:45 PM To: William Laboy <WLaboy@ipgphotonics.com>; IPGPMN Service <IPGPMNService@ipgphotonics.com> Cc: Herrera, Eric <Eric.Herrera@appliedmedical.com>; Hunter Glasrud <hglasrud@ipgphotonics.com>; David Videen <dvideen@ipgphotonics.com>; Lacy, Jacob <Jacob.Lacy@appliedmedical.com> Subject: EXTERNAL RE: Applied Medical Technical Support Request Velocity Error Faults on Axis A (ILT Serial # 8718) Thank you for answering our questions. Please see the below answers/notes to the feedback provided. When did this problem start to occur? Was it immediately after we changed the axis in early 2024? This issue is a recent one. After replacement of the axis in early 2024, 67 full shop orders were run without issue to verify functionality. This velocity error issue arose around 2 weeks ago during testing and the last active shop order where we utilized this axis was in August 2024. Is this axis in a harsh environment that would accelerate any wear? This machine is located within a clean room environment which rules out any concerns with dust or debris getting into the drive mechanism. In addition, this axis has not seen much use since its installation. As stated above, this drive ran about 67 full shop orders after replacement and the last active shop order was in August. Please make sure the cut is not affecting any of the wires inside that cable. Upon closer inspection of the motor cables, it seems like the damage is to the insulation only and none of the conductors have been damaged. From: Douangmanivong, Lucky < lucky.douangmanivong@appliedmedical.com\ mailto:lucky.douangmanivong@appliedmedical.com > Sent: Monday, January 13, 2025 10:02 AM To: William Laboy < WLaboy@ipgphotonics.com\ mailto:WLaboy@ipgphotonics.com >; IPGPMN Service < IPGPMNService@ipgphotonics.com\ mailto:IPGPMNService@ipgphotonics.com > Cc: Herrera, Eric < Eric.Herrera@appliedmedical.com\ mailto:Eric.Herrera@appliedmedical.com >; Lacy, Jacob < Jacob.Lacy@appliedmedical.com\ mailto:Jacob.Lacy@appliedmedical.com > Subject: RE: Applied Medical Technical Support Request Velocity Error Faults on Axis A (ILT Serial # 8718) Good Morning William, I just wanted to follow up regarding our issues with constant Velocity and Position error faults at Axis A on our laser welder. We have utilized the digital scope program to plot the behavior of the servo motor up to the fault and I have attached the Scope Files to this email for your reference. These graphs were generated using an incremental step of 15 degrees and we have configured the conditional plot logic to change the color of the graph to turquoise when we experience a fault. The file name indicates the number of points, period, and fault position. The graph for 360 degree rotation on Axis A utilized an incremental step for 360 degrees to capture the motor’s behavior when we are moving in a continuous motion. Looking at the graphs of Axis A compared to Axis B, it seems like we are observing a high amount of position and velocity error in the beginning of each incremental step with a large amount of initial overshoot with little to no stabilization over the duration of the step. This leads me to believe we have some sort of tuning error or mechanical friction. Please see the below snippets of the graphs with my observations. (PLOT 1) Axis A: Incremental Jog by 15 degrees. Fault at position of 30 degrees. Here we have a large initial positional error and velocity error during transient response. As the velocity ramps up quickly, we are overshooting the command setpoint which gives us a velocity error in the positive direction. It looks like the drive then tries to drop the velocity to bring us back down closer to the command velocity where we overshoot the negative correction as we approach what would usually be the steady state response of the step. During the steady state response of the step, it seems like we are oscillating heavily when compared to Axis B which is analyzed below. !image003.png\ thumbnail! (PLOT 6) Axis B: Incremental Jog by 15 degrees. No fault Here we have the usual spike of initial error as we begin ramping up to speed and cresting to our command velocity. What we can observe in this graph is that the initial peak of velocity error on axis B is significantly lower at a peak of 3 deg/sec compared to our average peak of about 1215 deg/sec on axis A. In addition, the velocity feedback shows that our correction during steady state response is much smoother and consistent which indicates that we are not significantly over or undershooting the command setpoint during steady state response. !image004.png\ thumbnail! Looking at these graphs it would seem to me like the servo on axis A may need tuning. However, as stated in my previous email, the Gain values Kpos, Ki, Kp, Aff, Vff, and Kpi are identical in all 3 axis. This leads to the following questions: # Are the Gain values for Axis A, B and C standardized to specific setpoints? # Could the reoccurring errors we are experiencing be due to not tuning Axis A after the unit was replaced early 2024? # If the drive was tuned after replacement, would the need to adjust these tuning values indicate some sort of mechanical wear that would require higher/lower gain values to reach steady state with less over/undershoot? # Do you suggest we run EasyTune to get Axis A within tolerance? Would running EasyTune have any risks to bring our machine out of calibration or validation? # Do you have any other observations of the graphs that could illuminate our observed issues? Please let me know if there is anything I can provide for clarification or if you suggest any next steps for resolving our issues. From: Douangmanivong, Lucky < lucky.douangmanivong@appliedmedical.com\ mailto:lucky.douangmanivong@appliedmedical.com > Sent: Wednesday, January 8, 2025 2:57 PM To: William Laboy < WLaboy@ipgphotonics.com\ mailto:WLaboy@ipgphotonics.com >; IPGPMN Service < IPGPMNService@ipgphotonics.com\ mailto:IPGPMNService@ipgphotonics.com > Cc: Herrera, Eric < Eric.Herrera@appliedmedical.com\ mailto:Eric.Herrera@appliedmedical.com >; Lacy, Jacob < Jacob.Lacy@appliedmedical.com\ mailto:Jacob.Lacy@appliedmedical.com > Subject: RE: Applied Medical Technical Support Request Velocity Error Faults on Axis A (ILT Serial # 8718) Hello William, The connectors have been checked by our Eric and Jacob (who are cc’d) and they have ensured that all connections are tight and secure. They did notice a small nick in the insulation of one of the cables to the drive, could this be the culprit? !image005.png\ thumbnail! Regarding attempting to move the axis by hand, we are not able to induce movement in the gearbox by hand for any of the axis’ due to the gearing being too high. This is true for axis A, B and C. The issue seems to be more prevalent on incremental movement from rest. When we jog the axis in continuous mode, we are not able to recreate the issue as reliably as when we are jogging at 1525 degrees at a time. We usually experience the error around a position of 6090 degrees as well as around 180 when we are jogging incrementally. Not sure if a nick in the cable insulation could cause this behavior. Please let us know what action items we should pursue next. Thank You, From: Douangmanivong, Lucky < lucky.douangmanivong@appliedmedical.com\ mailto:lucky.douangmanivong@appliedmedical.com > Sent: Tuesday, January 7, 2025 7:29 PM To: IPGPMN Service < IPGPMNService@ipgphotonics.com\ mailto:IPGPMNService@ipgphotonics.com > Cc: Herrera, Eric < Eric.Herrera@appliedmedical.com\ mailto:Eric.Herrera@appliedmedical.com >; Lacy, Jacob < Jacob.Lacy@appliedmedical.com\ mailto:Jacob.Lacy@appliedmedical.com > Subject: EXTERNAL Applied Medical Technical Support Request Velocity Error Faults on Axis A (ILT Serial # 8718) Good Afternoon, I am a Controls Engineer at Applied Medical and we have a laser welder (Serial #8718) that is experiencing repeating Velocity and Position Error faults on axis A. These errors occur both when we are running through a program in automatic mode and when we are jogging the axis manually via the HMI and it seems to occur when we are attempting to move the drive from a stopped state such as after an incremental jog or after we complete a weld routine and rotate our fixture 180 degrees. For what it’s worth, it seems that we are experiencing these faults around the 90degree and 180-degree positions, but this is not consistent and may be purely coincidence. We have attempted to utilize the Digital Scope tool to monitor the velocity, and current command/feedback graphs to try and capture these values when we experience a fault however we do not see any spike in velocity error, nor do we see a spike in position error above our set thresholds. To capture this data we are using conditional plot logic to stop the recording when we see a velocity or position error fault to attempt to capture the values leading up to the fault. I have also looked at the tuning values such as Kpos, Kp, Ki, etc. and have found the values to be identical across all 3 horizontal axis A, B, and C. Our fault thresholds for Velocity and Position are also identical across axis A, B, and C. Could we please get guidance as to where we should direct our focus to? Do you think it is an issue with our setpoints, configuration, tuning? Do you believe that this is caused by some mechanical wear and tear which is leading to resistance. Is there some other factor that we are missing that could be causing our repeated faults on axis A? Please let me know if there is anything else I can provide for further clarification. Thank You,
+
+================================================================================
+
+--- Case 143 ---
+Created: 2024-11-20 17:12:16+00:00
+Customer: Xanadu
+Status: Resolved
+Summary: Hexapod instability
+Description: Tech Support Please assist Mr Thomas Grainge with this instability issue on his new hexapod. Please add me to the case as a participant, too. Thomas, Thank you for your detailed description of the problem. The hexapod should be able to easily make submicron movements. It could potentially be a servo tuning issue. If we tested & tuned the hexapod with a much heavier mass than you have on it now, that could explain things. We'll see what tech support comes up with. Hopefully it is just a servo tuning issue. Sincerely, Jeremy Donatell Forwarded message From: Thomas Grainge <thomasg@xanadu.ai\ mailto:thomasg@xanadu.ai> Date: Wed, Nov 20, 2024 at 5:04 PM Subject: Re: Shipment SO# 641345 Xanadu / PO# PO004784 To: Jeremy Donatell <jdonatell@aerotech.com\ mailto:jdonatell@aerotech.com> Cc: Andrea Dickinson <adickinson@aerotech.com\ mailto:adickinson@aerotech.com>, Blair Morrison <blair@xanadu.ai\ mailto:blair@xanadu.ai>, Inna Krasnokutska <inna@xanadu.ai\ mailto:inna@xanadu.ai> Hi Jeremy, We have received the hexapod and I got it set up and working over the last couple of days. It generally is working well but we have encountered a curious issue. When making very small movements, it seems as though there are positions where the hexapod is unstable it will constantly oscillate/vibrate/jitter until it is moved out of the unstable position. I specifically noticed this when we are moving in the Z axis by 1 micrometer increments. Occasionally I will reach one of these regions, and the hexapod appears to oscillate in X and Y, and possibly also Z. The amplitude of these oscillations seems to be 2 micrometers at most. As I continue to step forwards in Z by 1 micrometer steps, after moving 34 micrometers the oscillations stop and the hexapod becomes totally stable and still again. This behavior was easily detectable to us because we have optical fibers mounted to the stage with a visiblelight laser shining through them, and we can clearly see the motion of the stage through the flickering of the laser light. It's also visible in our microscope camera aimed at our attached tooling. We do have the hexapod mounted sideways (so that Y+ is towards the sky and the cables are coming out the top of the base), with our tooling attached (approximately 250300 grams). And we are of course operating below the minimum repeatability of the axes according to the provided testing documentation (2.3 and 2.9 micrometers for the X and Y axes, respectively). My initial guess about this behavior is that we are commanding the hexapod to move to a position that is between two steps in the strut motors, and it's changing constantly back and forth between steps. Another colleague of mine suggested possibly a PID controller calibration issue. Do you have any thoughts about what could cause this behavior and how we could mitigate it? Thanks, Thomas Grainge Photonics Lab Technician
+
+================================================================================
+
+--- Case 144 ---
+Created: 2025-04-08 16:22:54+00:00
+Customer: Clemson University
+Status: Resolved
+Summary: Tuning Issue resulting in infinite wait to get to position
+Description: Our A3200 system seems to have issues when given move commands. It appears as though the stage makes an X move, overshoots without correcting, and then when making a Y move gets stuck waiting for it to get to the proper X and Y coordinate. We did pay to have a remote tuning session (Invoice number below), but have continued to have issues with the system
+
+================================================================================
+
+--- Case 145 ---
+Created: 2025-03-18 12:16:01+00:00
+Customer: Johns Hopkins University
+Status: Resolved
+Summary: Position Error Fault Common Occurrence
+Description: Hi, Our Aerotech system has lately been throwing more and more "Position Error Fault" exceptions on the Xaxis. Sometimes it happens randomly, but other times it is with small xaxis movements at high velocity. Any ideas why this would be happening seemingly randomly? Order: 624004 Thanks, Daniel Ames Johns Hopkins University
+
+================================================================================
+
+--- Case 146 ---
+Created: 2025-01-08 11:59:34+00:00
+Customer: integer
+Status: Resolved
+Summary: position error fault
+Description: We have an incombenient with two of our CNCs on the X axes, both CNCs are falulated in different positions and the error that appears is, position error
+
+================================================================================
+
+--- Case 147 ---
+Created: 2025-04-16 15:02:47+00:00
+Customer: Ontario Power Generation
+Status: Resolved
+Summary: Automation1 iXL5e Drive/Motor Tuning Troubleshooting
+Description: Hello, We have been trying to tune our motors (attached specification(s): Wittestein RadHardMRSR064AMN50014448000 (004).pdf and Empire Magnetics MotorResolverWiringDiagram_OPGRevA.pdf). We are having difficulties tuning either motor with effectively “no load” (picture of setup: 20250416 Benchtest Setup.png). When we utilize the AutoTune utility, the parameters that are output by the process causes a severe oscillation and extremely audible noise in our setup. Default factory drive settings result in no oscillations or audible noise, but the motion runs in fits and starts and is overall not consistent or smooth enough for our application. “Classic” closedloop tuning would report a “quality level” of around 90%, but as soon as these parameters were accepted, saved, and the controller restarted, upon initial commutation, the system would destabilize as per above. Our system developer seems to think that the system is responding negatively to the presence of the two shaft couplers we have in the drivetrain. The couplers are zerobacklash, but allow for radial misalignment via damped spring/elastomer wafers. The presumption being that the harmonics of the system results in poor feedback for the automatic tuning utility to provide a good result. As an example (202504-16 Benchtest Parameter Example.png), the "Old Value" was the default motor parameters tuning. The classic tuning made perfect motion on the drive. As soon as we hit "Apply Changes" the drive immediately exhibits the severe behaviour mentioned above, even without resetting the controller. After a reset, the drive fails to commutate and the parameters need to be reset to factory default. Additional load on the drivetrain makes any automatic tuning method within Aerotech’s software fail. Given the information above, can we get some support on how best to tune our system?
+
+================================================================================
+
+--- Case 148 ---
+Created: 2024-09-16 20:13:14+00:00
+Customer: Amada Weld Tech
+Status: Resolved
+Summary: Remote tuning for stages
+Description: The stages bought with SO#639715, need to be tuned. After attempting easytune they still constantly emit a high pitched noise. Please send a quote and if possible can someone log on September 17 to address this issue?
+
+================================================================================
+
+--- Case 149 ---
+Created: 2025-01-17 02:29:48+00:00
+Customer: Skyworks Global Pte Ltd
+Status: Resolved
+Summary: Skyworks (Singapore) \ Enquiry: "Position Error Fault" at MZ Axis Motor interface
+Description: Skyworks reported “position error fault” in one of the MZ Axis motor interface on Jan 17 2025. When trying to enable the MZ- encountered “position fault error” After checked the encoder feedback in Digital scope, both clockwise and anti clockwise can able to see the feedback in the image provided. Already tried to adjust the threshold and match MZ and MZZ motor position value closer to each other, but still getting the position fault error after enable motor. Skyworks is manually adjusting the position error threshold to match both both motor positions to check on the error. Currently requesting for Remote support to support troubleshooting when available.
+
+================================================================================
+
+--- Case 150 ---
+Created: 2025-04-09 12:28:15+00:00
+Customer: EUV Tech
+Status: Resolved
+Summary: 3 axis stage repeatedly becoming unstable in X-axis regardless of tuning
+Description: Hello, We are having an issue with a 3axis stage that becomes unstable over time in just the Xaxis. Things we have tried to resolv this: Leveled our chamber to make sure the stage was not fighting some gravitational pull. Checked our wiring bundle to make sure excess force is not being distributed onto the stage. * Tuned the stage many times using easytune. What happens is I will use easytune to stabilize the stage but over time the stability deteriorated. This has been documented thoroughly and i would love to share my data over a call. Moving forward i will need assistance in tuning to hopefully resolve this issue. Best, John Tobie EUV Tech
+
+================================================================================
+
+--- Case 151 ---
+Created: 2025-03-06 09:07:46+00:00
+Customer: Union Machine Company
+Status: Resolved
+Summary: Position Error Fault - Tilt B Axis
+Description: We have an AGR200 unit which was recently serviced, RMA GTSE41539, and which is throwing position error faults when moving to location. We have tried cleaning the scale although we are uncertain as to which surface exactly the sensor reads off of. It helps for sections but then it alarms out again in different sections. The AGR-200 was repaired in Sept 2024.
+
+================================================================================
+
+--- Case 152 ---
+Created: 2025-06-06 09:23:16+00:00
+Customer: IPG Photonics Corp.
+Status: Waiting for customer
+Summary: ADRS100 overcurrent fault
+Description: Hi, Our 4th Axis, the A axis rotary, generates an over current fault and a loud squeal anytime we enable it. Historically we have relied on the recommended values from the Automation 1 calculator for these values. Can you please double check the Aerotech suggested current gains for this rotary. The rotary is an ADRS100 powered by 160VDC and has the following S/N: 48731804. Additionally, this is controlled by an XC4 (MX1 option) with the following S/N: 3851041. I have reduced the servo gains considerably in the attached MCD file to rule out stage tuning and it continues to fault out. Thank you, !image002.png\ thumbnail! Zach Mjones Senior Electrical Engineer PH: 763231-0788 !image001.png\ thumbnail!
+
+================================================================================
+
+--- Case 153 ---
+Created: 2025-06-18 18:53:49+00:00
+Customer: Lockheed Martin
+Status: Waiting for customer
+Summary: Need Assistance tuning stage
+Description: BMS60 stage worked fine prior to wheel being added, but now it immediately over current faults or position error faults at any speed above 1deg/sec. We need this system to run at 1200deg/sec. All attempts of easy tune and feedback tuning have been unsuccessful.
+
+================================================================================
+
+--- Case 154 ---
+Created: 2025-05-12 11:07:31+00:00
+Customer: SunDensity
+Status: Resolved
+Summary: MotorTemperatureFault & OverCurrentFault
+Description: Hello, Our 147033A11X and 147033A11Y are experiencing a MotorTemperatureFault and the 147033A11Y has an OverCurrentFault (when the temperature fault is bypassed for testing) during the Optimization step of Servo EasyTuning. Are there any possible solutions that do not require sending it in for repair? We are going to try lubricating it as there is grinding when the OverCurrentFault occurs Best Regards, \ h1. Brenton Cousins Computer/Software Engineer \ \ Direct: 7163079810 !https://lh5.googleusercontent.com/hyZdbL87ohDyJs96OrK192xWwH2Fa51v93qucEIkZN5zobk5KBiD3hz0JFXD87V77mNYZILHzkkiNjtfcU3iRRow9dtfhwqMpikBwQ4xxd1WryWxN5IU7oBseg8ZAlcCzWlnPHHgokSEKgk0! \ \ Email: brenton@sundensity.us \ \ Addr: 260 East Main St. Suite 2600 Rochester, NY 14604 \ \ www.sundensity.\ https://www.sundensity.net/us \ \ !https://lh3.googleusercontent.com/3uoIIzRlQTsNNjFliA23sKUZBP0sv0sdMgQOj9rJMpB15sUhKOXXPuQ7GhY15SmJe1ItZR6eygRIAGCekfuS6q4bQEDN5ZVWOScznYOTW40nwrZ9OxXgl0qtcP0v8kFC0fWq9PybH8blF9VwNbQ!!https://lh3.googleusercontent.com/9nByfLtfxdIAxcGlLReCGa0JHeQhnj0w69w3ZlusmkwOkyWIiQwwc6gtUosdRfapHeKu4tuObsnGy15e8lVBH5THIg0lU6nymbs7jCQYfl03NEOpTrvaxpOOAoAKDVDg3NZ0zQHBqs6x7aN0CPv0!!https://lh4.googleusercontent.com/ljZGzMuoCUtgpY7NEZELIX1HrXxev6v0deBhbZBvPGhLGIGJ5s2YtDfhZpnkQQjwhyUVvbNkmcIjqtSvI9Rv70wABpx6A68I4LB4TyUfLGscPPDM8C67BlqBDJf3KCTw8kiKFnOIi3FDwU56Xk! \ \ !https://lh3.googleusercontent.com/lTansDruX8AWzQJ5shhftYao0axGP0IW7hBf0CCtuW1ATpMuI4gJXF546Z7G3kTxQLpCv9N0KeCZXcYreIG2AxTka7-EVk56h1Jf0NV9HJPR5RCozwZ0kfVw04zmFBbbMt9jtuAxNTAggJDHnka8! \
+
+================================================================================
+
+--- Case 155 ---
+Created: 2025-06-03 16:35:51+00:00
+Customer: Heraeus Medevio
+Status: Waiting for support
+Summary: Remote tuning session for laser cutting controls
+Description: I need help tuning my X and Y axis on my fiber laser cutter I need help tuning two axis (one rotary and one linear stage).
+
+================================================================================
+
+--- Case 156 ---
+Created: 2025-04-30 13:56:27+00:00
+Customer: UniWest
+Status: Paused
+Summary: Rotary axis tuning with a spring connected load
+Description: I am trying to tune a rotary axis with a spring connected load. About 12 oz with 2” center of mass with another 12 oz mounted on 2 cross mounted spring loaded slides at 4” center of mass. Liles to oscillate at 12 hz. I tried 12 Hz notch filter, no help. Is there a way to tune such a load?
+
+================================================================================
+
+--- Case 157 ---
+Created: 2025-04-08 11:19:23+00:00
+Customer: ATS Automation
+Status: Resolved
+Summary: Low Torque Overcurrent Fault
+Description: Hi there, we’re having an issue where we keep getting overcurrent faults at a much lower torque than expected. We have a 10:1 gear box on motor. The overcurrent limit is set to 10 A (as received from the config file), but the drive is faulting at around 17 Nm. If I’m interpreting correctly - for the BM500, it has a 3.6 Nm stall torque at 12.4 A rms, so I’d think effective stall torque would be 36 Nm, and be able to hit closer to 30 Nm with a 10 A average current limit. Is there any configuration or something I can check to see why this is the case? We must be able to reach at least 22 Nm with this drive train… Thanks, Rebecca
+
+================================================================================
+
+--- Case 158 ---
+Created: 2025-04-29 02:52:53+00:00
+Customer: University of Pittsburgh
+Status: Resolved
+Summary: understanding when servo tuning is needed
+Description: Hello Aerotech support, This question is not so much about a current problem so much as understanding what I think was the resolution of an existing one. See the attached picture for an image of our motor setup. Recently, we did some minor work on this – we temporarily removed but then replaced the torque sensor and manipulandum from the top of the shaft, and moved this entire framework a little along a set of sliders on which it rests. And what I noticed after this work was that the motor was unusually loud and didn’t seem to be functioning quite as well as usual – for example, in the position feedback values I was seeing greater than usual oscillations when the motor was dwelling at a particular position. At this point, I tried running the EasyTune step. The motor was still loud during the tuning, but after that finished, and I saved the parameters, the motor appeared to return to its normal volume and performance. So, following this, I have a two questions: (1) I don’t know if it’s possible to say without seeing this motor in person, but is there any basis to speculate why this incident happened? This would help me predict when such retuning might be needed again, and perhaps prevent the need to retune very often. (2) Did I take all the steps you would usually recommend to resolve this problem? Many thanks in advance for your time\\!
+
+================================================================================
+
+--- Case 159 ---
+Created: 2025-04-02 14:19:16+00:00
+Customer: Innovative Signal Analysis
+Status: Resolved
+Summary: Comparing Soloist Gains to Automation1 Gains for tuning purposes
+Description: I am trying to tune my new Automation1 Controllers with my ADRS100 Stages. I previously had the Soloist Controllers. On the the Soloist models I decreased the Ki and Kp Servo Gains that I got from the EasyTune function and was able to achieve the motion performance I was looking for. Trying to do the same thing for the Automation1 and the values are not matching one for one with the soloist. So I am wondering how the Servo Gain values in Automation1 map to the Servo Gain values for Soloist. Soloist Values: GainAff = 485 GainKi = 20.5 (Lowered from 27.7) GainKp = 1067 (Lowered from 1440) GainKpos = 78.9 Automation1 Values: FeedforwardAdvance = 0.26332998 FeedforwardGainAff = 0.000855 ServoLoopGainK = 0.7852276548260617 ServoLoopGainKip = 36.63091917734416 ServoLoopGainKiv = 73.26183835468832 The Hardware I’m using is as follows: Automation1 Controller: SN: 46917516 Soloist Controller: SN: 33382109 ADRS100 Stage: PN: ADRS100E1M1TT1PL2TAS SN: 25017303
+
+================================================================================
+
